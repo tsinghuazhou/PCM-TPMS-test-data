@@ -1,0 +1,1987 @@
+\begin{thebibliography}{217}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Mehrpooya et~al.(2026)Mehrpooya, Ghafoorian, and
+  Alibeigi]{mehrpooya2026phase}
+Mehdi Mehrpooya, Farzad Ghafoorian, and Mahdi Alibeigi.
+\newblock Phase change material applications as thermal energy storage.
+\newblock In \emph{Application of Phase Change Materials in Energy Storage and
+  Conversion Systems}, pages 371--420. 2026.
+\newblock \doi{10.1016/B978-0-443-34180-9.00010-4}.
+\newblock URL \url{https://doi.org/10.1016/B978-0-443-34180-9.00010-4}.
+
+\bibitem[Tyagi et~al.(2012)Tyagi, Buddhi, Kothari, and Tyagi]{tyagi2012phase}
+V.V. Tyagi, D.~Buddhi, Richa Kothari, and S.K. Tyagi.
+\newblock Phase change material (pcm) based thermal management system for cool
+  energy storage application in building: An experimental study.
+\newblock \emph{Energy and Buildings}, 51:\penalty0 248--254, 2012.
+\newblock \doi{10.1016/j.enbuild.2012.05.023}.
+\newblock URL \url{https://doi.org/10.1016/j.enbuild.2012.05.023}.
+
+\bibitem[McKenna et~al.(2021)McKenna, Turner, and Finn]{mckenna2021thermal}
+P.~McKenna, W.J.N. Turner, and D.P. Finn.
+\newblock Thermal energy storage using phase change material: Analysis of
+  partial tank charging and discharging on system performance in a building
+  cooling application.
+\newblock \emph{Applied Thermal Engineering}, 198:\penalty0 117437, 2021.
+\newblock \doi{10.1016/j.applthermaleng.2021.117437}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2021.117437}.
+
+\bibitem[Sait(2022)]{sait2022solidification}
+Hani~Hussain Sait.
+\newblock Solidification and melting of phase change material in cold thermal
+  storage systems.
+\newblock In \emph{Paraffin - Thermal Energy Storage Applications}. 2022.
+\newblock \doi{10.5772/intechopen.96674}.
+\newblock URL \url{https://doi.org/10.5772/intechopen.96674}.
+
+\bibitem[Belusko et~al.(2018)Belusko, Sheoran, and Bruno]{belusko2018direct}
+Martin Belusko, Shane Sheoran, and Frank Bruno.
+\newblock Direct contact phase change material thermal energy storage.
+\newblock In \emph{High Temperature Thermal Storage Systems Using Phase Change
+  Materials}, pages 7--37. 2018.
+\newblock \doi{10.1016/B978-0-12-805323-2.00002-3}.
+\newblock URL \url{https://doi.org/10.1016/B978-0-12-805323-2.00002-3}.
+
+\bibitem[Bharathiraja et~al.(2024)Bharathiraja, Ramkumar, Selvakumar, and
+  Radhika]{bharathiraja2024thermal}
+R.~Bharathiraja, T.~Ramkumar, M.~Selvakumar, and N.~Radhika.
+\newblock Thermal characteristics enhancement of paraffin wax phase change
+  material ({PCM}) for thermal storage applications.
+\newblock \emph{Renewable Energy}, 222:\penalty0 119986, 2024.
+\newblock \doi{10.1016/j.renene.2024.119986}.
+\newblock URL \url{https://doi.org/10.1016/j.renene.2024.119986}.
+
+\bibitem[Bharathiraja et~al.(2023)Bharathiraja, Ramkumar, and
+  Selvakumar]{bharathiraja2023studies}
+R.~Bharathiraja, T.~Ramkumar, and M.~Selvakumar.
+\newblock Studies on the thermal characteristics of nano-enhanced paraffin wax
+  phase change material ({PCM}) for thermal storage applications.
+\newblock \emph{Journal of Energy Storage}, 73:\penalty0 109216, 2023.
+\newblock \doi{10.1016/j.est.2023.109216}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2023.109216}.
+
+\bibitem[Lin and Al-Kayiem(2014)]{lin2014thermal}
+Saw~Chun Lin and Hussain~H. Al-Kayiem.
+\newblock Thermal reliability of paraffin wax phase change material for thermal
+  energy storage.
+\newblock \emph{Applied Mechanics and Materials}, 699:\penalty0 263--268, 2014.
+\newblock \doi{10.4028/www.scientific.net/AMM.699.263}.
+\newblock URL \url{https://doi.org/10.4028/www.scientific.net/AMM.699.263}.
+
+\bibitem[Abhat(1983)]{abhat1983low}
+A.~Abhat.
+\newblock Low temperature latent heat thermal energy storage: Heat storage
+  materials.
+\newblock \emph{Solar Energy}, 30\penalty0 (4):\penalty0 313--332, 1983.
+\newblock \doi{10.1016/0038-092x(83)90186-x}.
+\newblock URL \url{https://doi.org/10.1016/0038-092x(83)90186-x}.
+
+\bibitem[Veerakumar and Sreekumar(2016)]{veerakumar2016phase}
+C.~Veerakumar and A.~Sreekumar.
+\newblock Phase change material based cold thermal energy storage: Materials,
+  techniques and applications -- a review.
+\newblock \emph{International Journal of Refrigeration}, 67:\penalty0 271--289,
+  2016.
+\newblock \doi{10.1016/j.ijrefrig.2015.12.005}.
+\newblock URL \url{https://doi.org/10.1016/j.ijrefrig.2015.12.005}.
+
+\bibitem[Lilley et~al.(2020)Lilley, Lau, Dames, Kaur, and
+  Prasher]{lilley2020impact}
+Drew Lilley, Jonathan Lau, Chris Dames, Sumanjeet Kaur, and Ravi Prasher.
+\newblock Impact of size and thermal gradient on supercooling of phase change
+  materials for thermal energy storage.
+\newblock \emph{arXiv preprint arXiv:2010.11298}, 2020.
+\newblock URL \url{https://arxiv.org/abs/2010.11298}.
+
+\bibitem[Sciacovelli et~al.(2012)Sciacovelli, Colella, and
+  Verda]{sciacovelli2012melting}
+Adriano Sciacovelli, Francesco Colella, and Vittorio Verda.
+\newblock Melting of {PCM} in a thermal energy storage unit: Numerical
+  investigation and effect of nanoparticle enhancement.
+\newblock \emph{International Journal of Energy Research}, 37\penalty0
+  (13):\penalty0 1610--1623, 2012.
+\newblock \doi{10.1002/er.2974}.
+\newblock URL \url{https://doi.org/10.1002/er.2974}.
+
+\bibitem[Amin et~al.(2014)Amin, Bruno, and Belusko]{amin2014effective}
+N.A.M. Amin, F.~Bruno, and M.~Belusko.
+\newblock Effective thermal conductivity for melting in {PCM} encapsulated in a
+  sphere.
+\newblock \emph{Applied Energy}, 122:\penalty0 280--287, 2014.
+\newblock \doi{10.1016/j.apenergy.2014.01.073}.
+\newblock URL \url{https://doi.org/10.1016/j.apenergy.2014.01.073}.
+
+\bibitem[Ghalambaz and Zhang(2020)]{ghalambaz2020conjugate}
+Mohammad Ghalambaz and Jun Zhang.
+\newblock Conjugate solid-liquid phase change heat transfer in heatsink filled
+  with phase change material-metal foam.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 146:\penalty0
+  118832, 2020.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2019.118832}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2019.118832}.
+
+\bibitem[Parida et~al.(2020)Parida, Bhattacharya, and Rath]{parida2020effect}
+Arjun Parida, Anirban Bhattacharya, and Prasenjit Rath.
+\newblock Effect of convection on melting characteristics of phase change
+  material-metal foam composite thermal energy storage system.
+\newblock \emph{Journal of Energy Storage}, 32:\penalty0 101804, 2020.
+\newblock \doi{10.1016/j.est.2020.101804}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2020.101804}.
+
+\bibitem[Liu et~al.(2024)Liu, Xiao, and Nie]{liu2024pore}
+Jiangwei Liu, Yuhe Xiao, and Changda Nie.
+\newblock Pore-scale study of melting characteristic of phase change material
+  embedded with novel open-celled metal foam.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 228:\penalty0
+  125634, 2024.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2024.125634}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2024.125634}.
+
+\bibitem[Patel and Rathod(2018)]{patel2018thermal}
+Jay~R. Patel and Manish~K. Rathod.
+\newblock Thermal performance enhancement of melting and solidification process
+  of phase-change material in triplex tube heat exchanger using longitudinal
+  fins.
+\newblock \emph{Heat Transfer---Asian Research}, 48\penalty0 (2):\penalty0
+  483--501, 2018.
+\newblock \doi{10.1002/htj.21372}.
+\newblock URL \url{https://doi.org/10.1002/htj.21372}.
+
+\bibitem[Temel and Kilinc(2023)]{temel2023experimental}
+Umit~Nazli Temel and Ferhat Kilinc.
+\newblock Experimental investigation of variable fin length on melting
+  performance in a rectangular enclosure containing phase change material.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  142:\penalty0 106658, 2023.
+\newblock \doi{10.1016/j.icheatmasstransfer.2023.106658}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2023.106658}.
+
+\bibitem[Altinok et~al.(2026)Altinok, Kur\c{s}un, and
+  Balta]{altinok2026asymmetric}
+Or\c{c}un Altinok, Burak Kur\c{s}un, and Mehmet Balta.
+\newblock Asymmetric fin distributions for enhanced melting, solidification,
+  and energy storage efficiency in a double-tube phase change material unit.
+\newblock \emph{Journal of Energy Storage}, 142:\penalty0 119534, 2026.
+\newblock \doi{10.1016/j.est.2025.119534}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2025.119534}.
+
+\bibitem[Uniyal et~al.(2024)Uniyal, Kumar, and Prajapati]{uniyal2024melting}
+Arun Uniyal, Deepak Kumar, and Yogesh~K. Prajapati.
+\newblock Melting and heat transfer characteristics of phase change material: A
+  comparative study on wire mesh finned structure and other fin configurations.
+\newblock \emph{ASME Journal of Heat and Mass Transfer}, 146\penalty0
+  (6):\penalty0 062403, 2024.
+\newblock \doi{10.1115/1.4064732}.
+\newblock URL \url{https://doi.org/10.1115/1.4064732}.
+
+\bibitem[Murugan et~al.(2017)Murugan, Kumar, Kumaresan, Meikandan, Mohan, and
+  Velraj]{murugan2017thermal}
+P~Murugan, P~Ganesh Kumar, V~Kumaresan, M~Meikandan, K~Malar Mohan, and
+  R~Velraj.
+\newblock Thermal energy storage behaviour of nanoparticle enhanced {PCM}
+  during freezing and melting.
+\newblock \emph{Phase Transitions}, 91\penalty0 (3):\penalty0 254--270, 2017.
+\newblock \doi{10.1080/01411594.2017.1372760}.
+\newblock URL \url{https://doi.org/10.1080/01411594.2017.1372760}.
+
+\bibitem[Bashirpour-Bonab(2021)]{bashirpour2021investigation}
+Hadi Bashirpour-Bonab.
+\newblock Investigation and optimization of {PCM} melting with nanoparticle in
+  a multi-tube thermal energy storage system.
+\newblock \emph{Case Studies in Thermal Engineering}, 28:\penalty0 101643,
+  2021.
+\newblock \doi{10.1016/j.csite.2021.101643}.
+\newblock URL \url{https://doi.org/10.1016/j.csite.2021.101643}.
+
+\bibitem[Bora and Joshi(2026)]{bora2026enhanced}
+Neetu Bora and Deepika~P. Joshi.
+\newblock Enhanced thermal conductivity and stability of paraffin {PCM} via
+  {SiO2@TiO2} core--shell nanoparticle impregnation.
+\newblock \emph{Journal of Materials Engineering and Performance}, 2026.
+\newblock \doi{10.1007/s11665-026-13717-1}.
+\newblock URL \url{https://doi.org/10.1007/s11665-026-13717-1}.
+
+\bibitem[Solomon and Oztekin(2016)]{solomon2016exergy}
+Laura Solomon and Alparslan Oztekin.
+\newblock Exergy analysis of cascaded encapsulated phase change
+  material---high-temperature thermal energy storage systems.
+\newblock \emph{Journal of Energy Storage}, 8:\penalty0 12--26, 2016.
+\newblock \doi{10.1016/j.est.2016.09.004}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2016.09.004}.
+
+\bibitem[Al-Kayiem and Alhamdo(2012)]{alkayiem2012thermal}
+Hussain~H. Al-Kayiem and Mohammed~H. Alhamdo.
+\newblock Thermal behavior of encapsulated phase change material energy
+  storage.
+\newblock \emph{Journal of Renewable and Sustainable Energy}, 4\penalty0 (1),
+  2012.
+\newblock \doi{10.1063/1.3683532}.
+\newblock URL \url{https://doi.org/10.1063/1.3683532}.
+
+\bibitem[Sulzgruber et~al.(2021)Sulzgruber, Unterlass, Cavalli, and
+  Walter]{sulzgruber2021micro}
+Verena Sulzgruber, Miriam Unterlass, Tobia Cavalli, and Heimo Walter.
+\newblock Micro encapsulated phase change material for the application in
+  thermal energy storage.
+\newblock \emph{Journal of Energy Resources Technology}, 144\penalty0 (5),
+  2021.
+\newblock \doi{10.1115/1.4051734}.
+\newblock URL \url{https://doi.org/10.1115/1.4051734}.
+
+\bibitem[Sari and Karaipekli(2007)]{sari2007thermal}
+Ahmet Sari and Ali Karaipekli.
+\newblock Thermal conductivity and latent heat thermal energy storage
+  characteristics of paraffin/expanded graphite composite as phase change
+  material.
+\newblock \emph{Applied Thermal Engineering}, 27\penalty0 (8-9):\penalty0
+  1271--1277, 2007.
+\newblock \doi{10.1016/j.applthermaleng.2006.11.004}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2006.11.004}.
+
+\bibitem[Li(2013)]{li2013nano}
+Min Li.
+\newblock A nano-graphite/paraffin phase change material with high thermal
+  conductivity.
+\newblock \emph{Applied Energy}, 106:\penalty0 25--30, 2013.
+\newblock \doi{10.1016/j.apenergy.2013.01.031}.
+\newblock URL \url{https://doi.org/10.1016/j.apenergy.2013.01.031}.
+
+\bibitem[Xia et~al.(2010)Xia, Zhang, and Wang]{xia2010preparation}
+L.~Xia, P.~Zhang, and R.Z. Wang.
+\newblock Preparation and thermal characterization of expanded
+  graphite/paraffin composite phase change material.
+\newblock \emph{Carbon}, 48\penalty0 (9):\penalty0 2538--2548, 2010.
+\newblock \doi{10.1016/j.carbon.2010.03.030}.
+\newblock URL \url{https://doi.org/10.1016/j.carbon.2010.03.030}.
+
+\bibitem[Zhang and Fang(2006)]{zhang2006study}
+Zhengguo Zhang and Xiaoming Fang.
+\newblock Study on paraffin/expanded graphite composite phase change thermal
+  energy storage material.
+\newblock \emph{Energy Conversion and Management}, 47\penalty0 (3):\penalty0
+  303--310, 2006.
+\newblock \doi{10.1016/j.enconman.2005.03.004}.
+\newblock URL \url{https://doi.org/10.1016/j.enconman.2005.03.004}.
+
+\bibitem[Zhai et~al.(2017)Zhai, Li, Wu, and Wang]{zhai2017preparation}
+Tianyao Zhai, Tingxian Li, Si~Wu, and Ruzhu Wang.
+\newblock Preparation and thermal performance of form-stable expanded
+  graphite/stearic acid composite phase change materials with high thermal
+  conductivity.
+\newblock \emph{Chinese Science Bulletin}, 63\penalty0 (7):\penalty0 674--683,
+  2017.
+\newblock \doi{10.1360/n972017-00831}.
+\newblock URL \url{https://doi.org/10.1360/n972017-00831}.
+
+\bibitem[Zuo et~al.(2020)Zuo, Zhao, Li, Hu, Yang, and Chen]{zuo2020enhanced}
+Xiaochao Zuo, Xiaoguang Zhao, Jianwen Li, Yuqi Hu, Huaming Yang, and Deliang
+  Chen.
+\newblock Enhanced thermal conductivity of form-stable composite phase-change
+  materials with graphite hybridizing expanded perlite/paraffin.
+\newblock \emph{Solar Energy}, 209:\penalty0 85--95, 2020.
+\newblock \doi{10.1016/j.solener.2020.08.082}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2020.08.082}.
+
+\bibitem[G{\"u}ler et~al.(2026)G{\"u}ler, Kocaman, Sar{\i}, Erol, and {\c
+  C}uvale{\i}]{guler2026engineered}
+Onur G{\"u}ler, M{\"u}cahit Kocaman, Ahmet Sar{\i}, Tu{\u g}cenur~Bayraktar
+  Erol, and Hamdullah {\c C}uvale{\i}.
+\newblock Engineered expanded graphite/paraffin wax shape-stable phase change
+  composite coated by copper and silver with outstanding latent heat storage
+  capacity and thermal conductivity.
+\newblock \emph{Applied Thermal Engineering}, 298:\penalty0 131188, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2026.131188}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2026.131188}.
+
+\bibitem[Zhang et~al.(2025{\natexlab{a}})Zhang, Huo, Yuan, Zheng, and
+  Guo]{zhang2025sulfur}
+Xinyi Zhang, Jinghao Huo, Xiaoyan Yuan, Min Zheng, and Shouwu Guo.
+\newblock Sulfur-free expanded graphite/paraffin composite phase change
+  material with high thermal conductivity for lithium-ion battery thermal
+  management.
+\newblock \emph{Journal of Thermal Science}, 34\penalty0 (4):\penalty0
+  1287--1300, 2025{\natexlab{a}}.
+\newblock \doi{10.1007/s11630-025-2140-3}.
+\newblock URL \url{https://doi.org/10.1007/s11630-025-2140-3}.
+
+\bibitem[Sar{\i}(2004)]{sari2004form}
+Ahmet Sar{\i}.
+\newblock Form-stable paraffin/high density polyethylene composites as
+  solid-liquid phase change material for thermal energy storage: Preparation
+  and thermal properties.
+\newblock \emph{Energy Conversion and Management}, 45\penalty0
+  (13-14):\penalty0 2033--2042, 2004.
+\newblock \doi{10.1016/j.enconman.2003.10.022}.
+\newblock URL \url{https://doi.org/10.1016/j.enconman.2003.10.022}.
+
+\bibitem[Jung and Torquato(2006)]{jung2006fluid}
+Y.~Jung and S.~Torquato.
+\newblock Fluid permeabilities of triply periodic minimal surfaces.
+\newblock \emph{arXiv preprint cond-mat/0603394}, 2006.
+\newblock URL \url{https://arxiv.org/abs/cond-mat/0603394}.
+
+\bibitem[Himmelmann et~al.(2026)Himmelmann, Pedersen, Klatt,
+  Sch{\"o}nh{\"o}fer, Evans, and Schr{\"o}der-Turk]{himmelmann2026amorphous}
+M.~Himmelmann, M.~C. Pedersen, M.~A. Klatt, P.~W.~A. Sch{\"o}nh{\"o}fer, M.~E.
+  Evans, and G.~E. Schr{\"o}der-Turk.
+\newblock Amorphous bicontinuous minimal surface models and the superior
+  {G}aussian curvature uniformity of diamond, primitive and gyroid surfaces.
+\newblock \emph{Proceedings of the Royal Society A}, 482\penalty0 (2329), 2026.
+\newblock \doi{10.1098/rspa.2025.0275}.
+\newblock URL \url{https://doi.org/10.1098/rspa.2025.0275}.
+
+\bibitem[Tang et~al.(2023{\natexlab{a}})Tang, Zhou, Zeng, Yan, Jiang, Yang, Li,
+  Li, Fu, Huang, and Zhao]{tang2023analysis}
+Wei Tang, Hua Zhou, Yun Zeng, Minglei Yan, Chenglu Jiang, Ping Yang, Qing Li,
+  Zhida Li, Junheng Fu, Yi~Huang, and Yang Zhao.
+\newblock Analysis on the convective heat transfer process and performance
+  evaluation of triply periodic minimal surface ({TPMS}) based on diamond,
+  gyroid and {Iwp}.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 201:\penalty0
+  123642, 2023{\natexlab{a}}.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2022.123642}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2022.123642}.
+
+\bibitem[Kaur and Singh(2021)]{kaur2021flow}
+Inderjot Kaur and Prashant Singh.
+\newblock Flow and thermal transport characteristics of triply-periodic minimal
+  surface ({TPMS})-based gyroid and {Schwarz-P} cellular materials.
+\newblock \emph{Numerical Heat Transfer, Part A: Applications}, 79\penalty0
+  (8):\penalty0 553--569, 2021.
+\newblock \doi{10.1080/10407782.2021.1872260}.
+\newblock URL \url{https://doi.org/10.1080/10407782.2021.1872260}.
+
+\bibitem[Barakat and Sun(2024)]{barakat2024controlling}
+Abdallah Barakat and BeiBei Sun.
+\newblock Controlling {TPMS} lattice deformation for enhanced convective heat
+  transfer: A comparative study of diamond and gyroid structures.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  154:\penalty0 107443, 2024.
+\newblock \doi{10.1016/j.icheatmasstransfer.2024.107443}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2024.107443}.
+
+\bibitem[Tang et~al.(2023{\natexlab{b}})Tang, Zou, Guo, Li, Zeng, Wang, Yan,
+  Hu, Zuo, Zeng, Sun, and Zhao]{tang2023experimental}
+Wei Tang, Changcheng Zou, Juntao Guo, Chengpeng Li, Linwei Zeng, Xiongsheng
+  Wang, Minglei Yan, Hengyuan Hu, Qin Zuo, Yun Zeng, Licheng Sun, and Yang
+  Zhao.
+\newblock Experimental investigation on the convective heat transfer
+  performance of five triply periodic minimal surfaces ({Tpms}): Gyroid,
+  diamond, iwp, primitive, and fischer-koch-s.
+\newblock \emph{SSRN Electronic Journal}, 2023{\natexlab{b}}.
+\newblock \doi{10.2139/ssrn.4648952}.
+\newblock URL \url{https://doi.org/10.2139/ssrn.4648952}.
+
+\bibitem[Renon and Jeanningros(2025)]{renon2025numerical}
+Cl{\'e}ment Renon and Xavier Jeanningros.
+\newblock A numerical investigation of heat transfer and pressure drop
+  correlations in gyroid and diamond {TPMS}-based heat exchanger channels.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 239:\penalty0
+  126599, 2025.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2024.126599}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2024.126599}.
+
+\bibitem[Chen et~al.(2026)Chen, Zhao, Ma, and Zhang]{chen2026comprehensive}
+Yu~Chen, Qinghai Zhao, Yunyi Ma, and Zhenwei Zhang.
+\newblock Comprehensive analysis of flow and heat transfer performance in
+  hybrid triply periodic minimal surface ({TPMS}) heat sinks based on gyroid
+  and primitive.
+\newblock \emph{Applied Thermal Engineering}, 304:\penalty0 132620, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2026.132620}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2026.132620}.
+
+\bibitem[Catchpole-Smith et~al.(2019)Catchpole-Smith, S{\'e}lo, Davis,
+  Ashcroft, Tuck, and Clare]{catchpole2019thermal}
+S.~Catchpole-Smith, R.R.J. S{\'e}lo, A.W. Davis, I.A. Ashcroft, C.J. Tuck, and
+  A.~Clare.
+\newblock Thermal conductivity of {TPMS} lattice structures manufactured via
+  laser powder bed fusion.
+\newblock \emph{Additive Manufacturing}, 30:\penalty0 100846, 2019.
+\newblock \doi{10.1016/j.addma.2019.100846}.
+\newblock URL \url{https://doi.org/10.1016/j.addma.2019.100846}.
+
+\bibitem[Chouhan et~al.(2025)Chouhan, Namdeo, Guner, Essa, and
+  Bidare]{chouhan2025heat}
+Ganesh Chouhan, Avinash~Kumar Namdeo, Ahmet Guner, Khamis Essa, and Prveen
+  Bidare.
+\newblock Heat transfer performance of compact {TPMS} lattice heat sinks via
+  metal additive manufacturing.
+\newblock \emph{Progress in Additive Manufacturing}, 11\penalty0 (1):\penalty0
+  593--610, 2025.
+\newblock \doi{10.1007/s40964-025-01366-0}.
+\newblock URL \url{https://doi.org/10.1007/s40964-025-01366-0}.
+
+\bibitem[Fouad and Attallah(2026)]{fouad2026additive}
+Dina Fouad and Moataz~M. Attallah.
+\newblock Additive manufacturing of metallic lattice structures.
+\newblock In \emph{Innovations in Advanced Materials and Manufacturing}, pages
+  299--355. 2026.
+\newblock \doi{10.1016/b978-0-443-28820-3.00019-6}.
+\newblock URL \url{https://doi.org/10.1016/b978-0-443-28820-3.00019-6}.
+
+\bibitem[Noronha et~al.(2025)Noronha, Dash, Downing, Khorasani, Leary, Brandt,
+  and Qian]{noronha2025thin}
+Jordan Noronha, Jason Dash, David Downing, Mahyar Khorasani, Martin Leary,
+  Milan Brandt, and Ma~Qian.
+\newblock Thin-plate lattices in {AlSi10Mg} alloy via laser additive
+  manufacturing: Highly enhanced specific strength and recovery.
+\newblock \emph{Additive Manufacturing}, 99:\penalty0 104664, 2025.
+\newblock \doi{10.1016/j.addma.2025.104664}.
+\newblock URL \url{https://doi.org/10.1016/j.addma.2025.104664}.
+
+\bibitem[Piacquadio et~al.(2022)Piacquadio, Schirp-Schoenen, Mameli,
+  Filippeschi, and Schr{\"o}der]{piacquadio2022experimental}
+Stefano Piacquadio, Maximilian Schirp-Schoenen, Mauro Mameli, Sauro
+  Filippeschi, and Kai-Uwe Schr{\"o}der.
+\newblock Experimental analysis of the thermal energy storage potential of a
+  phase change material embedded in additively manufactured lattice structures.
+\newblock \emph{Applied Thermal Engineering}, 216:\penalty0 119091, 2022.
+\newblock \doi{10.1016/j.applthermaleng.2022.119091}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2022.119091}.
+
+\bibitem[Allen et~al.(2015{\natexlab{a}})Allen, Bergman, Faghri, and
+  Sharifi]{allen2015robust}
+Michael~J. Allen, Theodore~L. Bergman, Amir Faghri, and Nourouddin Sharifi.
+\newblock Robust heat transfer enhancement during melting and solidification of
+  a phase change material using a combined heat pipe-metal foam or foil
+  configuration.
+\newblock \emph{Journal of Heat Transfer}, 137\penalty0 (10):\penalty0 102301,
+  2015{\natexlab{a}}.
+\newblock \doi{10.1115/1.4029970}.
+\newblock URL \url{https://doi.org/10.1115/1.4029970}.
+
+\bibitem[Yu et~al.(2022)Yu, Tao, He, and Lv]{yu2022temperature}
+X.K. Yu, Y.B. Tao, Y.~He, and Z.C. Lv.
+\newblock Temperature control performance of high thermal conductivity metal
+  foam/paraffin composite phase change material: An experimental study.
+\newblock \emph{Journal of Energy Storage}, 46:\penalty0 103930, 2022.
+\newblock \doi{10.1016/j.est.2021.103930}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2021.103930}.
+
+\bibitem[Duan and Li(2021)]{duan2021transient}
+Juan Duan and Fan Li.
+\newblock Transient heat transfer analysis of phase change material melting in
+  metal foam by experimental study and artificial neural network.
+\newblock \emph{Journal of Energy Storage}, 33:\penalty0 102160, 2021.
+\newblock \doi{10.1016/j.est.2020.102160}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2020.102160}.
+
+\bibitem[Allen et~al.(2015{\natexlab{b}})Allen, Sharifi, Faghri, and
+  Bergman]{allen2015effect}
+Michael~J. Allen, Nourouddin Sharifi, Amir Faghri, and Theodore~L. Bergman.
+\newblock Effect of inclination angle during melting and solidification of a
+  phase change material using a combined heat pipe-metal foam or foil
+  configuration.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 80:\penalty0
+  767--780, 2015{\natexlab{b}}.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2014.09.071}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2014.09.071}.
+
+\bibitem[Song(2015)]{song2015thermal}
+Xiange Song.
+\newblock Thermal analysis of metal foam matrix composite phase change
+  material.
+\newblock \emph{Journal of Thermal Science}, 24\penalty0 (4):\penalty0
+  386--390, 2015.
+\newblock \doi{10.1007/s11630-015-0799-6}.
+\newblock URL \url{https://doi.org/10.1007/s11630-015-0799-6}.
+
+\bibitem[Zhu et~al.(2016)Zhu, Zhang, and Gong]{zhu2016numerical}
+Feng Zhu, Chuan Zhang, and Xiaolu Gong.
+\newblock Numerical analysis and comparison of the thermal performance
+  enhancement methods for metal foam/phase change material composite.
+\newblock \emph{Applied Thermal Engineering}, 109:\penalty0 373--383, 2016.
+\newblock \doi{10.1016/j.applthermaleng.2016.08.088}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2016.08.088}.
+
+\bibitem[Yao and Wu(2019)]{yao2019numerical}
+Yuanpeng Yao and Huiying Wu.
+\newblock Numerical simulation of melting in metal foam/paraffin composite
+  phase change material using a physically more reasonable macroscale model.
+\newblock 2019.
+\newblock \doi{10.1115/HT2019-3642}.
+\newblock URL \url{https://doi.org/10.1115/HT2019-3642}.
+
+\bibitem[Liu et~al.(2022)Liu, Lin, and Zhuang]{liu2022piv}
+Aihua Liu, Junjiang Lin, and Yijie Zhuang.
+\newblock {PIV} experimental study on the phase change behavior of phase change
+  material with partial filling of metal foam inside a cavity during melting.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 187:\penalty0
+  122567, 2022.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2022.122567}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2022.122567}.
+
+\bibitem[Shen et~al.(2025)Shen, Zhu, Li, and Zhou]{shen2025experimental}
+Yixuan Shen, Jiaqi Zhu, Yufeng Li, and Yong Zhou.
+\newblock Experimental study on melting of graded metal foam enhanced phase
+  change material under nonuniform heat flux.
+\newblock \emph{Applied Thermal Engineering}, 269:\penalty0 125910, 2025.
+\newblock \doi{10.1016/j.applthermaleng.2025.125910}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.125910}.
+
+\bibitem[Al-Abidi et~al.(2013)Al-Abidi, Mat, Sopian, Sulaiman, and
+  Mohammad]{alabidi2013internal}
+Abduljalil~A. Al-Abidi, Sohif Mat, K.~Sopian, M.Y. Sulaiman, and
+  Abdulrahman~Th. Mohammad.
+\newblock Internal and external fin heat transfer enhancement technique for
+  latent heat thermal energy storage in triplex tube heat exchangers.
+\newblock \emph{Applied Thermal Engineering}, 53\penalty0 (1):\penalty0
+  147--156, 2013.
+\newblock \doi{10.1016/j.applthermaleng.2013.01.011}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2013.01.011}.
+
+\bibitem[Sharma et~al.(2022{\natexlab{a}})Sharma, Saxena, and
+  Sahu]{sharma2022effect}
+Akhalesh Sharma, Vivek Saxena, and Santosh~K. Sahu.
+\newblock Effect of fin shape on constrained melting heat transfer of phase
+  change material in a spherical capsule: A numerical study.
+\newblock 2022{\natexlab{a}}.
+\newblock \doi{10.1115/POWER2022-86314}.
+\newblock URL \url{https://doi.org/10.1115/POWER2022-86314}.
+
+\bibitem[Abdullhussein and Mussa(2025)]{abdullhussein2025review}
+Hussein~A. Abdullhussein and Munther Mussa.
+\newblock A review of fin geometry and design for performance enhancement in
+  latent heat thermal energy storage systems.
+\newblock \emph{Heat Transfer}, 55\penalty0 (1):\penalty0 290--313, 2025.
+\newblock \doi{10.1002/htj.70076}.
+\newblock URL \url{https://doi.org/10.1002/htj.70076}.
+
+\bibitem[Srivastava and Sahoo(2026)]{srivastava2026advanced}
+Utkarsh Srivastava and Rashmi~Rekha Sahoo.
+\newblock Advanced fin designs for enhancement in thermal management of
+  eutectic phase change materials in a latent heat thermal energy storage
+  system.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  170:\penalty0 109932, 2026.
+\newblock \doi{10.1016/j.icheatmasstransfer.2025.109932}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2025.109932}.
+
+\bibitem[Shank and Tiari(2023)]{shank2023review}
+Kyle Shank and Saeed Tiari.
+\newblock A review on active heat transfer enhancement techniques within latent
+  heat thermal energy storage systems.
+\newblock \emph{Energies}, 16\penalty0 (10):\penalty0 4165, 2023.
+\newblock \doi{10.3390/en16104165}.
+\newblock URL \url{https://doi.org/10.3390/en16104165}.
+
+\bibitem[Tahmasbi et~al.(2024)Tahmasbi, Siavashi, Karimi, Tousi, and
+  Keshtkaran]{tahmasbi2024effects}
+Milad Tahmasbi, Majid Siavashi, Ali~Reza Karimi, Reza Tousi, and Amir~Hasan
+  Keshtkaran.
+\newblock The effects of fins number, metal foam, and helical coil on the
+  thermal storage enhancement of the phase change material: An experimental
+  study.
+\newblock \emph{Applied Thermal Engineering}, 253:\penalty0 123780, 2024.
+\newblock \doi{10.1016/j.applthermaleng.2024.123780}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2024.123780}.
+
+\bibitem[Fatlawi et~al.(2024)]{fatlawi2024numerical}
+A.~Fatlawi et~al.
+\newblock Numerical investigation of phase change material solidification with
+  extended surfaces.
+\newblock In \emph{AIP Conference Proceedings}. AIP Publishing, 2024.
+\newblock \doi{10.1063/5.0236623}.
+\newblock URL \url{https://doi.org/10.1063/5.0236623}.
+
+\bibitem[Rao et~al.(2022)]{rao2022thermal}
+A.~Rao et~al.
+\newblock Thermal performance of latent heat thermal energy storage systems
+  with different fin configurations.
+\newblock \emph{Journal of Ecological Engineering}, 23, 2022.
+\newblock \doi{10.12912/27197050/150357}.
+\newblock URL \url{https://doi.org/10.12912/27197050/150357}.
+
+\bibitem[Elsayed(2025)]{elsayed2025influence}
+Ali~O. Elsayed.
+\newblock Influence of fin geometry on melting performance of phase change
+  materials in a double-pipe heat exchanger.
+\newblock \emph{Energies}, 18\penalty0 (16):\penalty0 4355, 2025.
+\newblock \doi{10.3390/en18164355}.
+\newblock URL \url{https://doi.org/10.3390/en18164355}.
+
+\bibitem[Trp(2005)]{trp2005experimental}
+Anica Trp.
+\newblock An experimental and numerical investigation of heat transfer during
+  technical grade paraffin melting and solidification in a shell-and-tube
+  latent thermal energy storage unit.
+\newblock \emph{Solar Energy}, 79\penalty0 (6):\penalty0 648--660, 2005.
+\newblock \doi{10.1016/j.solener.2005.03.006}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2005.03.006}.
+
+\bibitem[Gasia et~al.(2016)Gasia, Mir{\'o}, de~Gracia, Barreneche, and
+  Cabeza]{gasia2016experimental}
+Jaume Gasia, Laia Mir{\'o}, Alvaro de~Gracia, Camila Barreneche, and Luisa
+  Cabeza.
+\newblock Experimental evaluation of a paraffin as phase change material for
+  thermal energy storage in laboratory equipment and in a shell-and-tube heat
+  exchanger.
+\newblock \emph{Applied Sciences}, 6\penalty0 (4):\penalty0 112, 2016.
+\newblock \doi{10.3390/app6040112}.
+\newblock URL \url{https://doi.org/10.3390/app6040112}.
+
+\bibitem[Ashok~Kumar et~al.(2022)Ashok~Kumar, Arivazhagan, and
+  Muninathan]{ashokkumar2022experimental}
+V.~Ashok~Kumar, S.~Arivazhagan, and K.~Muninathan.
+\newblock Experimental and computational study of melting phase-change material
+  for energy storage in shell and tube heat exchanger.
+\newblock \emph{Journal of Energy Storage}, 50:\penalty0 104614, 2022.
+\newblock \doi{10.1016/j.est.2022.104614}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2022.104614}.
+
+\bibitem[Motahar and Khodabandeh(2016)]{motahar2016experimental}
+Sadegh Motahar and Rahmatollah Khodabandeh.
+\newblock Experimental study on the melting and solidification of a phase
+  change material enhanced by heat pipe.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  73:\penalty0 1--6, 2016.
+\newblock \doi{10.1016/j.icheatmasstransfer.2016.02.012}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2016.02.012}.
+
+\bibitem[Parsa et~al.(2024)Parsa, Kamkari, and
+  Abolghasemi]{parsakamkari2024experimental}
+Nazila Parsa, Babak Kamkari, and Hossein Abolghasemi.
+\newblock Experimental study on the influence of shell geometry and tube
+  eccentricity on phase change material melting in shell and tube heat
+  exchangers.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 227:\penalty0
+  125571, 2024.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2024.125571}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2024.125571}.
+
+\bibitem[Soliman et~al.(2021{\natexlab{a}})Soliman, Zhu, Xu, Dong, and
+  Cheng]{soliman2021melting}
+Ahmed~Saad Soliman, Shuping Zhu, Li~Xu, Junguo Dong, and Ping Cheng.
+\newblock Melting enhancement of nano-phase change material in cylindrical
+  enclosure using convex/concave dimples: Numerical simulation with
+  experimental validation.
+\newblock \emph{Journal of Energy Storage}, 44:\penalty0 103470,
+  2021{\natexlab{a}}.
+\newblock \doi{10.1016/j.est.2021.103470}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2021.103470}.
+
+\bibitem[Soliman et~al.(2021{\natexlab{b}})Soliman, Zhu, Xu, Dong, and
+  Cheng]{soliman2021numerical}
+Ahmed~Saad Soliman, Shuping Zhu, Li~Xu, Junguo Dong, and Ping Cheng.
+\newblock Numerical simulation and experimental verification of constrained
+  melting of phase change material in cylindrical enclosure subjected to a
+  constant heat flux.
+\newblock \emph{Journal of Energy Storage}, 35:\penalty0 102312,
+  2021{\natexlab{b}}.
+\newblock \doi{10.1016/j.est.2021.102312}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2021.102312}.
+
+\bibitem[Lv et~al.(2008)Lv, Peng, and Ling]{lv2008numerical}
+Minhui Lv, Hao Peng, and Xiang Ling.
+\newblock Numerical simulation on melting and solidification of a phase-change
+  material in an aluminum plate-fin thermal storage.
+\newblock pages 479--484, 2008.
+\newblock \doi{10.1115/HT2008-56057}.
+\newblock URL \url{https://doi.org/10.1115/HT2008-56057}.
+
+\bibitem[Kothari et~al.(2018)Kothari, Sahu, and
+  Kundalwal]{kothari2018comprehensive}
+Rohit Kothari, S.~K. Sahu, and S.~I. Kundalwal.
+\newblock Comprehensive analysis of melting and solidification of a phase
+  change material in an annulus.
+\newblock \emph{Heat and Mass Transfer}, 55\penalty0 (3):\penalty0 769--790,
+  2018.
+\newblock \doi{10.1007/s00231-018-2453-9}.
+\newblock URL \url{https://doi.org/10.1007/s00231-018-2453-9}.
+
+\bibitem[Yadav and Shivhare(2020)]{yadav2020nanoparticle}
+Apurv Yadav and Maneesh~Kumar Shivhare.
+\newblock Nanoparticle enhanced {PCM} for solar thermal energy storage.
+\newblock pages 1--3, 2020.
+\newblock \doi{10.1109/aset48392.2020.9118287}.
+\newblock URL \url{https://doi.org/10.1109/aset48392.2020.9118287}.
+
+\bibitem[Rudrabhiramu et~al.(2026)Rudrabhiramu, Kupireddi, and
+  Veeramallu]{rudrabhiramu2026nanoparticle}
+Rokkala Rudrabhiramu, Kiran~Kumar Kupireddi, and Kalyan~Manohar Veeramallu.
+\newblock Nanoparticle - {PCM} melting performance in a finned square enclosure
+  with differentially heated walls: a numerical study.
+\newblock \emph{Journal of Thermal Engineering}, 2026.
+\newblock \doi{10.47481/jten.0071}.
+\newblock URL \url{https://doi.org/10.47481/jten.0071}.
+
+\bibitem[Manoj~Kumar et~al.(2020)Manoj~Kumar, Anandkumar, Sudarvizhi, Mylsamy,
+  and Nithish]{manojkumar2020experimental}
+P.~Manoj~Kumar, R.~Anandkumar, D.~Sudarvizhi, K.~Mylsamy, and M.~Nithish.
+\newblock Experimental and theoretical investigations on thermal conductivity
+  of the paraffin wax using cuo nanoparticles.
+\newblock \emph{Materials Today: Proceedings}, 22:\penalty0 1987--1993, 2020.
+\newblock \doi{10.1016/j.matpr.2020.03.164}.
+\newblock URL \url{https://doi.org/10.1016/j.matpr.2020.03.164}.
+
+\bibitem[Farahani et~al.(2021)Farahani, Farahani, and
+  Hajian]{farahani2021efficacy}
+Amir~Davoodabadi Farahani, Somayeh~Davoodabadi Farahani, and Ebrahim Hajian.
+\newblock Efficacy of magnetic field on nanoparticle-enhanced phase change
+  material melting in a triple tube with porous fin.
+\newblock \emph{Heat Transfer Research}, 52\penalty0 (12):\penalty0 43--65,
+  2021.
+\newblock \doi{10.1615/heattransres.2021039023}.
+\newblock URL \url{https://doi.org/10.1615/heattransres.2021039023}.
+
+\bibitem[Almeshaal and Sakr(2023)]{almeshaal2023numerical}
+Mohammed~A. Almeshaal and R.Y. Sakr.
+\newblock Numerical study of encapsulated nanoparticles enhanced phase change
+  material in thermal energy cool storage packed bed system.
+\newblock \emph{Journal of Energy Storage}, 68:\penalty0 107837, 2023.
+\newblock \doi{10.1016/j.est.2023.107837}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2023.107837}.
+
+\bibitem[Emeema et~al.(2024)Emeema, Murali, Reddi, and
+  Mangesh]{emeema2024investigations}
+J.~Emeema, G.~Murali, B.~Venkateswara Reddi, and V.L. Mangesh.
+\newblock Investigations on paraffin wax/{CQD} composite phase change material
+  - improved latent heat and thermal stability.
+\newblock \emph{Journal of Energy Storage}, 85:\penalty0 111056, 2024.
+\newblock \doi{10.1016/j.est.2024.111056}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2024.111056}.
+
+\bibitem[Sathishkumar et~al.(2023)Sathishkumar, Balasubramanian, and
+  Ramkumar]{sathishkumar2023investigations}
+A.S. Sathishkumar, K.~Arun Balasubramanian, and T.~Ramkumar.
+\newblock Investigations on thermal properties of mwcnt-nbn paraffin wax phase
+  change material for thermal storage applications.
+\newblock \emph{Journal of Thermal Analysis and Calorimetry}, 148\penalty0
+  (9):\penalty0 3263--3271, 2023.
+\newblock \doi{10.1007/s10973-022-11931-2}.
+\newblock URL \url{https://doi.org/10.1007/s10973-022-11931-2}.
+
+\bibitem[George et~al.(2020)George, Pandey, Abd~Rahim, Tyagi, Shahabuddin, and
+  Saidur]{george2020novel}
+Mathew George, A.K. Pandey, Nasrudin Abd~Rahim, V.V. Tyagi, Syed Shahabuddin,
+  and R.~Saidur.
+\newblock A novel polyaniline (pani)/ paraffin wax nano composite phase change
+  material: Superior transition heat storage capacity, thermal conductivity and
+  thermal reliability.
+\newblock \emph{Solar Energy}, 204:\penalty0 448--458, 2020.
+\newblock \doi{10.1016/j.solener.2020.04.087}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2020.04.087}.
+
+\bibitem[Yadav et~al.(2024)Yadav, Samykano, Pandey, Sharma, and
+  Tyagi]{yadav2024experimental}
+Aman Yadav, M.~Samykano, A.K. Pandey, Kamal Sharma, and V.V. Tyagi.
+\newblock Experimental investigation on the thermophysical properties of
+  paraffin wax/wheat husk composite for thermal energy storage.
+\newblock \emph{Materials Letters}, 373:\penalty0 137133, 2024.
+\newblock \doi{10.1016/j.matlet.2024.137133}.
+\newblock URL \url{https://doi.org/10.1016/j.matlet.2024.137133}.
+
+\bibitem[Gogoi et~al.(2024)Gogoi, Das, and Patowari]{gogoi2024thermal}
+Mridupavan Gogoi, Biplab Das, and Promod~Kumar Patowari.
+\newblock Thermal conductivity enhancement of a paraffin wax-based composite
+  phase change material for energy storage.
+\newblock \emph{SSRN Electronic Journal}, 2024.
+\newblock \doi{10.2139/ssrn.4753820}.
+\newblock URL \url{https://doi.org/10.2139/ssrn.4753820}.
+
+\bibitem[Charunyakorn et~al.(1991)Charunyakorn, Sengupta, and
+  Roy]{charunyakorn1991forced}
+P.~Charunyakorn, S.~Sengupta, and S.K. Roy.
+\newblock Forced convection heat transfer in microencapsulated phase change
+  material slurries: flow in circular ducts.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 34\penalty0
+  (3):\penalty0 819--833, 1991.
+\newblock \doi{10.1016/0017-9310(91)90128-2}.
+\newblock URL \url{https://doi.org/10.1016/0017-9310(91)90128-2}.
+
+\bibitem[Choi et~al.(1994)Choi, Cho, and Lorsch]{choi1994forced}
+Eunsoo Choi, Young~I. Cho, and Harold~G. Lorsch.
+\newblock Forced convection heat transfer with phase-change-material slurries:
+  Turbulent flow in a circular tube.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 37\penalty0
+  (2):\penalty0 207--215, 1994.
+\newblock \doi{10.1016/0017-9310(94)90093-0}.
+\newblock URL \url{https://doi.org/10.1016/0017-9310(94)90093-0}.
+
+\bibitem[Alisetti and Roy(2000)]{alisetti2000forced}
+Edwin~L. Alisetti and Sanjay~K. Roy.
+\newblock Forced convection heat transfer to phase change material slurries in
+  circular ducts.
+\newblock \emph{Journal of Thermophysics and Heat Transfer}, 14\penalty0
+  (1):\penalty0 115--118, 2000.
+\newblock \doi{10.2514/2.6499}.
+\newblock URL \url{https://doi.org/10.2514/2.6499}.
+
+\bibitem[Inaba et~al.(2004)Inaba, Kim, and Horibe]{inaba2004melting}
+Hideo Inaba, Myoung-Jun Kim, and Akihiko Horibe.
+\newblock Melting heat transfer characteristics of microencapsulated phase
+  change material slurries with plural microcapsules having different
+  diameters.
+\newblock \emph{Journal of Heat Transfer}, 126\penalty0 (4):\penalty0 558--565,
+  2004.
+\newblock \doi{10.1115/1.1773584}.
+\newblock URL \url{https://doi.org/10.1115/1.1773584}.
+
+\bibitem[Zhang et~al.(2003)Zhang, Hu, and Wang]{zhang2003theoretical}
+Yinping Zhang, Xianxu Hu, and Xin Wang.
+\newblock Theoretical analysis of convective heat transfer enhancement of
+  microencapsulated phase change material slurries.
+\newblock \emph{Heat and Mass Transfer}, 40\penalty0 (1-2):\penalty0 59--66,
+  2003.
+\newblock \doi{10.1007/s00231-003-0410-7}.
+\newblock URL \url{https://doi.org/10.1007/s00231-003-0410-7}.
+
+\bibitem[Delgado et~al.(2012)Delgado, L{\'a}zaro, Mazo, and
+  Zalba]{delgado2012review}
+M{\'o}nica Delgado, Ana L{\'a}zaro, Javier Mazo, and Bel{\'e}n Zalba.
+\newblock Review on phase change material emulsions and microencapsulated phase
+  change material slurries: Materials, heat transfer studies and applications.
+\newblock \emph{Renewable and Sustainable Energy Reviews}, 16\penalty0
+  (1):\penalty0 253--273, 2012.
+\newblock \doi{10.1016/j.rser.2011.07.152}.
+\newblock URL \url{https://doi.org/10.1016/j.rser.2011.07.152}.
+
+\bibitem[Wang and Yang(2011)]{wang2011three}
+Yi-Hsien Wang and Yue-Tzu Yang.
+\newblock Three-dimensional transient cooling simulations of a portable
+  electronic device using pcm (phase change materials) in multi-fin heat sink.
+\newblock \emph{Energy}, 36\penalty0 (8):\penalty0 5214--5224, 2011.
+\newblock \doi{10.1016/j.energy.2011.06.023}.
+\newblock URL \url{https://doi.org/10.1016/j.energy.2011.06.023}.
+
+\bibitem[Borkar and Duryodhan(2022)]{borkar2022transient}
+Priyanka Borkar and Vijay~S Duryodhan.
+\newblock Transient study of phase change material based hybrid heat sink for
+  electronics cooling application.
+\newblock pages 1--7, 2022.
+\newblock \doi{10.1109/itherm54085.2022.9899523}.
+\newblock URL \url{https://doi.org/10.1109/itherm54085.2022.9899523}.
+
+\bibitem[Marri et~al.(2023)Marri, Srikanth, and Balaji]{marri2023multiple}
+Girish~Kumar Marri, R.~Srikanth, and C.~Balaji.
+\newblock Multiple phase change material-based heat sink for cooling of
+  electronics: A combined experimental and numerical study.
+\newblock \emph{ASME Journal of Heat and Mass Transfer}, 145\penalty0
+  (4):\penalty0 043001, 2023.
+\newblock \doi{10.1115/1.4056543}.
+\newblock URL \url{https://doi.org/10.1115/1.4056543}.
+
+\bibitem[{\c{S}}evik(2025)]{sevik2025thermal}
+Seyfi {\c{S}}evik.
+\newblock Thermal performance of a heat sink ({HS})-phase change material
+  ({PCM}) assisted dual heat pipe ({DHP}) for {LED} cooling.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  167:\penalty0 109304, 2025.
+\newblock \doi{10.1016/j.icheatmasstransfer.2025.109304}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2025.109304}.
+
+\bibitem[Midhun and Saha(2025)]{midhun2025solid}
+V.C. Midhun and Sandip~K. Saha.
+\newblock Solid-solid phase change material composite based heat sink with
+  tandem coupled heat pipe for cooling of electronics in harsh thermal
+  environments.
+\newblock \emph{Applied Thermal Engineering}, 267:\penalty0 125846, 2025.
+\newblock \doi{10.1016/j.applthermaleng.2025.125846}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.125846}.
+
+\bibitem[Isiam et~al.(2023)Isiam, Shikder, and Rahman]{isiam2023experimental}
+Mir~Rahimul Isiam, Md.~Shahriar Shikder, and Kazi~Afzalur Rahman.
+\newblock Experimental investigation on phase change material based circular
+  pin fin heat sink for cooling electronic equipment.
+\newblock In \emph{Proceedings of the International Conference on Industrial
+  Engineering and Operations Management}. IEOM Society International, 2023.
+\newblock \doi{10.46254/ap04.20230261}.
+\newblock URL \url{https://doi.org/10.46254/ap04.20230261}.
+
+\bibitem[Rangarajan and Balaji(2019)]{rangarajan2019experimental}
+Srikanth Rangarajan and C.~Balaji.
+\newblock Experimental investigations on 72 pin fin heat sink with discrete
+  heating.
+\newblock In \emph{Phase Change Material-Based Heat Sinks: A Multi Objective
+  Perspective}, pages 53--87. CRC Press, 2019.
+\newblock \doi{10.1201/9780429325571-5}.
+\newblock URL \url{https://doi.org/10.1201/9780429325571-5}.
+
+\bibitem[Zhang et~al.(2025{\natexlab{b}})Zhang, Yang, and
+  Lu]{zhang2025experimental}
+De-Xin Zhang, Lai-Shun Yang, and Xiao Lu.
+\newblock Experimental study on thermal control performance of the phase change
+  material-based fin heat sink suffering transient heat flux shock.
+\newblock \emph{Journal of Thermal Science and Engineering Applications},
+  18\penalty0 (2):\penalty0 021002, 2025{\natexlab{b}}.
+\newblock \doi{10.1115/1.4070221}.
+\newblock URL \url{https://doi.org/10.1115/1.4070221}.
+
+\bibitem[Srevathsan et~al.(2026)Srevathsan, Selvam, and
+  Senthil]{srevathsan2026experimental}
+Mani~Ravichander Srevathsan, Chandrasekaran Selvam, and Ramalingam Senthil.
+\newblock Experimental study of a hybrid pin fin heat sink using phase change
+  material and graphene nanofluid for electronic cooling.
+\newblock \emph{Particuology}, 111:\penalty0 150--163, 2026.
+\newblock \doi{10.1016/j.partic.2026.02.006}.
+\newblock URL \url{https://doi.org/10.1016/j.partic.2026.02.006}.
+
+\bibitem[Peng and Sadaghiani(2021)]{peng2021thermal}
+Wei Peng and Omid~Karimi Sadaghiani.
+\newblock Thermal function improvement of phase-change material ({PCM}) using
+  alumina nanoparticles in a circular-rectangular cavity using lattice
+  {B}oltzmann method.
+\newblock \emph{Journal of Energy Storage}, 37:\penalty0 102493, 2021.
+\newblock \doi{10.1016/j.est.2021.102493}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2021.102493}.
+
+\bibitem[Kabeel et~al.(2017)Kabeel, Khalil, Shalaby, and
+  Zayed]{kabeel2017improvement}
+A.E. Kabeel, A.~Khalil, S.M. Shalaby, and M.E. Zayed.
+\newblock Improvement of thermal performance of the finned plate solar air
+  heater by using latent heat thermal storage.
+\newblock \emph{Applied Thermal Engineering}, 123:\penalty0 546--553, 2017.
+\newblock \doi{10.1016/j.applthermaleng.2017.05.126}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2017.05.126}.
+
+\bibitem[Balakrishnan et~al.(2024)Balakrishnan, Vishnu, Muthukumaran, and
+  Senthil]{balakrishnan2024experimental}
+Paramasivam Balakrishnan, Senthil~Kumar Vishnu, Jayaraman Muthukumaran, and
+  Ramalingam Senthil.
+\newblock Experimental thermal performance of a solar air heater with
+  rectangular fins and phase change material.
+\newblock \emph{Journal of Energy Storage}, 84:\penalty0 110781, 2024.
+\newblock \doi{10.1016/j.est.2024.110781}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2024.110781}.
+
+\bibitem[Saxena et~al.(2020)Saxena, Agarwal, and Cuce]{saxena2020thermal}
+Abhishek Saxena, Nitin Agarwal, and Erdem Cuce.
+\newblock Thermal performance evaluation of a solar air heater integrated with
+  helical tubes carrying phase change material.
+\newblock \emph{Journal of Energy Storage}, 30:\penalty0 101406, 2020.
+\newblock \doi{10.1016/j.est.2020.101406}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2020.101406}.
+
+\bibitem[Singh and Negi(2020)]{singh2020numerical}
+Satyender Singh and Bharat~Singh Negi.
+\newblock Numerical thermal performance investigation of phase change material
+  integrated wavy finned single pass solar air heater.
+\newblock \emph{Journal of Energy Storage}, 32:\penalty0 102002, 2020.
+\newblock \doi{10.1016/j.est.2020.102002}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2020.102002}.
+
+\bibitem[Tuncer et~al.(2023)Tuncer, Amini, and
+  Khanlari]{tuncer2023experimental}
+Azim~Do{\u g}u{\c s} Tuncer, Ali Amini, and Ataollah Khanlari.
+\newblock Experimental and transient cfd analysis of parallel-flow solar air
+  collectors with paraffin-filled recyclable aluminum cans as latent heat
+  energy storage unit.
+\newblock \emph{Journal of Energy Storage}, 70:\penalty0 108009, 2023.
+\newblock \doi{10.1016/j.est.2023.108009}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2023.108009}.
+
+\bibitem[Embiale and Gunjo(2023)]{embiale2023investigation}
+Dessie~Tadele Embiale and Dawit~Gudeta Gunjo.
+\newblock Investigation on solar drying system with double pass solar air
+  heater coupled with paraffin wax based latent heat storage: Experimental and
+  numerical study.
+\newblock \emph{Results in Engineering}, 20:\penalty0 101561, 2023.
+\newblock \doi{10.1016/j.rineng.2023.101561}.
+\newblock URL \url{https://doi.org/10.1016/j.rineng.2023.101561}.
+
+\bibitem[Nguyen et~al.(2025)Nguyen, Nguyen, and Duong]{hap2025numerical}
+Van~Hap Nguyen, Van~Lanh Nguyen, and Van~Thong Duong.
+\newblock Numerical investigation of a solar air heater with latent heat
+  storage and finned absorber.
+\newblock \emph{Scientific Reports}, 15:\penalty0 15642, 2025.
+\newblock \doi{10.1038/s41598-025-15959-w}.
+\newblock URL \url{https://doi.org/10.1038/s41598-025-15959-w}.
+
+\bibitem[Fath(1995)]{fath1995thermal}
+Hassan~E.S. Fath.
+\newblock Thermal performance of a simple design solar air heater with built-in
+  thermal energy storage system.
+\newblock \emph{Renewable Energy}, 6\penalty0 (8):\penalty0 1033--1039, 1995.
+\newblock \doi{10.1016/0960-1481(94)00050-g}.
+\newblock URL \url{https://doi.org/10.1016/0960-1481(94)00050-g}.
+
+\bibitem[Sharma et~al.(2022{\natexlab{b}})Sharma, Pitchumani, and
+  Chauhan]{sharmapitchumani2022solar}
+Ashutosh Sharma, Ranga Pitchumani, and Ranchan Chauhan.
+\newblock Solar air heating systems with latent heat storage -- a review of
+  state-of-the-art.
+\newblock \emph{Journal of Energy Storage}, 48:\penalty0 104013,
+  2022{\natexlab{b}}.
+\newblock \doi{10.1016/j.est.2022.104013}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2022.104013}.
+
+\bibitem[Arkar and Medved(2015)]{arkar2015optimization}
+Ciril Arkar and Sa{\v s}o Medved.
+\newblock Optimization of latent heat storage in solar air heating system with
+  vacuum tube air solar collector.
+\newblock \emph{Solar Energy}, 111:\penalty0 10--20, 2015.
+\newblock \doi{10.1016/j.solener.2014.10.013}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2014.10.013}.
+
+\bibitem[Kumar et~al.(2022)Kumar, Saxena, Pandey, and Joshi]{kumar2022design}
+Avnish Kumar, Abhishek Saxena, S.D. Pandey, and S.K. Joshi.
+\newblock Design and performance characteristics of a solar box cooker with
+  phase change material: A feasibility study for uttarakhand region, india.
+\newblock \emph{Applied Thermal Engineering}, 208:\penalty0 118196, 2022.
+\newblock \doi{10.1016/j.applthermaleng.2022.118196}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2022.118196}.
+
+\bibitem[Chauhan et~al.(2022)Chauhan, Daniel, Manavalla, and
+  Jayaraju]{chauhan2022design}
+Kartikey Chauhan, Joseph Daniel, Sreekanth Manavalla, and Priyadarshini
+  Jayaraju.
+\newblock Design and experimental studies of a funnel solar cooker with phase
+  change material.
+\newblock \emph{Energies}, 15\penalty0 (23):\penalty0 9182, 2022.
+\newblock \doi{10.3390/en15239182}.
+\newblock URL \url{https://doi.org/10.3390/en15239182}.
+
+\bibitem[Anilkumar et~al.(2021)Anilkumar, Maniyeri, and
+  Anish]{anilkumar2021optimum}
+B.C. Anilkumar, Ranjith Maniyeri, and S.~Anish.
+\newblock Optimum selection of phase change material for solar box cooker
+  integrated with thermal energy storage unit using multi-criteria
+  decision-making technique.
+\newblock \emph{Journal of Energy Storage}, 40:\penalty0 102807, 2021.
+\newblock \doi{10.1016/j.est.2021.102807}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2021.102807}.
+
+\bibitem[Pinnarat et~al.(2026)Pinnarat, Tetthong, and
+  Chaumsuk]{pinnarat2026development}
+Tanawan Pinnarat, Areena Tetthong, and Benya Chaumsuk.
+\newblock Development and thermal performance of a portable solar cooker using
+  glycerol-erythritol phase change material.
+\newblock \emph{Next Energy}, 12:\penalty0 100689, 2026.
+\newblock \doi{10.1016/j.nxener.2026.100689}.
+\newblock URL \url{https://doi.org/10.1016/j.nxener.2026.100689}.
+
+\bibitem[Nandanwar et~al.(2025)Nandanwar, Shinde, and
+  Deshmukh]{nandanwar2025performance}
+Yogesh~N. Nandanwar, Akshay Shinde, and Pravin Deshmukh.
+\newblock Performance assessment of a conical cavity receiver with phase change
+  material for parabolic dish collector.
+\newblock \emph{Energy Storage and Saving}, 4\penalty0 (2):\penalty0 166--178,
+  2025.
+\newblock \doi{10.1016/j.enss.2024.09.003}.
+\newblock URL \url{https://doi.org/10.1016/j.enss.2024.09.003}.
+
+\bibitem[Awad et~al.(2022)Awad, Ahmed, and Ali]{awad2022performance}
+Muthanna~Mohammed Awad, Omer~Khalil Ahmed, and Obed~Majeed Ali.
+\newblock Performance of bi-fluid pv/thermal collector integrated with phase
+  change material: Experimental assessment.
+\newblock \emph{Solar Energy}, 235:\penalty0 50--61, 2022.
+\newblock \doi{10.1016/j.solener.2022.02.031}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2022.02.031}.
+
+\bibitem[Fakhraei et~al.(2024)Fakhraei, Gorjian, Ghobadian, and
+  Najafi]{fakhraei2024experimental}
+Omid Fakhraei, Shiva Gorjian, Barat Ghobadian, and Gholamhassan Najafi.
+\newblock Experimental performance evaluation of a dual-purpose
+  photovoltaic-thermal system with phase change material for passive heating
+  and cooling.
+\newblock \emph{Journal of Building Engineering}, 98:\penalty0 111494, 2024.
+\newblock \doi{10.1016/j.jobe.2024.111494}.
+\newblock URL \url{https://doi.org/10.1016/j.jobe.2024.111494}.
+
+\bibitem[Chinnasamy and Veerakumar(2021)]{chinnasamy2021experimental}
+V.~Chinnasamy and C.~Veerakumar.
+\newblock Experimental investigation of cold storage using phase change
+  material.
+\newblock \emph{Energy Storage}, 3, 2021.
+\newblock \doi{10.1002/est2.239}.
+\newblock URL \url{https://doi.org/10.1002/est2.239}.
+
+\bibitem[Mane and Patil(2024)]{mane2024experimental}
+Ashwini Mane and Sangita Patil.
+\newblock Experimental investigation of phase change material based thermal
+  energy storage for a domestic refrigerator.
+\newblock \emph{Energy Storage and Saving}, 3\penalty0 (4):\penalty0 250--258,
+  2024.
+\newblock \doi{10.1016/j.enss.2024.07.001}.
+\newblock URL \url{https://doi.org/10.1016/j.enss.2024.07.001}.
+
+\bibitem[Esakkimuthu et~al.(2013)Esakkimuthu, Hassabou, Palaniappan, Spinnler,
+  Blumenberg, and Velraj]{esakkimuthu2013experimental}
+S.~Esakkimuthu, Abdel~Hakim Hassabou, C.~Palaniappan, Markus Spinnler, Jurgen
+  Blumenberg, and R.~Velraj.
+\newblock Experimental investigation on phase change material based thermal
+  storage system for solar air heating applications.
+\newblock \emph{Solar Energy}, 88:\penalty0 144--153, 2013.
+\newblock \doi{10.1016/j.solener.2012.11.006}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2012.11.006}.
+
+\bibitem[Raj et~al.(2020)Raj, Srinivas, and Jayaraj]{raj2020transient}
+Arun~K. Raj, M.~Srinivas, and S.~Jayaraj.
+\newblock Transient cfd analysis of macro-encapsulated latent heat thermal
+  energy storage containers incorporated within solar air heater.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 156:\penalty0
+  119896, 2020.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2020.119896}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2020.119896}.
+
+\bibitem[Famiglietti et~al.(2021)]{famiglietti2021swc}
+A.~Famiglietti et~al.
+\newblock Numerical analysis of phase change material thermal storage for solar
+  air heating.
+\newblock In \emph{Proceedings of the ISES Solar World Congress 2021}.
+  International Solar Energy Society, 2021.
+\newblock \doi{10.18086/swc.2021.23.01}.
+\newblock URL \url{https://doi.org/10.18086/swc.2021.23.01}.
+
+\bibitem[Touati et~al.(2017)]{touati2017thermal}
+A.~Touati et~al.
+\newblock Thermal performance of a solar air heater with phase change material.
+\newblock In \emph{AIP Conference Proceedings}. AIP Publishing, 2017.
+\newblock \doi{10.1063/1.4976235}.
+\newblock URL \url{https://doi.org/10.1063/1.4976235}.
+
+\bibitem[Shalaby et~al.(2022)]{shalaby2022experimental}
+S.M. Shalaby et~al.
+\newblock Experimental and numerical study of a solar air heater with phase
+  change material.
+\newblock \emph{International Journal of Engineering and Technology}, 14, 2022.
+\newblock \doi{10.7763/ijet.2022.v14.1208}.
+\newblock URL \url{https://doi.org/10.7763/ijet.2022.v14.1208}.
+
+\bibitem[Jiang et~al.(2024)Jiang, Li, and Qu]{jiang2024battery}
+Zhiyuan Jiang, Zhichao Li, and Zhiguo Qu.
+\newblock Battery thermal management using phase-change material.
+\newblock In \emph{Thermal Management for Batteries}, pages 1--40. Elsevier,
+  2024.
+\newblock \doi{10.1016/b978-0-443-19025-4.00015-4}.
+\newblock URL \url{https://doi.org/10.1016/b978-0-443-19025-4.00015-4}.
+
+\bibitem[Lebrouhi et~al.(2024)Lebrouhi, Lamrani, and
+  Kousksou]{lebrouhi2024comparative}
+Badr~Eddine Lebrouhi, Bilal Lamrani, and Tarik Kousksou.
+\newblock A comparative study of battery thermal management systems using
+  phase-change material and liquid cooling.
+\newblock In \emph{Thermal Management for Batteries}, pages 475--489. Elsevier,
+  2024.
+\newblock \doi{10.1016/b978-0-443-19025-4.00005-1}.
+\newblock URL \url{https://doi.org/10.1016/b978-0-443-19025-4.00005-1}.
+
+\bibitem[Keyhani-Asl et~al.(2025)Keyhani-Asl, Perera, Lahr, and
+  Hasan]{keyhani2025innovative}
+Alireza Keyhani-Asl, Noel Perera, Jens Lahr, and Reaz Hasan.
+\newblock Innovative hybrid battery thermal management system incorporating
+  copper foam porous fins and layers with phase change material and liquid
+  cooling.
+\newblock \emph{Applied Thermal Engineering}, 268:\penalty0 125848, 2025.
+\newblock \doi{10.1016/j.applthermaleng.2025.125848}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.125848}.
+
+\bibitem[Pakrouh et~al.(2023)Pakrouh, Ranjbar, Hosseini, and
+  Rahimi]{pakrouh2023thermal}
+R.~Pakrouh, A.A. Ranjbar, M.J. Hosseini, and M.~Rahimi.
+\newblock Thermal management analysis of new liquid cooling of a battery system
+  based on phase change material and thermoelectric cooler.
+\newblock \emph{Applied Thermal Engineering}, 231:\penalty0 120925, 2023.
+\newblock \doi{10.1016/j.applthermaleng.2023.120925}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2023.120925}.
+
+\bibitem[Masthan~Vali and Murali(2024)]{masthanvali2024battery}
+P.S.N. Masthan~Vali and G.~Murali.
+\newblock Battery thermal management system on trapezoidal battery pack with
+  liquid cooling system utilizing phase change material.
+\newblock \emph{ASME Journal of Heat and Mass Transfer}, 146\penalty0
+  (1):\penalty0 011003, 2024.
+\newblock \doi{10.1115/1.4063355}.
+\newblock URL \url{https://doi.org/10.1115/1.4063355}.
+
+\bibitem[Wu et~al.(2026)Wu, Lv, Wu, Wei, Li, and Zhou]{wu2026numerical}
+Yajie Wu, Laiquan Lv, Fengyongkang Wu, Lijia Wei, Huaan Li, and Hao Zhou.
+\newblock Numerical simulation of phase change material-assisted liquid cooling
+  with gear-shaped fins for battery thermal management.
+\newblock \emph{Applied Thermal Engineering}, 284:\penalty0 128983, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2025.128983}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.128983}.
+
+\bibitem[Kumar and Kumar(2025)]{kumar2025battery}
+Pankaj Kumar and Suresh Kumar.
+\newblock Battery thermal management system using phase change materials and
+  liquid cooling: a comprehensive review.
+\newblock In \emph{Phase Change Materials for Thermal Energy Management and
+  Storage}. Wiley, 2025.
+\newblock \doi{10.1002/9781394289233.ch3}.
+\newblock URL \url{https://doi.org/10.1002/9781394289233.ch3}.
+
+\bibitem[Hadawale and Sathe(2025)]{hadawale2025passive}
+Rahul~M. Hadawale and Trupti~M. Sathe.
+\newblock Passive battery thermal management using nano-enhanced phase change
+  material.
+\newblock \emph{Engineering Research Express}, 7\penalty0 (2):\penalty0 025510,
+  2025.
+\newblock \doi{10.1088/2631-8695/adc4c0}.
+\newblock URL \url{https://doi.org/10.1088/2631-8695/adc4c0}.
+
+\bibitem[Al-Yasiri and Szab{\'o}(2022)]{alyasiri2022energetic}
+Qudama Al-Yasiri and M{\'a}rta Szab{\'o}.
+\newblock Energetic and thermal comfort assessment of phase change material
+  passively incorporated building envelope in severe hot climate: An
+  experimental study.
+\newblock \emph{Applied Energy}, 314:\penalty0 118957, 2022.
+\newblock \doi{10.1016/j.apenergy.2022.118957}.
+\newblock URL \url{https://doi.org/10.1016/j.apenergy.2022.118957}.
+
+\bibitem[Muthuvel et~al.(2014)Muthuvel, Saravanasankar, Sudhakarapandian, and
+  Muthukannan]{muthuvel2014passive}
+S~Muthuvel, S~Saravanasankar, R~Sudhakarapandian, and M~Muthukannan.
+\newblock Passive cooling by phase change material usage in construction.
+\newblock \emph{Building Services Engineering Research and Technology},
+  36\penalty0 (4):\penalty0 411--421, 2014.
+\newblock \doi{10.1177/0143624414556123}.
+\newblock URL \url{https://doi.org/10.1177/0143624414556123}.
+
+\bibitem[Wi et~al.(2021)Wi, Yang, Yun, and Kim]{wi2021exterior}
+Seunghwan Wi, Sungwoong Yang, Beom~Yeol Yun, and Sumin Kim.
+\newblock Exterior insulation finishing system using cementitious
+  plaster/microencapsulated phase change material for improving the building
+  thermal storage performance.
+\newblock \emph{Construction and Building Materials}, 299:\penalty0 123932,
+  2021.
+\newblock \doi{10.1016/j.conbuildmat.2021.123932}.
+\newblock URL \url{https://doi.org/10.1016/j.conbuildmat.2021.123932}.
+
+\bibitem[Enteshari and Najafi~Kani(2022)]{enteshari2022fabrication}
+Ghazal Enteshari and Ebrahim Najafi~Kani.
+\newblock Fabrication and performance of microencapsulated phase-change
+  material/gypsum plaster tile for thermal energy-storage building material.
+\newblock \emph{Journal of Materials in Civil Engineering}, 34\penalty0 (5),
+  2022.
+\newblock \doi{10.1061/(asce)mt.1943-5533.0004203}.
+\newblock URL \url{https://doi.org/10.1061/(asce)mt.1943-5533.0004203}.
+
+\bibitem[Hekimo{\u g}lu et~al.(2021)Hekimo{\u g}lu, Nas, Ouikhalfan, Sar{\i},
+  Kurbetci, Tyagi, Sharma, and Saleh]{hekimoglu2021thermal}
+G{\"o}khan Hekimo{\u g}lu, Memduh Nas, Mohammed Ouikhalfan, Ahmet Sar{\i}, {\c
+  S}irin Kurbetci, V.V. Tyagi, R.K. Sharma, and Tawfik~A. Saleh.
+\newblock Thermal management performance and mechanical properties of a novel
+  cementitious composite containing fly ash/lauric acid-myristic acid as
+  form-stable phase change material.
+\newblock \emph{Construction and Building Materials}, 274:\penalty0 122105,
+  2021.
+\newblock \doi{10.1016/j.conbuildmat.2020.122105}.
+\newblock URL \url{https://doi.org/10.1016/j.conbuildmat.2020.122105}.
+
+\bibitem[Zhou et~al.(2023)Zhou, Bai, Razaqpur, and Wang]{zhou2023effect}
+Shiqiang Zhou, Fan Bai, Ghani Razaqpur, and Bing Wang.
+\newblock Effect of key parameters on the transient thermal performance of a
+  building envelope with trombe wall containing phase change material.
+\newblock \emph{Energy and Buildings}, 284:\penalty0 112879, 2023.
+\newblock \doi{10.1016/j.enbuild.2023.112879}.
+\newblock URL \url{https://doi.org/10.1016/j.enbuild.2023.112879}.
+
+\bibitem[Kraso{\'n} et~al.(2025)Kraso{\'n}, Mi{\k a}sik, Starakiewicz, and
+  Licho{\l}ai]{krason2025thermal}
+Joanna Kraso{\'n}, Przemys{\l}aw Mi{\k a}sik, Aleksander Starakiewicz, and Lech
+  Licho{\l}ai.
+\newblock Thermal energy storage possibilities in the composite trombe wall
+  modified with a phase change material.
+\newblock \emph{Energies}, 18\penalty0 (6):\penalty0 1433, 2025.
+\newblock \doi{10.3390/en18061433}.
+\newblock URL \url{https://doi.org/10.3390/en18061433}.
+
+\bibitem[Tareemi(2026)]{tareemi2026advances}
+Ahmad~A. Tareemi.
+\newblock Advances in trombe wall performance challenges, photovoltaic shading
+  schemes, phase change material, and composite enhancements.
+\newblock \emph{Solar Energy}, 306:\penalty0 114277, 2026.
+\newblock \doi{10.1016/j.solener.2025.114277}.
+\newblock URL \url{https://doi.org/10.1016/j.solener.2025.114277}.
+
+\bibitem[Kong et~al.(2024)Kong, Zhang, Zhao, and Wang]{kong2024room}
+Xiangfei Kong, Xingxing Zhang, Xudong Zhao, and Yupeng Wang.
+\newblock Room-temperature flexible phase change materials with high infrared
+  emissivity for building energy saving.
+\newblock \emph{Journal of Energy Storage}, 102:\penalty0 114131, 2024.
+\newblock \doi{10.1016/j.est.2024.114131}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2024.114131}.
+
+\bibitem[Wei et~al.(2026)Wei, Zhang, Li, and Li]{wei2026convective}
+Zhengying Wei, Zijian Zhang, Junfeng Li, and Yulu Li.
+\newblock Convective heat transfer characterization of heat exchanger based on
+  structural optimization of novel {IWP-Gyroid} hybrid structures.
+\newblock \emph{SSRN Electronic Journal}, 2026.
+\newblock \doi{10.2139/ssrn.6736711}.
+\newblock URL \url{https://doi.org/10.2139/ssrn.6736711}.
+
+\bibitem[An et~al.(2026)An, Zhou, Zhou, Zhang, and Gao]{an2026performance}
+Zhiguo An, Huyi Zhou, Yongfeng Zhou, Jianping Zhang, and Zhengyuan Gao.
+\newblock Performance evaluation of gradient {TPMS} structure coupled with heat
+  pipe for high-power chip heat sink.
+\newblock \emph{Applied Thermal Engineering}, 282:\penalty0 128851, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2025.128851}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.128851}.
+
+\bibitem[Casini et~al.(2024)Casini, Ricci, Facchini, and
+  Andreini]{casini2024numerical}
+L.~Casini, D.~Ricci, B.~Facchini, and A.~Andreini.
+\newblock Numerical assessment of convective heat transfer in lattice and
+  triply periodic minimal surface structures for gas turbine cooling.
+\newblock In \emph{Proceedings of ASME Turbo Expo 2024: Turbomachinery
+  Technical Conference and Exposition}, GT2024, page V008T17A004, 2024.
+\newblock \doi{10.1115/gt2024-129097}.
+\newblock URL \url{https://doi.org/10.1115/gt2024-129097}.
+
+\bibitem[Sun et~al.(2025)Sun, Peng, Liu, Luo, and Liang]{sun2025numerical}
+Shuming Sun, Changxin Peng, Guannan Liu, Xiang Luo, and Chunlong Liang.
+\newblock Numerical analysis of gyroid tpms structures with variable porosity
+  in combined aero engines.
+\newblock \emph{Aerospace Science and Technology}, 156:\penalty0 109850, 2025.
+\newblock \doi{10.1016/j.ast.2024.109850}.
+\newblock URL \url{https://doi.org/10.1016/j.ast.2024.109850}.
+
+\bibitem[Ifa and Efa(2026)]{ifa2026diamond}
+Dejene~Alemayehu Ifa and Dame~Alemayehu Efa.
+\newblock Diamond and gyroid triply periodic minimal surface heat sinks for
+  advanced microprocessor cooling.
+\newblock \emph{Applied Thermal Engineering}, 282:\penalty0 128853, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2025.128853}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.128853}.
+
+\bibitem[Hong et~al.(2026{\natexlab{a}})Hong, Hong, Kim, Ko, and
+  Park]{hong2026flow}
+Ji~Hyun Hong, Jeong~Taek Hong, Mingu Kim, Hyerim Ko, and Chang~Yong Park.
+\newblock Flow boiling heat transfer and pressure drop in gyroid and diamond
+  {TPMS} channels.
+\newblock \emph{Applied Thermal Engineering}, 298:\penalty0 130875,
+  2026{\natexlab{a}}.
+\newblock \doi{10.1016/j.applthermaleng.2026.130875}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2026.130875}.
+
+\bibitem[Hong et~al.(2026{\natexlab{b}})Hong, Hong, Kim, Ko, and
+  Park]{hong2026experimental}
+Ji~Hyun Hong, Jeong~Taek Hong, Mingu Kim, Hyerim Ko, and Chang~Yong Park.
+\newblock An experimental study of flow boiling heat transfer and pressure drop
+  in channels with gyroid- and diamond-based triply periodic minimal surface
+  ({TPMS}) structures.
+\newblock \emph{SSRN Electronic Journal}, 2026{\natexlab{b}}.
+\newblock \doi{10.2139/ssrn.6140206}.
+\newblock URL \url{https://doi.org/10.2139/ssrn.6140206}.
+
+\bibitem[Huo et~al.(2026)Huo, Yu, Lou, Jia, Naqvi, Chen, and
+  Shen]{huo2026convective}
+Yuliang Huo, Tao Yu, Guibin Lou, Kaixuan Jia, Syed Mesum~Raza Naqvi, Hongwei
+  Chen, and Lida Shen.
+\newblock Convective heat transfer process and performance analysis of {TPMS}
+  hybrid heat sinks based on diamond and gyroid.
+\newblock \emph{Applied Thermal Engineering}, 293:\penalty0 130474, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2026.130474}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2026.130474}.
+
+\bibitem[Son et~al.(2024)Son, Broumand, Pyo, Richer, Jodoin, and
+  Hong]{son2024effects}
+Juchan Son, Mohsen Broumand, Yeongmin Pyo, Patrick Richer, Bertrand Jodoin, and
+  Zekai Hong.
+\newblock Effects of lattice orientation angle on {TPMS}-based transpiration
+  cooling.
+\newblock 2024.
+\newblock \doi{10.1115/GT2024-126861}.
+\newblock URL \url{https://doi.org/10.1115/GT2024-126861}.
+
+\bibitem[Son et~al.(2025)Son, Richer, Jodoin, and Hong]{son2025effect}
+Juchan Son, Patrick Richer, Bertrand Jodoin, and Zekai Hong.
+\newblock Effect of morphological variations in {TPMS} lattice structures on
+  transpiration cooling.
+\newblock 2025.
+\newblock \doi{10.1115/GT2025-151422}.
+\newblock URL \url{https://doi.org/10.1115/GT2025-151422}.
+
+\bibitem[Bana{\'s} and Sawicki(2025)]{banas2025evaluation}
+Norbert~Jerzy Bana{\'s} and Jacek Sawicki.
+\newblock Evaluation of {TPMS} lattice parameters on the mechanical properties
+  of lightweight gears produced by additive manufacturing.
+\newblock 2025.
+\newblock \doi{10.21203/rs.3.rs-7772615/v1}.
+\newblock URL \url{https://doi.org/10.21203/rs.3.rs-7772615/v1}.
+
+\bibitem[Mian et~al.(2025{\natexlab{a}})Mian, Nirala, Kant, and
+  Umer]{mian2025computational}
+Syed~Hammad Mian, Chandrakant~K. Nirala, Ravi Kant, and Usama Umer.
+\newblock Computational evaluation based case study of {Schwarz-P} {TPMS}
+  lattice architectures for heat sink thermal performance.
+\newblock \emph{Case Studies in Thermal Engineering}, 72:\penalty0 106273,
+  2025{\natexlab{a}}.
+\newblock \doi{10.1016/j.csite.2025.106273}.
+\newblock URL \url{https://doi.org/10.1016/j.csite.2025.106273}.
+
+\bibitem[Mian et~al.(2025{\natexlab{b}})Mian, Nirala, Kant, and
+  Umer]{nirala2025computational}
+Syed~Hammad Mian, Chandrakant~K. Nirala, Ravi Kant, and Usama Umer.
+\newblock Computational evaluation based case study of {Schwarz-P} {TPMS}
+  lattice architectures for heat sink thermal performance.
+\newblock \emph{Case Studies in Thermal Engineering}, 72:\penalty0 106273,
+  2025{\natexlab{b}}.
+\newblock \doi{10.1016/j.csite.2025.106273}.
+\newblock URL \url{https://doi.org/10.1016/j.csite.2025.106273}.
+
+\bibitem[Godakawela et~al.(2025)Godakawela, Lomte, and
+  Sharma]{godakawela2025sound}
+Janith Godakawela, Amulya Lomte, and Bhisham Sharma.
+\newblock Sound absorption in uniform and layered gyroid and diamond triply
+  periodic minimal surface porous absorbers.
+\newblock \emph{Applied Acoustics}, 236:\penalty0 110761, 2025.
+\newblock \doi{10.1016/j.apacoust.2025.110761}.
+\newblock URL \url{https://doi.org/10.1016/j.apacoust.2025.110761}.
+
+\bibitem[Skibar et~al.(2026)Skibar, Susantyoko, and
+  Pervaiz]{skibar2026comparative}
+Mikhail Skibar, Rahmat~Agung Susantyoko, and Salman Pervaiz.
+\newblock Comparative torsional properties via numerical simulation of triply
+  periodic minimal surfaces ({TPMS}): Diamond, gyroid and primitive structures.
+\newblock \emph{Polymers}, 18\penalty0 (6):\penalty0 736, 2026.
+\newblock \doi{10.3390/polym18060736}.
+\newblock URL \url{https://doi.org/10.3390/polym18060736}.
+
+\bibitem[Letlhare et~al.(2025)Letlhare, Merwe, and
+  Hendrick]{letlhare2025hybridized}
+Modipa Letlhare, Gideon van~der Merwe, and Patrick Hendrick.
+\newblock Hybridized additive manufacturing-based triply periodic minimal
+  surface recuperators: a review for concentrated solar power applications.
+\newblock \emph{Heat and Mass Transfer}, 61\penalty0 (5):\penalty0 85, 2025.
+\newblock \doi{10.1007/s00231-025-03552-w}.
+\newblock URL \url{https://doi.org/10.1007/s00231-025-03552-w}.
+
+\bibitem[Yanagihara et~al.(2026)Yanagihara, Iwasaki, Saso, Yamashita,
+  Murakoshi, and Takezawa]{yanagihara2026flow}
+Kazutaka Yanagihara, Jun Iwasaki, Kiyoto Saso, Taichi Yamashita, Shomu
+  Murakoshi, and Akihiro Takezawa.
+\newblock Flow-priority optimization of additively manufactured variable-{TPMS}
+  lattice heat exchanger based on macroscopic analysis.
+\newblock \emph{Additive Manufacturing}, 125:\penalty0 105246, 2026.
+\newblock \doi{10.1016/j.addma.2026.105246}.
+\newblock URL \url{https://doi.org/10.1016/j.addma.2026.105246}.
+
+\bibitem[Mazur et~al.(2017)Mazur, Leary, McMillan, Sun, Shidid, and
+  Brandt]{mazur2017mechanical}
+M.~Mazur, M.~Leary, M.~McMillan, S.~Sun, D.~Shidid, and M.~Brandt.
+\newblock Mechanical properties of {Ti6Al4V} and {AlSi12Mg} lattice structures
+  manufactured by selective laser melting ({SLM}).
+\newblock In \emph{Laser Additive Manufacturing}, pages 119--161. 2017.
+\newblock \doi{10.1016/b978-0-08-100433-3.00005-1}.
+\newblock URL \url{https://doi.org/10.1016/b978-0-08-100433-3.00005-1}.
+
+\bibitem[Sokollu et~al.(2022)Sokollu, Gulcan, and
+  Konukseven]{sokollu2022mechanical}
+Baris Sokollu, Orhan Gulcan, and Erhan~Ilhan Konukseven.
+\newblock Mechanical properties comparison of strut-based and triply periodic
+  minimal surface lattice structures produced by electron beam melting.
+\newblock \emph{Additive Manufacturing}, 60:\penalty0 103199, 2022.
+\newblock \doi{10.1016/j.addma.2022.103199}.
+\newblock URL \url{https://doi.org/10.1016/j.addma.2022.103199}.
+
+\bibitem[P{\l}atek et~al.(2020)P{\l}atek, Sienkiewicz, Janiszewski, and
+  Jiang]{platek2020investigations}
+Pawe{\l} P{\l}atek, Judyta Sienkiewicz, Jacek Janiszewski, and Fengchun Jiang.
+\newblock Investigations on mechanical properties of lattice structures with
+  different values of relative density made from {316L} by selective laser
+  melting ({SLM}).
+\newblock \emph{Preprints}, 2020.
+\newblock \doi{10.20944/preprints202005.0112.v1}.
+\newblock URL \url{https://doi.org/10.20944/preprints202005.0112.v1}.
+
+\bibitem[Wegner et~al.(2026)Wegner, Bischoff, Campbell, and
+  Roach]{wegner2026stiffness}
+Isaac Wegner, Adam Bischoff, Matthew~I. Campbell, and Devin~J. Roach.
+\newblock Stiffness optimized structures with variable density gyroid lattice
+  infill for extrusion additive manufacturing.
+\newblock \emph{Additive Manufacturing Letters}, 18:\penalty0 100398, 2026.
+\newblock \doi{10.1016/j.addlet.2026.100398}.
+\newblock URL \url{https://doi.org/10.1016/j.addlet.2026.100398}.
+
+\bibitem[Elkholy et~al.(2022)Elkholy, Quinn, U{\'i}~Mhurchadha, Raghavendra,
+  and Kempers]{elkholy2022characterization}
+Ahmed Elkholy, Paul Quinn, Sin{\'e}ad~M. U{\'i}~Mhurchadha, Ramesh Raghavendra,
+  and Roger Kempers.
+\newblock Characterization and analysis of the thermal conductivity of alsi10mg
+  fabricated by laser powder bed fusion.
+\newblock \emph{Journal of Manufacturing Science and Engineering}, 144\penalty0
+  (10):\penalty0 101001, 2022.
+\newblock \doi{10.1115/1.4054491}.
+\newblock URL \url{https://doi.org/10.1115/1.4054491}.
+
+\bibitem[Azizi et~al.(2023)Azizi, Hejripour, Goodman, Kulkarni, Chen, Zhou, and
+  Schiffres]{azizi2023process}
+Arad Azizi, Fatemeh Hejripour, Jacob~A. Goodman, Piyush~A. Kulkarni, Xiaobo
+  Chen, Guangwen Zhou, and Scott~N. Schiffres.
+\newblock Process-dependent anisotropic thermal conductivity of laser powder
+  bed fusion alsi10mg: impact of microstructure and aluminum-silicon
+  interfaces.
+\newblock \emph{Rapid Prototyping Journal}, 29\penalty0 (6):\penalty0
+  1109--1120, 2023.
+\newblock \doi{10.1108/rpj-09-2022-0290}.
+\newblock URL \url{https://doi.org/10.1108/rpj-09-2022-0290}.
+
+\bibitem[Liu et~al.(2021)Liu, Takata, Suzuki, and
+  Kobashi]{liu2021inhomogeneous}
+Mu~Lin Liu, Naoki Takata, Asuka Suzuki, and Makoto Kobashi.
+\newblock Inhomogeneous microstructure and its thermal stability of alsi10mg
+  lattice structure manufactured via laser powder bed fusion.
+\newblock \emph{Materials Science Forum}, 1016:\penalty0 826--831, 2021.
+\newblock \doi{10.4028/www.scientific.net/msf.1016.826}.
+\newblock URL \url{https://doi.org/10.4028/www.scientific.net/msf.1016.826}.
+
+\bibitem[Gong and Kozmel(2023)]{gong2023aluminum}
+Jiadong Gong and Thomas Kozmel.
+\newblock Aluminum alloy design for additive manufacturing.
+\newblock pages 74--80, 2023.
+\newblock \doi{10.31399/asm.hb.v24a.a0006970}.
+\newblock URL \url{https://doi.org/10.31399/asm.hb.v24a.a0006970}.
+
+\bibitem[Teodorescu et~al.(2025)Teodorescu, Serrano, Williamson, Luengo,
+  Nikulin, del Barrio, and Largiller]{teodorescu2025investigation}
+Laura Teodorescu, {\'A}ngel Serrano, Kyran Williamson, Cristina Luengo, Artem
+  Nikulin, Elena~Palomo del Barrio, and Gr{\'e}gory Largiller.
+\newblock Investigation of {Al-Si-Cu} alloys as phase change materials for high
+  temperature thermal energy storage.
+\newblock \emph{arXiv preprint arXiv:2512.01521}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2512.01521}.
+
+\bibitem[Traub et~al.(2026)]{traub2026design}
+Sebastian Traub et~al.
+\newblock Design and manufacturing of tpms structures.
+\newblock In \emph{Design for Additive Manufacturing}. Springer, 2026.
+\newblock \doi{10.1007/978-3-032-13844-6_7}.
+\newblock URL \url{https://doi.org/10.1007/978-3-032-13844-6_7}.
+
+\bibitem[Choudhari(2025)]{choudhari2025additive}
+Pravin~D. Choudhari.
+\newblock Additive manufacturing of novel heat exchanger configurations: a
+  review.
+\newblock \emph{Thermal Energy Storage Using Phase Change Materials:
+  Fundamentals and Applications}, 2025.
+\newblock \doi{10.1201/9781003509837-7}.
+\newblock URL \url{https://doi.org/10.1201/9781003509837-7}.
+
+\bibitem[Yin et~al.(2025)Yin, Zhang, and Vvedensky]{yin2025density}
+Mengdi Yin, Jing Zhang, and Dimitri~D Vvedensky.
+\newblock Density-functional theory and triply-periodic minimal surfaces.
+\newblock \emph{arXiv preprint arXiv:2503.12555}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2503.12555}.
+
+\bibitem[Yan and Wang(2026)]{yan2026fourier}
+Shu Yan and Bohan Wang.
+\newblock Fourier-latent diffusion for constrained generation of triply
+  periodic minimal surfaces.
+\newblock \emph{arXiv preprint arXiv:2608.02151}, 2026.
+\newblock URL \url{https://arxiv.org/abs/2608.02151}.
+
+\bibitem[Lebaal et~al.(2020)Lebaal, SettaR, Roth, and
+  Gomes]{lebaal2020conjugate}
+Nadhir Lebaal, Abdelhakim SettaR, Sebastien Roth, and Samuel Gomes.
+\newblock Conjugate heat transfer analysis within in lattice-filled heat
+  exchanger for additive manufacturing.
+\newblock \emph{Mechanics of Advanced Materials and Structures}, 29\penalty0
+  (10):\penalty0 1361--1369, 2020.
+\newblock \doi{10.1080/15376494.2020.1819489}.
+\newblock URL \url{https://doi.org/10.1080/15376494.2020.1819489}.
+
+\bibitem[Mahmoud et~al.(2023)Mahmoud, Singh~Tandel, Yakout, Elbestawi,
+  Mattiello, Paradiso, Ching, Zaher, and Abdelnabi]{mahmoud2023enhancement}
+Dalia Mahmoud, Shekhar~Rammohan Singh~Tandel, Mostafa Yakout, Mohamed
+  Elbestawi, Fabrizio Mattiello, Stefano Paradiso, Chan Ching, Mohammed Zaher,
+  and Mohamed Abdelnabi.
+\newblock Enhancement of heat exchanger performance using additive
+  manufacturing of gyroid lattice structures.
+\newblock \emph{The International Journal of Advanced Manufacturing
+  Technology}, 126\penalty0 (9-10):\penalty0 4021--4036, 2023.
+\newblock \doi{10.1007/s00170-023-11362-9}.
+\newblock URL \url{https://doi.org/10.1007/s00170-023-11362-9}.
+
+\bibitem[Yan et~al.(2024)Yan, Deng, Xiao, Wang, and
+  Luo]{yan2024thermohydraulic}
+Kaixin Yan, Hongwu Deng, Yewei Xiao, Junwei Wang, and Yaoyuan Luo.
+\newblock Thermo-hydraulic performance evaluation through experiment and
+  simulation of additive manufactured gyroid-structured heat exchanger.
+\newblock \emph{Applied Thermal Engineering}, 241:\penalty0 122402, 2024.
+\newblock \doi{10.1016/j.applthermaleng.2024.122402}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2024.122402}.
+
+\bibitem[Lai and Samad(2025)]{lai2025development}
+Wei-Hsiang Lai and Abdul Samad.
+\newblock Development and flow optimization of ``gyroid'' based additive
+  manufacturing heat exchanger: Both computational and experimental analyses.
+\newblock \emph{International Journal of Thermal Sciences}, 213:\penalty0
+  109835, 2025.
+\newblock \doi{10.1016/j.ijthermalsci.2025.109835}.
+\newblock URL \url{https://doi.org/10.1016/j.ijthermalsci.2025.109835}.
+
+\bibitem[Yu et~al.(2025)Yu, Moreira, Chen, Rankouhi, Thoma, Anderson, and
+  Qian]{yu2025data}
+Xinyi Yu, Tiago~Augusto Moreira, Baixi Chen, Behzad Rankouhi, Dan~J. Thoma,
+  Mark~H. Anderson, and Xiaoping Qian.
+\newblock Data-driven optimization, additive manufacturing and thermohydraulic
+  testing of a high-temperature gyroid-based tpms heat exchanger.
+\newblock \emph{Applied Thermal Engineering}, 280:\penalty0 128422, 2025.
+\newblock \doi{10.1016/j.applthermaleng.2025.128422}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2025.128422}.
+
+\bibitem[Palomba(2025)]{palomba2025thermal}
+Valeria Palomba.
+\newblock Thermal and mechanical performance of tpms-based heat exchangers
+  fabricated via additive manufacturing: A focus on gyroid structures.
+\newblock In \emph{Materials Research Proceedings}, volume~54, pages 114--123.
+  Materials Research Forum LLC, 2025.
+\newblock \doi{10.21741/9781644903599-13}.
+\newblock URL \url{https://doi.org/10.21741/9781644903599-13}.
+
+\bibitem[Daifalla et~al.(2024)Daifalla, Shahpar, Tristanto, and
+  Carta]{daifalla2024multi}
+Elhusseiny Daifalla, Shahrokh Shahpar, Indi Tristanto, and Mario Carta.
+\newblock Multi-disciplinary optimization of gyroid topologies for a cold plate
+  heat exchanger design.
+\newblock In \emph{ASME Turbo Expo 2024: Turbomachinery Technical Conference
+  and Exposition}, volume~13. American Society of Mechanical Engineers, 2024.
+\newblock \doi{10.1115/gt2024-128603}.
+\newblock URL \url{https://doi.org/10.1115/gt2024-128603}.
+
+\bibitem[Ghafoorian et~al.(2025)Ghafoorian, Wang, and
+  Wan]{ghafoorian2025numerical}
+Farzad Ghafoorian, Yanxing Wang, and Hui Wan.
+\newblock Numerical analysis of thermal performance in triply periodic minimal
+  surface structures with phase change material for passive thermal management.
+\newblock \emph{Journal of Energy Storage}, 134:\penalty0 118093, 2025.
+\newblock \doi{10.1016/j.est.2025.118093}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2025.118093}.
+
+\bibitem[Gado(2024)]{gado2024improving}
+Mohamed~G. Gado.
+\newblock Improving the charging performance of latent heat thermal energy
+  storage systems using triply periodic minimal surface (tpms) structures.
+\newblock \emph{Journal of Energy Storage}, 103:\penalty0 114310, 2024.
+\newblock \doi{10.1016/j.est.2024.114310}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2024.114310}.
+
+\bibitem[Gado(2025)]{gado2025thermal}
+Mohamed~G. Gado.
+\newblock Thermal management and heat transfer enhancement of electronic
+  devices using integrative phase change material (pcm) and triply periodic
+  minimal surface (tpms) heat sinks.
+\newblock \emph{Applied Thermal Engineering}, 258:\penalty0 124504, 2025.
+\newblock \doi{10.1016/j.applthermaleng.2024.124504}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2024.124504}.
+
+\bibitem[Gado(2026)]{gado2026efficient}
+Mohamed~G. Gado.
+\newblock Efficient thermal management of high-power and transient electronic
+  devices using phase change material-filled triply periodic minimal surface
+  heat sinks.
+\newblock \emph{Applied Thermal Engineering}, 289:\penalty0 129853, 2026.
+\newblock \doi{10.1016/j.applthermaleng.2026.129853}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2026.129853}.
+
+\bibitem[Su et~al.(2026)Su, Xue, Javadirad, Kundu, and Oztekin]{su2026thermal}
+Tong Su, Guanyang Xue, Setayesh Javadirad, Animesh Kundu, and Alparslan
+  Oztekin.
+\newblock Thermal analysis of phase change material based energy storage module
+  with triply periodic minimal surfaces.
+\newblock \emph{Energy Storage}, 8\penalty0 (4):\penalty0 e70417, 2026.
+\newblock \doi{10.1002/est2.70417}.
+\newblock URL \url{https://doi.org/10.1002/est2.70417}.
+
+\bibitem[ELSihy et~al.(2026)ELSihy, Mokheimer, and Gado]{elsihy2026melting}
+ELSaeed~Saad ELSihy, Esmail~M.A. Mokheimer, and Mohamed~G. Gado.
+\newblock Melting and solidification characteristics of integrated phase change
+  material/triply periodic minimal surface structures: Toward augmented latent
+  heat thermal energy storage systems.
+\newblock \emph{International Communications in Heat and Mass Transfer},
+  172:\penalty0 110503, 2026.
+\newblock \doi{10.1016/j.icheatmasstransfer.2026.110503}.
+\newblock URL \url{https://doi.org/10.1016/j.icheatmasstransfer.2026.110503}.
+
+\bibitem[Fan et~al.(2023)Fan, Fu, Gao, and Liu]{fan2023investigation}
+Zhaohui Fan, Yijie Fu, Renjing Gao, and Shutian Liu.
+\newblock Investigation on heat transfer enhancement of phase change material
+  for battery thermal energy storage system based on composite triply periodic
+  minimal surface.
+\newblock \emph{Journal of Energy Storage}, 57:\penalty0 106222, 2023.
+\newblock \doi{10.1016/j.est.2022.106222}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2022.106222}.
+
+\bibitem[Avivi et~al.(2023)]{avivi2023ihtc}
+M.~Avivi et~al.
+\newblock Numerical investigation of phase change material melting in gyroid
+  lattice structures.
+\newblock In \emph{Proceedings of the International Heat Transfer Conference
+  17}. Begellhouse, 2023.
+\newblock \doi{10.1615/ihtc17.120-180}.
+\newblock URL \url{https://doi.org/10.1615/ihtc17.120-180}.
+
+\bibitem[Wang et~al.(2026)Wang, Liu, and Qin]{wang2026modulation}
+Zhan Wang, Zekuan Liu, and Jiang Qin.
+\newblock Modulation of phase change heat transfer performance in triply
+  periodic minimal surface based porous structures.
+\newblock \emph{Case Studies in Thermal Engineering}, 77:\penalty0 107558,
+  2026.
+\newblock \doi{10.1016/j.csite.2025.107558}.
+\newblock URL \url{https://doi.org/10.1016/j.csite.2025.107558}.
+
+\bibitem[Molteni et~al.(2023)Molteni, Candidori, Graziosi, and
+  Gariboldi]{molteni2023improving}
+Matteo Molteni, Sara Candidori, Serena Graziosi, and Elisabetta Gariboldi.
+\newblock Improving the thermal response flexibility of 2- and 3-phase
+  composite phase change materials by metallic triply periodic minimal surface
+  structures.
+\newblock \emph{Journal of Energy Storage}, 72:\penalty0 108185, 2023.
+\newblock \doi{10.1016/j.est.2023.108185}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2023.108185}.
+
+\bibitem[Molteni et~al.(2026)Molteni, Pandolfi, and
+  Gariboldi]{molteni2026tuning}
+Matteo Molteni, Anna Pandolfi, and Elisabetta Gariboldi.
+\newblock Tuning the effective thermal conductivity and thermal response of
+  triply periodic minimal surface-based composites through anisotropic geometry
+  rescaling.
+\newblock \emph{Journal of Energy Storage}, 169:\penalty0 122696, 2026.
+\newblock \doi{10.1016/j.est.2026.122696}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2026.122696}.
+
+\bibitem[Arqam et~al.(2025)Arqam, Raffa, Spisiak, Clemon, Luo, Ryall, Islam,
+  and Bennett]{arqam2025computational}
+Mohammad Arqam, Laryssa~Sueza Raffa, Simone Spisiak, Lee Clemon, Zhen Luo, Matt
+  Ryall, Mohammad~S. Islam, and Nick~S. Bennett.
+\newblock Computational and experimental analysis of a novel triply periodic
+  minimal surface heat sink with phase change material.
+\newblock \emph{Journal of Energy Storage}, 117:\penalty0 116121, 2025.
+\newblock \doi{10.1016/j.est.2025.116121}.
+\newblock URL \url{https://doi.org/10.1016/j.est.2025.116121}.
+
+\bibitem[Wang et~al.(2024)Wang, Pu, Zhao, Qiao, Song, and
+  Yue]{wang2024experimental}
+Jiabin Wang, Wenhao Pu, Haisheng Zhao, Long Qiao, Nanxin Song, and Chen Yue.
+\newblock Experimental and numerical investigations on the intermittent heat
+  transfer performance of phase change material (pcm)-based heat sink with
+  triply periodic minimal surfaces (tpms).
+\newblock \emph{Applied Thermal Engineering}, 254:\penalty0 123864, 2024.
+\newblock \doi{10.1016/j.applthermaleng.2024.123864}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2024.123864}.
+
+\bibitem[Zhang and Yan(2023{\natexlab{a}})]{zhang2023ihtc}
+Shuai Zhang and Yuying Yan.
+\newblock Heat transfer enhancement of ceramic foam for molten salt-based phase
+  change material.
+\newblock In \emph{Proceedings of the International Heat Transfer Conference
+  17}. Begellhouse, 2023{\natexlab{a}}.
+\newblock \doi{10.1615/ihtc17.210-280}.
+\newblock URL \url{https://doi.org/10.1615/ihtc17.210-280}.
+
+\bibitem[Zhang and Yan(2023{\natexlab{b}})]{zhang2023heat}
+Shuai Zhang and Yuying Yan.
+\newblock Heat transfer enhancement of ceramic foam for molten salt-based phase
+  change material.
+\newblock page~10, 2023{\natexlab{b}}.
+\newblock \doi{10.1615/ihtc17.210-280}.
+\newblock URL \url{https://doi.org/10.1615/ihtc17.210-280}.
+
+\bibitem[Ebrahimi et~al.(2019)Ebrahimi, Kleijn, and
+  Richardson]{ebrahimi2019sensitivity}
+Amin Ebrahimi, Chris~R. Kleijn, and Ian~M. Richardson.
+\newblock Sensitivity of numerical predictions to the permeability coefficient
+  in simulations of melting and solidification using the enthalpy-porosity
+  method.
+\newblock \emph{Energies}, 12\penalty0 (22):\penalty0 4360, 2019.
+\newblock \doi{10.3390/en12224360}.
+\newblock URL \url{https://doi.org/10.3390/en12224360}.
+
+\bibitem[Van~Riet et~al.(2024)Van~Riet, Shockner, Beyne, Ziskind, De~Paepe, and
+  Degroote]{vanriet2024limitations}
+V.~Van~Riet, T.~Shockner, W.~Beyne, G.~Ziskind, M.~De~Paepe, and J.~Degroote.
+\newblock Limitations of the enthalpy-porosity method for numerical simulation
+  of close-contact melting on inclined surfaces.
+\newblock \emph{Journal of Physics: Conference Series}, 2766\penalty0
+  (1):\penalty0 012214, 2024.
+\newblock \doi{10.1088/1742-6596/2766/1/012214}.
+\newblock URL \url{https://doi.org/10.1088/1742-6596/2766/1/012214}.
+
+\bibitem[Cao and Wang(2021)]{cao2021characterization}
+Shi-Hao Cao and Hui Wang.
+\newblock Characterization of size effect of natural convection in melting
+  process of phase change material in square cavity.
+\newblock \emph{Chinese Physics B}, 30\penalty0 (10):\penalty0 104403, 2021.
+\newblock \doi{10.1088/1674-1056/abea9c}.
+\newblock URL \url{https://doi.org/10.1088/1674-1056/abea9c}.
+
+\bibitem[Souayfane et~al.(2018)Souayfane, Biwole, and
+  Fardoun]{souayfane2018melting}
+Farah Souayfane, Pascal~Henry Biwole, and Farouk Fardoun.
+\newblock Melting of a phase change material in presence of natural convection
+  and radiation: A simplified model.
+\newblock \emph{Applied Thermal Engineering}, 130:\penalty0 660--671, 2018.
+\newblock \doi{10.1016/j.applthermaleng.2017.11.026}.
+\newblock URL \url{https://doi.org/10.1016/j.applthermaleng.2017.11.026}.
+
+\bibitem[Bondareva and Sheremet(2021)]{bondareva2021natural}
+Nadezhda~S. Bondareva and Mikhail~A. Sheremet.
+\newblock Natural convection melting influence on the thermal resistance of a
+  brick partially filled with phase change material.
+\newblock \emph{Fluids}, 6\penalty0 (7):\penalty0 258, 2021.
+\newblock \doi{10.3390/fluids6070258}.
+\newblock URL \url{https://doi.org/10.3390/fluids6070258}.
+
+\bibitem[Lacroix(1994)]{lacroix1994coupling}
+Marcel Lacroix.
+\newblock Coupling of wall conduction with natural convection-dominated melting
+  of a phase change material.
+\newblock \emph{Numerical Heat Transfer, Part A: Applications}, 26\penalty0
+  (4):\penalty0 483--498, 1994.
+\newblock \doi{10.1080/10407789408956005}.
+\newblock URL \url{https://doi.org/10.1080/10407789408956005}.
+
+\bibitem[Gobin(2004)]{gobin2004natural}
+Dominique Gobin.
+\newblock Natural convection at a solid-liquid phase change interface.
+\newblock pages 127--170, 2004.
+\newblock \doi{10.1007/978-3-7091-2764-3_3}.
+\newblock URL \url{https://doi.org/10.1007/978-3-7091-2764-3_3}.
+
+\bibitem[Laouer et~al.(2021)Laouer, Boulaktout, Mezaache, and
+  Laouar]{laouer2021study}
+Abdelghani Laouer, Nesrine Boulaktout, El~Hacene Mezaache, and Salah Laouar.
+\newblock Study of natural convection melting of phase change material inside a
+  rectangular cavity with non-uniformly heated wall.
+\newblock \emph{Defect and Diffusion Forum}, 406:\penalty0 3--11, 2021.
+\newblock \doi{10.4028/www.scientific.net/DDF.406.3}.
+\newblock URL \url{https://doi.org/10.4028/www.scientific.net/DDF.406.3}.
+
+\bibitem[Bondareva and Sheremet(2023)]{bondareva2023natural}
+Nadezhda~S. Bondareva and Mikhail~A. Sheremet.
+\newblock {NATURAL CONVECTION MELTING OF A PHASE CHANGE MATERIAL IN AN
+  ELECTRONIC CABINET WITH A LOCAL HEATER AND POROUS INSERTION}.
+\newblock page~9, 2023.
+\newblock \doi{10.1615/ihtc17.300-90}.
+\newblock URL \url{https://doi.org/10.1615/ihtc17.300-90}.
+
+\bibitem[Parsazadeh et~al.(2021)Parsazadeh, Malik, Duan, and
+  McDonald]{parsazadeh2021numerical}
+Mohammad Parsazadeh, Mehtab Malik, Xili Duan, and Andr{\'e} McDonald.
+\newblock Numerical study on melting of phase change material in an enclosure
+  subject to neumann boundary condition in the presence of rayleigh-b{\'e}nard
+  convection.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 171:\penalty0
+  121103, 2021.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2021.121103}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2021.121103}.
+
+\bibitem[KIM et~al.(2013)KIM, HOSSAIN, and NAKAMURA]{kim2013numerical}
+Yangkyun KIM, Akter HOSSAIN, and Yuji NAKAMURA.
+\newblock Numerical study of effect of thermocapillary convection on melting
+  process of phase change material subjected to local heating.
+\newblock \emph{Journal of Thermal Science and Technology}, 8\penalty0
+  (1):\penalty0 136--151, 2013.
+\newblock \doi{10.1299/jtst.8.136}.
+\newblock URL \url{https://doi.org/10.1299/jtst.8.136}.
+
+\bibitem[Schwarzmayr et~al.(2023)Schwarzmayr, Birkelbach, Walter, Javernik,
+  Schwaiger, and Hofmann]{schwarzmayr2023packed}
+Paul Schwarzmayr, Felix Birkelbach, Heimo Walter, Florian Javernik, Michael
+  Schwaiger, and Ren{\'e} Hofmann.
+\newblock Packed bed thermal energy storage for waste heat recovery in the iron
+  and steel industry: An experimental study on powder hold-up and pressure
+  drop.
+\newblock \emph{Journal of Energy Storage}, 2023.
+\newblock \doi{10.1016/j.est.2023.109735}.
+\newblock URL \url{https://arxiv.org/abs/2307.01585}.
+
+\bibitem[Rai et~al.(2023)Rai, Thakur, and Sharma]{rai2023numerical}
+Abhishek Rai, N.~S Thakur, and Deepak Sharma.
+\newblock Numerical simulation of thermal energy storage using phase change
+  material.
+\newblock \emph{arXiv preprint arXiv:2306.11624}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2306.11624}.
+
+\bibitem[Kovalevsky et~al.(2020)Kovalevsky, Mats, Shmurak, and
+  Fleisher]{kovalevsky2020experimental}
+Aleksey Kovalevsky, Ariel Mats, Mark Shmurak, and Alex Fleisher.
+\newblock Experimental study of aluminum foams thermal conductivity. prospects
+  of additive manufacturing for novel heat exchangers production.
+\newblock pages 02SAMA06--1--02SAMA06--6, 2020.
+\newblock \doi{10.1109/nap51477.2020.9309706}.
+\newblock URL \url{https://doi.org/10.1109/nap51477.2020.9309706}.
+
+\bibitem[Batikh et~al.(2024)Batikh, Fradin, and
+  Moreno]{batikh2024investigating}
+Ahmad Batikh, Jean-Pierre Fradin, and Antonio~Castro Moreno.
+\newblock Investigating the performance of an additive manufactured lattice
+  heat sink versus a conventional straight-fin heat sink for railway
+  application.
+\newblock pages 1--6, 2024.
+\newblock \doi{10.1109/therminic62015.2024.10732295}.
+\newblock URL \url{https://doi.org/10.1109/therminic62015.2024.10732295}.
+
+\bibitem[El~Arem et~al.(2020)]{elarem2020thermal}
+Sami El~Arem et~al.
+\newblock Thermal characterization of paraffin wax phase change materials for
+  thermal energy storage.
+\newblock In \emph{2020 11th International Renewable Energy Congress (IREC)}.
+  IEEE, 2020.
+\newblock \doi{10.1109/irec48820.2020.9310404}.
+\newblock URL \url{https://doi.org/10.1109/irec48820.2020.9310404}.
+
+\bibitem[Ghasemi et~al.(2022)Ghasemi, Fereiduni, Balbaa, Elbestawi, and
+  Habibi]{ghasemi2022unraveling}
+Ali Ghasemi, Eskandar Fereiduni, Mohamed Balbaa, Mohamed Elbestawi, and Saeid
+  Habibi.
+\newblock Unraveling the low thermal conductivity of the {LPBF} fabricated pure
+  {Al}, {AlSi12}, and {AlSi10Mg} alloys through substrate preheating.
+\newblock \emph{Additive Manufacturing}, 59:\penalty0 103148, 2022.
+\newblock \doi{10.1016/j.addma.2022.103148}.
+\newblock URL \url{https://doi.org/10.1016/j.addma.2022.103148}.
+
+\bibitem[Rosenthal et~al.(2015)Rosenthal, Nahmany, Stern, and
+  Frage]{rosenthal2015structure}
+Idan Rosenthal, Moshe Nahmany, Adin Stern, and Nachum Frage.
+\newblock Structure and mechanical properties of {AlSi10Mg} fabricated by
+  selective laser melting additive manufacturing ({SLM-AM}).
+\newblock \emph{Advanced Materials Research}, 1111:\penalty0 62--66, 2015.
+\newblock \doi{10.4028/www.scientific.net/AMR.1111.62}.
+\newblock URL \url{https://doi.org/10.4028/www.scientific.net/AMR.1111.62}.
+
+\bibitem[Nirsh et~al.(2025)Nirsh, Madhavi, and Rajendra]{nirsh2025mechanical}
+Mudda Nirsh, Pentamaraju Madhavi, and Rega Rajendra.
+\newblock Mechanical characterization of heat-treated {AlSi10Mg} alloy
+  fabricated using laser powder bed fusion additive manufacturing.
+\newblock \emph{The International Journal of Advanced Manufacturing
+  Technology}, 2025.
+\newblock \doi{10.1007/s00170-025-16838-4}.
+\newblock URL \url{https://doi.org/10.1007/s00170-025-16838-4}.
+
+\bibitem[Kamkari et~al.(2014)Kamkari, Shokouhmand, and
+  Bruno]{kamkari2014experimental}
+Babak Kamkari, Hossein Shokouhmand, and Frank Bruno.
+\newblock Experimental investigation of the effect of inclination angle on
+  convection-driven melting of phase change material in a rectangular
+  enclosure.
+\newblock \emph{International Journal of Heat and Mass Transfer}, 72:\penalty0
+  186--200, 2014.
+\newblock \doi{10.1016/j.ijheatmasstransfer.2014.01.014}.
+\newblock URL \url{https://doi.org/10.1016/j.ijheatmasstransfer.2014.01.014}.
+
+\bibitem[Kirincic et~al.(2021)Kirincic, Trp, and Lenic]{kirincic2021influence}
+Mateo Kirincic, Anica Trp, and Kristian Lenic.
+\newblock Influence of natural convection during melting and solidification of
+  paraffin in a longitudinally finned shell-and-tube latent thermal energy
+  storage on the applicability of developed numerical models.
+\newblock \emph{Renewable Energy}, 179:\penalty0 1329--1344, 2021.
+\newblock \doi{10.1016/j.renene.2021.07.083}.
+\newblock URL \url{https://doi.org/10.1016/j.renene.2021.07.083}.
+
+\bibitem[Kirin{\v c}i{\'c} et~al.(2021)]{kirincic2021ahe}
+Matej Kirin{\v c}i{\'c} et~al.
+\newblock Influence of natural convection on melting of phase change material
+  in rectangular cavity.
+\newblock In \emph{Proceedings of the 7th International Conference on Civil,
+  Architectural and Environmental Engineering}. Atlantis Press, 2021.
+\newblock \doi{10.2991/ahe.k.210202.028}.
+\newblock URL \url{https://doi.org/10.2991/ahe.k.210202.028}.
+
+\bibitem[Khakpour and Seyed-Yagoobi(2014)]{khakpour2014natural}
+Yasmin Khakpour and Jamal Seyed-Yagoobi.
+\newblock Natural convection in an enclosure with micro encapsulated phase
+  change material: Experimental and numerical study.
+\newblock In \emph{11th AIAA/ASME Joint Thermophysics and Heat Transfer
+  Conference}. American Institute of Aeronautics and Astronautics, 2014.
+\newblock \doi{10.2514/6.2014-2553}.
+\newblock URL \url{https://doi.org/10.2514/6.2014-2553}.
+
+\end{thebibliography}

@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py", line 2144, in _setitem_single_column
+    self.obj._mgr.column_setitem(
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\internals\managers.py", line 1518, in column_setitem
+    col_mgr.setitem_inplace(idx, value)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\internals\managers.py", line 2226, in setitem_inplace
+    arr[indexer] = value
+    ~~~^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\string_.py", line 863, in __setitem__
+    value = self._maybe_convert_setitem_value(value)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\string_.py", line 853, in _maybe_convert_setitem_value
+    raise TypeError(
+TypeError: Invalid value for dtype 'str'. Value should be a string or missing value (or array of those).
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\OpenScience\2026-07-30-2033\analyze_temperature.py", line 56, in <module>
+    df_20w = load_and_process('temperature_record_20260731_195755.csv', is_csv=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\OpenScience\2026-07-30-2033\analyze_temperature.py", line 13, in load_and_process
+    df.iloc[:, 0] = pd.to_datetime(df.iloc[:, 0])
+    ~~~~~~~^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py", line 938, in __setitem__
+    iloc._setitem_with_indexer(indexer, value, self.name)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py", line 1953, in _setitem_with_indexer
+    self._setitem_with_indexer_split_path(indexer, value, name)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py", line 1997, in _setitem_with_indexer_split_path
+    self._setitem_single_column(ilocs[0], value, pi)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py", line 2163, in _setitem_single_column
+    raise TypeError(
+TypeError: Invalid value '0     2026-07-31 19:57:55
+1     2026-07-31 19:57:56
+2     2026-07-31 19:57:57
+3     2026-07-31 19:57:58
+4     2026-07-31 19:58:00
+              ...        
+598   2026-07-31 20:08:58
+599   2026-07-31 20:08:59
+600   2026-07-31 20:09:00
+601   2026-07-31 20:09:01
+602   2026-07-31 20:09:02
+Name: ʱ���, Length: 603, dtype: datetime64[us]' for dtype 'str'

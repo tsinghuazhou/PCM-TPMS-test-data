@@ -1,0 +1,156 @@
+abdullhussein2025review | 2025 | article | A review of fin geometry and design for performance enhancement in latent heat thermal energy storage systems
+abhat1983low | 1983 | article | Low temperature latent heat thermal energy storage: Heat storage materials
+alabidi2013internal | 2013 | article | Internal and external fin heat transfer enhancement technique for latent heat thermal energy storage in triplex tube heat exchangers
+alisetti2000forced | 2000 | article | Forced convection heat transfer to phase change material slurries in circular ducts
+allen2015effect | 2015 | article | Effect of inclination angle during melting and solidification of a phase change material using a combined heat pipe-metal foam or foil configuration
+almeshaal2023numerical | 2023 | article | Numerical study of encapsulated nanoparticles enhanced phase change material in thermal energy cool storage packed bed system
+alyasiri2022energetic | 2022 | article | Energetic and thermal comfort assessment of phase change material passively incorporated building envelope in severe hot climate: An experimental study
+an2026performance | 2026 | article | Performance evaluation of gradient {TPMS
+anilkumar2021optimum | 2021 | article | Optimum selection of phase change material for solar box cooker integrated with thermal energy storage unit using multi-criteria decision-making technique
+arkar2015optimization | 2015 | article | Optimization of latent heat storage in solar air heating system with vacuum tube air solar collector
+arqam2025computational | 2025 | article | Computational and experimental analysis of a novel triply periodic minimal surface heat sink with phase change material
+ashokkumar2022experimental | 2022 | article | Experimental and computational study of melting phase-change material for energy storage in shell and tube heat exchanger
+avivi2023ihtc | 2023 | inproceedings | Numerical investigation of phase change material melting in gyroid lattice structures
+awad2022performance | 2022 | article | Performance of bi-fluid PV/thermal collector integrated with phase change material: Experimental assessment
+azizi2023process | 2023 | article | Process-dependent anisotropic thermal conductivity of laser powder bed fusion AlSi10Mg: impact of microstructure and aluminum-silicon interfaces
+balakrishnan2024experimental | 2024 | article | Experimental thermal performance of a solar air heater with rectangular fins and phase change material
+banas2025evaluation | 2025 | article | Evaluation of {TPMS
+batikh2024investigating | 2024 | article | Investigating the performance of an additive manufactured lattice heat sink versus a conventional straight-fin heat sink for railway application
+bondareva2023natural | 2023 | article | {NATURAL CONVECTION MELTING OF A PHASE CHANGE MATERIAL IN AN ELECTRONIC CABINET WITH A LOCAL HEATER AND POROUS INSERTION
+borkar2022transient | 2022 | article | Transient study of phase change material based hybrid heat sink for electronics cooling application
+charunyakorn1991forced | 1991 | article | Forced convection heat transfer in microencapsulated phase change material slurries: flow in circular ducts
+chauhan2022design | 2022 | article | Design and experimental studies of a funnel solar cooker with phase change material
+chinnasamy2021experimental | 2021 | article | Experimental investigation of cold storage using phase change material
+choi1994forced | 1994 | article | Forced convection heat transfer with phase-change-material slurries: Turbulent flow in a circular tube
+daifalla2024multi | 2024 | inproceedings | Multi-disciplinary optimization of gyroid topologies for a cold plate heat exchanger design
+delgado2012review | 2012 | article | Review on phase change material emulsions and microencapsulated phase change material slurries: Materials, heat transfer studies and applications
+duan2021transient | 2021 | article | Transient heat transfer analysis of phase change material melting in metal foam by experimental study and artificial neural network
+elarem2020thermal | 2020 | inproceedings | Thermal characterization of paraffin wax phase change materials for thermal energy storage
+elkholy2022characterization | 2022 | article | Characterization and analysis of the thermal conductivity of AlSi10Mg fabricated by laser powder bed fusion
+elsihy2026melting | 2026 | article | Melting and solidification characteristics of integrated phase change material/triply periodic minimal surface structures: Toward augmented latent heat thermal energy storage systems
+embiale2023investigation | 2023 | article | Investigation on solar drying system with double pass solar air heater coupled with paraffin wax based latent heat storage: Experimental and numerical study
+emeema2024investigations | 2024 | article | Investigations on paraffin wax/{CQD
+enteshari2022fabrication | 2022 | article | Fabrication and performance of microencapsulated phase-change material/gypsum plaster tile for thermal energy-storage building material
+esakkimuthu2013experimental | 2013 | article | Experimental investigation on phase change material based thermal storage system for solar air heating applications
+fakhraei2024experimental | 2024 | article | Experimental performance evaluation of a dual-purpose photovoltaic-thermal system with phase change material for passive heating and cooling
+famiglietti2021swc | 2021 | inproceedings | Numerical analysis of phase change material thermal storage for solar air heating
+fan2023investigation | 2023 | article | Investigation on heat transfer enhancement of phase change material for battery thermal energy storage system based on composite triply periodic minimal surface
+farahani2021efficacy | 2021 | article | Efficacy of magnetic field on nanoparticle-enhanced phase change material melting in a triple tube with porous fin
+fath1995thermal | 1995 | article | Thermal performance of a simple design solar air heater with built-in thermal energy storage system
+fatlawi2024numerical | 2024 | inproceedings | Numerical investigation of phase change material solidification with extended surfaces
+gado2024improving | 2024 | article | Improving the charging performance of latent heat thermal energy storage systems using triply periodic minimal surface (TPMS) structures
+gado2025thermal | 2025 | article | Thermal management and heat transfer enhancement of electronic devices using integrative phase change material (PCM) and triply periodic minimal surface (TPMS) heat sinks
+gado2026efficient | 2026 | article | Efficient thermal management of high-power and transient electronic devices using phase change material-filled triply periodic minimal surface heat sinks
+gasia2016experimental | 2016 | article | Experimental evaluation of a paraffin as phase change material for thermal energy storage in laboratory equipment and in a shell-and-tube heat exchanger
+george2020novel | 2020 | article | A novel polyaniline (PANI)/ paraffin wax nano composite phase change material: Superior transition heat storage capacity, thermal conductivity and thermal reliability
+ghafoorian2025numerical | 2025 | article | Numerical analysis of thermal performance in triply periodic minimal surface structures with phase change material for passive thermal management
+gobin2004natural | 2004 | article | Natural Convection at a Solid-Liquid Phase Change Interface
+godakawela2025sound | 2025 | article | Sound absorption in uniform and layered gyroid and diamond triply periodic minimal surface porous absorbers
+gogoi2024thermal | 2024 | article | Thermal Conductivity Enhancement of a Paraffin Wax-Based Composite Phase Change Material for Energy Storage
+gong2023aluminum | 2023 | article | Aluminum Alloy Design for Additive Manufacturing
+guler2026engineered | 2026 | article | Engineered expanded graphite/paraffin wax shape-stable phase change composite coated by copper and silver with outstanding latent heat storage capacity and thermal conductivity
+hekimoglu2021thermal | 2021 | article | Thermal management performance and mechanical properties of a novel cementitious composite containing fly ash/lauric acid-myristic acid as form-stable phase change material
+hong2026experimental | 2026 | article | An Experimental Study of Flow Boiling Heat Transfer and Pressure Drop in Channels with Gyroid- and Diamond-Based Triply Periodic Minimal Surface ({TPMS
+hong2026flow | 2026 | article | Flow boiling heat transfer and pressure drop in gyroid and diamond {TPMS
+huo2026convective | 2026 | article | Convective heat transfer process and performance analysis of {TPMS
+ifa2026diamond | 2026 | article | Diamond and gyroid triply periodic minimal surface heat sinks for advanced microprocessor cooling
+inaba2004melting | 2004 | article | Melting heat transfer characteristics of microencapsulated phase change material slurries with plural microcapsules having different diameters
+isiam2023experimental | 2023 | inproceedings | Experimental investigation on phase change material based circular pin fin heat sink for cooling electronic equipment
+jiang2024battery | 2024 | incollection | Battery thermal management using phase-change material
+kabeel2017improvement | 2017 | article | Improvement of thermal performance of the finned plate solar air heater by using latent heat thermal storage
+kamkari2014experimental | 2014 | article | Experimental investigation of the effect of inclination angle on convection-driven melting of phase change material in a rectangular enclosure
+keyhani2025innovative | 2025 | article | Innovative hybrid battery thermal management system incorporating copper foam porous fins and layers with phase change material and liquid cooling
+khakpour2014natural | 2014 | inproceedings | Natural convection in an enclosure with micro encapsulated phase change material: Experimental and numerical study
+kim2013numerical | 2013 | article | Numerical Study of Effect of Thermocapillary Convection on Melting Process of Phase Change Material subjected to Local Heating
+kirincic2021ahe | 2021 | inproceedings | Influence of natural convection on melting of phase change material in rectangular cavity
+kirincic2021influence | 2021 | article | Influence of natural convection during melting and solidification of paraffin in a longitudinally finned shell-and-tube latent thermal energy storage on the applicability of developed numerical models
+kothari2018comprehensive | 2018 | article | Comprehensive analysis of melting and solidification of a phase change material in an annulus
+kovalevsky2020experimental | 2020 | article | Experimental Study of Aluminum Foams Thermal Conductivity. Prospects of Additive Manufacturing for Novel Heat Exchangers Production
+krason2025thermal | 2025 | article | Thermal energy storage possibilities in the composite Trombe wall modified with a phase change material
+kumar2022design | 2022 | article | Design and performance characteristics of a solar box cooker with phase change material: A feasibility study for Uttarakhand region, India
+lacroix1994coupling | 1994 | article | Coupling of wall conduction with natural convection-dominated melting of a phase change material
+lai2025development | 2025 | article | Development and flow optimization of ``Gyroid'' based additive manufacturing heat exchanger: Both computational and experimental analyses
+laouer2021study | 2021 | article | Study of Natural Convection Melting of Phase Change Material inside a Rectangular Cavity with Non-Uniformly Heated Wall
+lebrouhi2024comparative | 2024 | incollection | A comparative study of battery thermal management systems using phase-change material and liquid cooling
+li2013nano | 2013 | article | A nano-graphite/paraffin phase change material with high thermal conductivity
+lilley2020impact | 2020 | article | Impact of Size and Thermal Gradient on Supercooling of Phase Change Materials for Thermal Energy Storage
+liu2021inhomogeneous | 2021 | article | Inhomogeneous microstructure and its thermal stability of AlSi10Mg lattice structure manufactured via laser powder bed fusion
+liu2022piv | 2022 | article | {PIV
+lv2008numerical | 2008 | article | Numerical Simulation on Melting and Solidification of a Phase-Change Material in an Aluminum Plate-Fin Thermal Storage
+mahmoud2023enhancement | 2023 | article | Enhancement of heat exchanger performance using additive manufacturing of gyroid lattice structures
+manojkumar2020experimental | 2020 | article | Experimental and theoretical investigations on thermal conductivity of the paraffin wax using CuO nanoparticles
+marri2023multiple | 2023 | article | Multiple Phase Change Material-Based Heat Sink for Cooling of Electronics: A Combined Experimental and Numerical Study
+masthanvali2024battery | 2024 | article | Battery thermal management system on trapezoidal battery pack with liquid cooling system utilizing phase change material
+mian2025computational | 2025 | article | Computational evaluation based case study of {Schwarz-P
+midhun2025solid | 2025 | article | Solid-solid phase change material composite based heat sink with tandem coupled heat pipe for cooling of electronics in harsh thermal environments
+molteni2023improving | 2023 | article | Improving the thermal response flexibility of 2- and 3-phase composite phase change materials by metallic triply periodic minimal surface structures
+molteni2026tuning | 2026 | article | Tuning the effective thermal conductivity and thermal response of Triply Periodic Minimal Surface-based composites through anisotropic geometry rescaling
+motahar2016experimental | 2016 | article | Experimental study on the melting and solidification of a phase change material enhanced by heat pipe
+muthuvel2014passive | 2014 | article | Passive cooling by phase change material usage in construction
+nirala2025computational | 2025 | article | Computational evaluation based case study of {Schwarz-P
+pakrouh2023thermal | 2023 | article | Thermal management analysis of new liquid cooling of a battery system based on phase change material and thermoelectric cooler
+palomba2025thermal | 2025 | inproceedings | Thermal and mechanical performance of TPMS-based heat exchangers fabricated via additive manufacturing: A focus on gyroid structures
+parsakamkari2024experimental | 2024 | article | Experimental study on the influence of shell geometry and tube eccentricity on phase change material melting in shell and tube heat exchangers
+parsazadeh2021numerical | 2021 | article | Numerical study on melting of phase change material in an enclosure subject to Neumann boundary condition in the presence of Rayleigh-B{\'e
+peng2021thermal | 2021 | article | Thermal function improvement of phase-change material ({PCM
+pinnarat2026development | 2026 | article | Development and thermal performance of a portable solar cooker using glycerol-erythritol phase change material
+platek2020investigations | 2020 | article | Investigations on Mechanical Properties of Lattice Structures with Different Values of Relative Density Made from {316L
+rai2023numerical | 2023 | article | Numerical Simulation of Thermal Energy Storage using Phase Change Material
+raj2020transient | 2020 | article | Transient CFD analysis of macro-encapsulated latent heat thermal energy storage containers incorporated within solar air heater
+rangarajan2019experimental | 2019 | incollection | Experimental investigations on 72 pin fin heat sink with discrete heating
+rao2022thermal | 2022 | article | Thermal performance of latent heat thermal energy storage systems with different fin configurations
+rudrabhiramu2026nanoparticle | 2026 | article | Nanoparticle - {PCM
+sari2004form | 2004 | article | Form-stable paraffin/high density polyethylene composites as solid-liquid phase change material for thermal energy storage: Preparation and thermal properties
+sari2007thermal | 2007 | article | Thermal conductivity and latent heat thermal energy storage characteristics of paraffin/expanded graphite composite as phase change material
+sathishkumar2023investigations | 2023 | article | Investigations on thermal properties of MWCNT-NBN paraffin wax phase change material for thermal storage applications
+saxena2020thermal | 2020 | article | Thermal performance evaluation of a solar air heater integrated with helical tubes carrying phase change material
+schwarzmayr2023packed | 2023 | article | Packed bed thermal energy storage for waste heat recovery in the iron and steel industry: An experimental study on powder hold-up and pressure drop
+sevik2025thermal | 2025 | article | Thermal performance of a heat sink ({HS
+shalaby2022experimental | 2022 | article | Experimental and numerical study of a solar air heater with phase change material
+shank2023review | 2023 | article | A review on active heat transfer enhancement techniques within latent heat thermal energy storage systems
+sharma2022effect | 2022 | article | Effect of Fin Shape on Constrained Melting Heat Transfer of Phase Change Material in a Spherical Capsule: A Numerical Study
+sharmapitchumani2022solar | 2022 | article | Solar air heating systems with latent heat storage -- A review of state-of-the-art
+singh2020numerical | 2020 | article | Numerical thermal performance investigation of phase change material integrated wavy finned single pass solar air heater
+skibar2026comparative | 2026 | article | Comparative Torsional Properties via Numerical Simulation of Triply Periodic Minimal Surfaces ({TPMS
+sokollu2022mechanical | 2022 | article | Mechanical properties comparison of strut-based and triply periodic minimal surface lattice structures produced by electron beam melting
+soliman2021melting | 2021 | article | Melting enhancement of nano-phase change material in cylindrical enclosure using convex/concave dimples: Numerical simulation with experimental validation
+soliman2021numerical | 2021 | article | Numerical simulation and experimental verification of constrained melting of phase change material in cylindrical enclosure subjected to a constant heat flux
+son2024effects | 2024 | article | Effects of Lattice Orientation Angle on {TPMS
+son2025effect | 2025 | article | Effect of Morphological Variations in {TPMS
+song2015thermal | 2015 | article | Thermal analysis of metal foam matrix composite phase change material
+srevathsan2026experimental | 2026 | article | Experimental study of a hybrid pin fin heat sink using phase change material and graphene nanofluid for electronic cooling
+srivastava2026advanced | 2026 | article | Advanced fin designs for enhancement in thermal management of eutectic phase change materials in a latent heat thermal energy storage system
+su2026thermal | 2026 | article | Thermal analysis of phase change material based energy storage module with triply periodic minimal surfaces
+tahmasbi2024effects | 2024 | article | The effects of fins number, metal foam, and helical coil on the thermal storage enhancement of the phase change material: An experimental study
+tareemi2026advances | 2026 | article | Advances in Trombe wall performance challenges, photovoltaic shading schemes, phase change material, and composite enhancements
+teodorescu2025investigation | 2025 | article | Investigation of {Al-Si-Cu
+touati2017thermal | 2017 | inproceedings | Thermal performance of a solar air heater with phase change material
+traub2026design | 2026 | incollection | Design and manufacturing of TPMS structures
+trp2005experimental | 2005 | article | An experimental and numerical investigation of heat transfer during technical grade paraffin melting and solidification in a shell-and-tube latent thermal energy storage unit
+tuncer2023experimental | 2023 | article | Experimental and transient CFD analysis of parallel-flow solar air collectors with paraffin-filled recyclable aluminum cans as latent heat energy storage unit
+veerakumar2016phase | 2016 | article | Phase change material based cold thermal energy storage: Materials, techniques and applications -- A review
+wang2011three | 2011 | article | Three-dimensional transient cooling simulations of a portable electronic device using PCM (phase change materials) in multi-fin heat sink
+wang2024experimental | 2024 | article | Experimental and numerical investigations on the intermittent heat transfer performance of phase change material (PCM)-based heat sink with triply periodic minimal surfaces (TPMS)
+wang2026modulation | 2026 | article | Modulation of phase change heat transfer performance in triply periodic minimal surface based porous structures
+wegner2026stiffness | 2026 | article | Stiffness optimized structures with variable density gyroid lattice infill for extrusion additive manufacturing
+wi2021exterior | 2021 | article | Exterior insulation finishing system using cementitious plaster/microencapsulated phase change material for improving the building thermal storage performance
+wu2026numerical | 2026 | article | Numerical simulation of phase change material-assisted liquid cooling with gear-shaped fins for battery thermal management
+xia2010preparation | 2010 | article | Preparation and thermal characterization of expanded graphite/paraffin composite phase change material
+yadav2020nanoparticle | 2020 | article | Nanoparticle enhanced {PCM
+yadav2024experimental | 2024 | article | Experimental investigation on the thermophysical properties of Paraffin wax/wheat husk composite for thermal energy storage
+yan2024thermohydraulic | 2024 | article | Thermo-hydraulic performance evaluation through experiment and simulation of additive manufactured gyroid-structured heat exchanger
+yan2026fourier | 2026 | article | Fourier-Latent Diffusion for Constrained Generation of Triply Periodic Minimal Surfaces
+yao2019numerical | 2019 | article | Numerical Simulation of Melting in Metal Foam/Paraffin Composite Phase Change Material Using a Physically More Reasonable Macroscale Model
+yin2025density | 2025 | article | Density-Functional Theory and Triply-Periodic Minimal Surfaces
+yu2022temperature | 2022 | article | Temperature control performance of high thermal conductivity metal foam/paraffin composite phase change material: An experimental study
+yu2025data | 2025 | article | Data-driven optimization, additive manufacturing and thermohydraulic testing of a high-temperature gyroid-based TPMS heat exchanger
+zhai2017preparation | 2017 | article | Preparation and thermal performance of form-stable expanded graphite/stearic acid composite phase change materials with high thermal conductivity
+zhang2003theoretical | 2003 | article | Theoretical analysis of convective heat transfer enhancement of microencapsulated phase change material slurries
+zhang2006study | 2006 | article | Study on paraffin/expanded graphite composite phase change thermal energy storage material
+zhang2023heat | 2023 | article | HEAT TRANSFER ENHANCEMENT OF CERAMIC FOAM FOR MOLTEN SALT-BASED PHASE CHANGE MATERIAL
+zhang2023ihtc | 2023 | inproceedings | Heat transfer enhancement of ceramic foam for molten salt-based phase change material
+zhang2025experimental | 2025 | article | Experimental study on thermal control performance of the phase change material-based fin heat sink suffering transient heat flux shock
+zhang2025sulfur | 2025 | article | Sulfur-Free Expanded Graphite/Paraffin Composite Phase Change Material with High Thermal Conductivity for Lithium-Ion Battery Thermal Management
+zhou2023effect | 2023 | article | Effect of key parameters on the transient thermal performance of a building envelope with Trombe wall containing phase change material
+zhu2016numerical | 2016 | article | Numerical analysis and comparison of the thermal performance enhancement methods for metal foam/phase change material composite
+zuo2020enhanced | 2020 | article | Enhanced thermal conductivity of form-stable composite phase-change materials with graphite hybridizing expanded perlite/paraffin

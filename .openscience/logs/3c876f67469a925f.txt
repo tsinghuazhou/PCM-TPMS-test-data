@@ -1,0 +1,4 @@
+  File "<string>", line 1
+    import csv; files=['temperature_record_20260731_195755.csv','temperature_record_20260802_203604.csv','temperature_record_20260802_204933.csv','temperature_record_20260803_171111-1.csv','temperature_record_20260803_171111.csv']; base=r'D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�'; import os; [print(f'{f}: {sum(1 for _ in open(os.path.join(base,f),encoding=" utf-8\))-1}
+                                                                                                                                                                                                                                                                                                                                                                                                   ^
+SyntaxError: unterminated string literal (detected at line 1)

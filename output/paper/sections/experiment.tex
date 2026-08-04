@@ -1,0 +1,60 @@
+\section{Experimental Setup}
+\label{sec:experiment}
+
+\paragraph{Experimental configuration.}
+The TPMS/PCM composite specimen was placed in a cylindrical enclosure with a cartridge heater inserted at the center, providing controlled volumetric heating. The heater power was regulated by a DC power supply with $\pm$0.1~W accuracy. The outer surface of the enclosure was insulated with 20~mm-thick ceramic fiber insulation to minimize radial heat loss. Nine T-type thermocouples ($\pm$0.1\textdegree C accuracy) were embedded at pre-defined positions within the lattice structure before PCM infiltration. Data acquisition was performed using a multi-channel data logger at 1~Hz sampling rate.
+
+\paragraph{Test matrix.}
+The experimental campaign was designed to characterize the thermal response of the Gyroid TPMS/PCM composite under three heating power levels, with additional experiments planned for Primitive and IWP topologies. The completed and planned experiments are summarized in Table~\ref{tab:test_matrix}.
+
+\begin{table}[htbp]
+\centering
+\caption{Experimental test matrix. Completed experiments are marked with \checkmark; planned experiments are marked with \textcircled{$-$}.}
+\label{tab:test_matrix}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{TPMS Topology} & \textbf{10 W} & \textbf{20 W} & \textbf{30 W} \\
+\midrule
+Gyroid   & \checkmark & \checkmark & \checkmark \\
+Primitive & \textcircled{$-$} & \textcircled{$-$} & \textcircled{$-$} \\
+IWP       & \textcircled{$-$} & \textcircled{$-$} & \textcircled{$-$} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Test procedure.}
+Each experiment began with the specimen at ambient temperature ($\sim$26\textdegree C). The heater was activated at the designated power level, and temperature data were recorded continuously until the system reached thermal equilibrium or the heater was manually terminated. The key experimental parameters for the completed Gyroid tests are summarized in Table~\ref{tab:gyroid_summary}.
+
+\begin{table}[htbp]
+\centering
+\caption{Summary of completed Gyroid TPMS/PCM heating experiments.}
+\label{tab:gyroid_summary}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Power} & \textbf{Records} & \textbf{Duration} & $T_{1,\text{final}}$ & $T_{B,\text{final}}$ & $T_{C,\text{final}}$ \\
+ &  & (min) & (\textdegree C) & (\textdegree C) & (\textdegree C) \\
+\midrule
+10 W & 1239 & 25.4 & 93.8 & 87.3 & 76.7 \\
+20 W & 603  & 11.1 & 144.7 & 80.8 & 78.7 \\
+30 W & 436  & 8.5  & 103.5 & 95.3 & 80.1 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Data processing protocol.}
+For each experiment, the raw temperature data were processed through the two-stage pipeline described in Section~\ref{sec:method}. The outlier sensors removed at each power level are listed in Table~\ref{tab:outliers}. Notably, $T_6$ was consistently identified as an outlier in Group C across all three power levels, while the outlier in Group B varied between $T_3$ (10~W, 20~W) and $T_5$ (30~W).
+
+\begin{table}[htbp]
+\centering
+\caption{Outlier sensors removed from each group at each heating power.}
+\label{tab:outliers}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Power} & \textbf{Group B outlier} & \textbf{Group B retained} & \textbf{Group C outlier} & \textbf{Group C retained} \\
+\midrule
+10 W & $T_3$ & $T_2, T_4, T_5$ & $T_6$ & $T_7, T_8, T_9$ \\
+20 W & $T_4$ & $T_2, T_3, T_5$ & $T_9$ & $T_6, T_7, T_8$ \\
+30 W & $T_5$ & $T_2, T_3, T_4$ & $T_6$ & $T_7, T_8, T_9$ \\
+\bottomrule
+\end{tabular}
+\end{table}

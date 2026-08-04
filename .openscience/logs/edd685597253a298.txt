@@ -1,0 +1,4 @@
+  File "<string>", line 29
+    print(f'��{idx}: T2={df[
+                          ^
+SyntaxError: '[' was never closed

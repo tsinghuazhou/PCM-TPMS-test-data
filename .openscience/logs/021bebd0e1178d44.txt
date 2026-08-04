@@ -1,0 +1,15 @@
+python : usage: check_bibliography_freshness.py [-h] --profile
+����λ�� ��:1 �ַ�: 1
++ python check_bibliography_freshness.py --profile balanced 2>&1 | Sele ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (usage: check_bi... [-h] --profile:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+                                       {recency-led,fast-moving,balanced,timeline-spanning}
+                                       [--current-year CURRENT_YEAR]
+                                       [--current-month CURRENT_MONTH]
+                                       [--start-year START_YEAR]
+                                       [--end-year END_YEAR]
+                                       [--minimum-percent MINIMUM_PERCENT]
+                                       bibliography
+check_bibliography_freshness.py: error: the following arguments are required: bibliography

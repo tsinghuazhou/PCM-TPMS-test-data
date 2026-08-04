@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrtnat.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'field_info' (item size: 4) to 11076 items.
+Database file #1: bibliography.bib
+Reallocating 'str_pool' (item size: 1) to 130000 items.
+Warning--empty publisher in mehrpooya2026phase
+Warning--empty publisher in sait2022solidification
+Warning--empty publisher in belusko2018direct
+Warning--empty publisher in fouad2026additive
+Warning--empty journal in yao2019numerical
+Warning--empty journal in sharma2022effect
+Warning--empty journal in lv2008numerical
+Warning--empty journal in yadav2020nanoparticle
+Warning--empty journal in borkar2022transient
+Warning--empty journal in son2024effects
+Warning--empty journal in son2025effect
+Warning--empty journal in banas2025evaluation
+Warning--empty publisher in mazur2017mechanical
+Warning--empty journal in gong2023aluminum
+Warning--empty journal in zhang2023heat
+Warning--empty journal in gobin2004natural
+Warning--empty journal in bondareva2023natural
+Warning--empty journal in kovalevsky2020experimental
+Warning--empty journal in batikh2024investigating
+You've used 217 entries,
+            2481 wiz_defined-function locations,
+            2068 strings with 67700 characters,
+and the built_in function-call counts, 93091 in all, are:
+= -- 8364
+> -- 4977
+< -- 97
++ -- 1896
+- -- 1454
+* -- 7892
+:= -- 15357
+add.period$ -- 1100
+call.type$ -- 217
+change.case$ -- 434
+chr.to.int$ -- 209
+cite$ -- 236
+duplicate$ -- 4323
+empty$ -- 7871
+format.name$ -- 1780
+if$ -- 19682
+int.to.chr$ -- 9
+int.to.str$ -- 218
+missing$ -- 217
+newline$ -- 1521
+num.names$ -- 651
+pop$ -- 1295
+preamble$ -- 1
+purify$ -- 217
+quote$ -- 0
+skip$ -- 2469
+stack$ -- 0
+substring$ -- 4091
+swap$ -- 602
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1519
+warning$ -- 19
+while$ -- 698
+width$ -- 0
+write$ -- 3655
+(There were 19 warnings)
