@@ -1,0 +1,57 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+Saved: fig_compare_corrected_groups.png/pdf
+Saved: fig_compare_corrected_gradients.png/pdf
+Saved: fig_compare_corrected_t7.png/pdf
+
+=== Summary (Corrected Statistics) ===
+Outlier removal:
+  Gyroid:    B removed T3, C removed T6
+  Primitive: B removed T3, C removed T7
+
+Peak group averages:
+  A (T1):      Gyroid=93.77��C  Primitive=106.80��C  ��=+13.03��C
+  B (mid):     Gyroid=87.27��C  Primitive=92.97��C  ��=+5.70��C
+  C (top):     Gyroid=76.65��C  Primitive=70.03��C  ��=-6.62��C
+
+Temperature gradients at T1 peak:
+  A-B:  Gyroid=6.50��C  Primitive=13.83��C  ratio=2.13x
+  A-C:  Gyroid=17.12��C  Primitive=36.77��C  ratio=2.15x
+  B-C:  Gyroid=10.62��C  Primitive=22.93��C  ratio=2.16x

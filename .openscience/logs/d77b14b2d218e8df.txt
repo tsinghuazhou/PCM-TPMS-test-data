@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "<string>", line 13, in <module>
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\ops\common.py", line 85, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\arraylike.py", line 198, in __sub__
+    return self._arith_method(other, operator.sub)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\series.py", line 6751, in _arith_method
+    return base.IndexOpsMixin._arith_method(self, other, op)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\base.py", line 1644, in _arith_method
+    result = ops.arithmetic_op(lvalues, rvalues, op)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\ops\array_ops.py", line 279, in arithmetic_op
+    res_values = op(left, right)
+                 ^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\ops\common.py", line 85, in new_method
+    return method(self, other)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\arraylike.py", line 198, in __sub__
+    return self._arith_method(other, operator.sub)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\string_.py", line 1212, in _cmp_method
+    result[valid] = op(self._ndarray[valid], other)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+ԭʼ: 1377 ��, ĩ��ʱ�� = 2026-08-05 20:31:57
+T1��ֵ: idx=1340, T1=106.80��C, ʱ��=2026-08-05 20:31:20
+�ضϺ�: 1341 ��, ĩ��ʱ�� = 2026-08-05 20:31:20

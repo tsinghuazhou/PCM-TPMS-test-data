@@ -1,0 +1,15 @@
+Saved: fig_compare_primitive_vs_gyroid_10w.png/pdf
+Saved: fig_compare_t7_anomaly_and_peaks.png/pdf
+Saved: fig_compare_heating_rates.png/pdf
+
+=== Summary Statistics ===
+Gyroid duration: 25.38 min
+Primitive duration: 27.55 min
+Gyroid T1 peak: 93.77��C
+Primitive T1 peak: 106.80��C
+Gyroid C-group peak avg: 70.73��C
+Primitive C-group peak avg: 63.47��C
+A-B gradient (Gyroid): 6.53��C
+A-B gradient (Primitive): 13.42��C
+A-C gradient (Gyroid): 23.04��C
+A-C gradient (Primitive): 43.33��C

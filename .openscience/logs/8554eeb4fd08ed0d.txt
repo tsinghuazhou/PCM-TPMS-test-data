@@ -1,0 +1,39 @@
+=== Primitive 10W Heating Analysis ===
+Records: 1377
+Duration: 1653.0s = 27.55min
+Start: 2026-08-05 20:04:24
+End: 2026-08-05 20:31:57
+
+=== Peak Temperatures ===
+T1: 106.80��C at 1616.0s (26.93min)
+T2: 92.66��C at 1616.0s (26.93min)
+T3: 94.37��C at 1616.0s (26.93min)
+T4: 93.05��C at 1616.0s (26.93min)
+T5: 93.45��C at 1616.0s (26.93min)
+T6: 72.63��C at 1604.0s (26.73min)
+T7: 48.33��C at 1617.0s (26.95min)
+T8: 70.25��C at 1616.0s (26.93min)
+T9: 67.54��C at 1616.0s (26.93min)
+
+=== Plateau Analysis (T1, |dT/dt|<0.1��C/s) ===
+Plateau start: 1.0s (0.02min)
+Plateau end: 1617.0s (26.95min)
+Plateau duration: 1616.0s = 26.93min
+
+=== Group Statistics ===
+Group A (T1):
+  Peak range: 106.80 - 106.80��C
+  Peak time range: 1616.0 - 1616.0s
+Group B (T2,T3,T4,T5):
+  Peak range: 92.66 - 94.37��C
+  Peak time range: 1616.0 - 1616.0s
+Group C (T6,T7,T8,T9):
+  Peak range: 48.33 - 72.63��C
+  Peak time range: 1604.0 - 1617.0s
+
+=== Temperature Differences (last 10s avg) ===
+Group A: 96.66��C
+Group B: 45.79��C
+Group C: 46.24��C
+
+Stats saved to stats_primitive_10w_heating.csv
