@@ -1,0 +1,8 @@
+temperature_record_20260802_203604.csv:
+  rows=604, duration=11.97 min
+  T1 peak=103.9C, T2-T5 avg peak=90.8C
+
+temperature_record_20260803_171111.csv:
+  rows=436, duration=8.50 min
+  T1 peak=115.2C, T2-T5 avg peak=94.8C
+

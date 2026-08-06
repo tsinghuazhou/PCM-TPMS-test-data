@@ -1,0 +1,4 @@
+  File "<string>", line 45
+    print(f'{" time\:>6s}
+             ^
+SyntaxError: unterminated string literal (detected at line 45)
