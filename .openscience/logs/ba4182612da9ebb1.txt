@@ -1,0 +1,5 @@
+Saved: primitive_20w_repeat_curves.png/pdf
+Saved: primitive_20w_repeat_bars.png/pdf
+Saved: primitive_20w_repeat_cgroup.png/pdf
+
+All plots saved.
