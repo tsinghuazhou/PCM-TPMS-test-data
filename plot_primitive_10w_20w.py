@@ -34,7 +34,7 @@ def apply_ema(values, alpha=0.4):
 
 # Load data
 P10 = load('temperature_record_20260805_200423.csv')
-P20 = load('temperature_record_20260806_162603.csv')
+P20 = load('temperature_record_20260806_214551.csv')
 
 # Process groups
 raw_b_10, worst_b_10, rem_b_10 = remove_worst_and_avg(P10, ['T2','T3','T4','T5'])

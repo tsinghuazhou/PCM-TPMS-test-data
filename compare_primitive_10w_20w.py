@@ -1,9 +1,8 @@
 """
 Primitive 10W vs 20W 综合对比
-修正：2026-08-06的20W数据是Primitive结构（之前误标为Gyroid）
 
 Primitive 10W: temperature_record_20260805_200423.csv (1341 rows, 26.93 min)
-Primitive 20W: temperature_record_20260806_162603.csv (730 rows, 12.35 min, C组仅T7)
+Primitive 20W: temperature_record_20260806_214551.csv (702 rows, 11.93 min, C组T7/T8/T9)
 """
 import pandas as pd
 import numpy as np
@@ -34,7 +33,7 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 P10 = load('temperature_record_20260805_200423.csv')
-P20 = load('temperature_record_20260806_162603.csv')
+P20 = load('temperature_record_20260806_214551.csv')
 
 print("=" * 70)
 print("PRIMITIVE 10W vs 20W 综合对比")
@@ -47,13 +46,13 @@ print(f"  Primitive 20W: {len(P20)} rows, {P20['elapsed'].iloc[-1]/60:.2f} min")
 raw_b_10, worst_b_10, rem_b_10 = remove_worst_and_avg(P10, ['T2','T3','T4','T5'])
 raw_c_10, worst_c_10, rem_c_10 = remove_worst_and_avg(P10, ['T6','T7','T8','T9'])
 
-# 20W: B组去离群, C组仅T7
+# 20W: B组去离群, C组去离群 (T6异常，保留T7/T8/T9)
 raw_b_20, worst_b_20, rem_b_20 = remove_worst_and_avg(P20, ['T2','T3','T4','T5'])
-raw_c_20 = P20['T7'].values
+raw_c_20, worst_c_20, rem_c_20 = remove_worst_and_avg(P20, ['T6','T7','T8','T9'])
 
 print(f"\n离群剔除:")
 print(f"  10W: B组去掉 {worst_b_10} (保留{rem_b_10}), C组去掉 {worst_c_10} (保留{rem_c_10})")
-print(f"  20W: B组去掉 {worst_b_20} (保留{rem_b_20}), C组仅T7 (表面接触不良)")
+print(f"  20W: B组去掉 {worst_b_20} (保留{rem_b_20}), C组去掉 {worst_c_20} (保留{rem_c_20})")
 
 # 峰值
 p10_idx = P10['T1'].idxmax()
@@ -108,7 +107,7 @@ print(f"\n{'信号':<15s} {'10W (s)':>10s} {'20W (s)':>10s} {'加速比':>10s}")
 print("-" * 48)
 print(f"{'T1 (A)':<15s} {t1_10:>10.0f} {t1_20:>10.0f} {t1_10/t1_20:>9.1f}x")
 print(f"{'B组均值':<15s} {b_10:>10.0f} {b_20:>10.0f} {b_10/b_20:>9.1f}x")
-print(f"{'C组/T7':<15s} {c_10:>10.0f} {c_20:>10.0f} {c_10/c_20:>9.1f}x")
+print(f"{'C组均值':<15s} {c_10:>10.0f} {c_20:>10.0f} {c_10/c_20:>9.1f}x")
 
 # 升温速率
 print(f"\n{'='*70}")
@@ -133,7 +132,7 @@ print(f"\n{'信号':<15s} {'10W':>10s} {'20W':>10s} {'20W/10W':>10s}")
 print("-" * 48)
 print(f"{'T1 (A)':<15s} {r_t1_10:>10.3f} {r_t1_20:>10.3f} {r_t1_20/r_t1_10:>9.2f}x")
 print(f"{'B组均值':<15s} {r_b_10:>10.3f} {r_b_20:>10.3f} {r_b_20/r_b_10:>9.2f}x")
-print(f"{'C组/T7':<15s} {r_c_10:>10.3f} {r_c_20:>10.3f} {r_c_20/r_c_10:>9.2f}x")
+print(f"{'C组均值':<15s} {r_c_10:>10.3f} {r_c_20:>10.3f} {r_c_20/r_c_10:>9.2f}x")
 print(f"{'单位':<15s} {'°C/min':>10s} {'°C/min':>10s}")
 
 # 时间序列对比
@@ -153,17 +152,13 @@ for t_target in [120, 240, 360, 480, 600, 720]:
     print(f"  10W: A={a10_t:.1f}°C, B={b10_t:.1f}°C, C={c10_t:.1f}°C | A-B={a10_t-b10_t:.1f}, A-C={a10_t-c10_t:.1f}")
     print(f"  20W: A={a20_t:.1f}°C, B={b20_t:.1f}°C, C={c20_t:.1f}°C | A-B={a20_t-b20_t:.1f}, A-C={a20_t-c20_t:.1f}")
 
-# T7行为对比
+# C组离群值对比
 print(f"\n{'='*70}")
-print("T7 行为对比（关键发现）")
+print("C组离群值对比")
 print(f"{'='*70}")
-print(f"\n  10W: T7 被剔除为C组离群值")
-print(f"       T7 峰值 = {P10['T7'].max():.2f}°C, C组其他均值 ≈ {P10[['T6','T8','T9']].iloc[p10_idx].mean():.1f}°C")
-print(f"       T7 比 C组其他传感器低约 {P10[['T6','T8','T9']].iloc[p10_idx].mean() - P10['T7'].iloc[p10_idx]:.1f}°C")
-print(f"\n  20W: T7 是C组唯一可信传感器")
-print(f"       T7 峰值 = {P20['T7'].max():.2f}°C, C组其他(T6/T8/T9)峰值 = {P20[['T6','T8','T9']].max().max():.1f}°C")
-print(f"       T7 比 C组其他传感器高约 {P20['T7'].max() - P20[['T6','T8','T9']].max().max():.1f}°C")
-print(f"\n  ★ T7 在10W下异常偏低，在20W下反而正常 → 10W的T7异常可能是接触问题")
+print(f"\n  10W: C组剔除 {worst_c_10}（峰值 {P10[worst_c_10].max():.1f}°C），保留 {rem_c_10}")
+print(f"  20W: C组剔除 {worst_c_20}（峰值 {P20[worst_c_20].max():.1f}°C），保留 {rem_c_20}")
+print(f"\n  ★ T6 在 20W 下持续异常，可能是该位置传感器固有接触问题")
 
 # 能量分析
 print(f"\n{'='*70}")

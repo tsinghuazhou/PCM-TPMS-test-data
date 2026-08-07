@@ -1,7 +1,9 @@
 """
 Gyroid vs Primitive 20W comparison
 Gyroid 20W: temperature_record_20260731_195755.csv (603 rows, 11.12 min)
-Primitive 20W: temperature_record_20260806_162603.csv (730 rows, 12.35 min, C-group T7 only)
+Primitive 20W: temperature_record_20260806_214551.csv (702 rows, 11.93 min)
+
+Note: Gyroid 20W data has contact issues (T1-B gap 64.8°C), conclusions are for reference only
 """
 import pandas as pd
 import numpy as np
@@ -29,7 +31,7 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 G = load('temperature_record_20260731_195755.csv')
-P = load('temperature_record_20260806_162603.csv')
+P = load('temperature_record_20260806_214551.csv')
 
 print("=" * 70)
 print("GYROID vs PRIMITIVE at 20W - Comparative Analysis")
@@ -42,11 +44,11 @@ raw_b_g, worst_b_g, rem_b_g = remove_worst_and_avg(G, ['T2','T3','T4','T5'])
 raw_c_g, worst_c_g, rem_c_g = remove_worst_and_avg(G, ['T6','T7','T8','T9'])
 
 raw_b_p, worst_b_p, rem_b_p = remove_worst_and_avg(P, ['T2','T3','T4','T5'])
-raw_c_p = P['T7'].values  # C-group: only T7 reliable
+raw_c_p, worst_c_p, rem_c_p = remove_worst_and_avg(P, ['T6','T7','T8','T9'])
 
 print(f"\nOutlier removal:")
 print(f"  Gyroid:    B removed {worst_b_g} (kept {rem_b_g}), C removed {worst_c_g} (kept {rem_c_g})")
-print(f"  Primitive: B removed {worst_b_p} (kept {rem_b_p}), C uses only T7")
+print(f"  Primitive: B removed {worst_b_p} (kept {rem_b_p}), C removed {worst_c_p} (kept {rem_c_p})")
 
 # Peak temperatures
 g_idx = G['T1'].idxmax()

@@ -5,7 +5,7 @@ from matplotlib.gridspec import GridSpec
 
 # Load data
 gyroid_file = 'temperature_record_20260731_195755.csv'
-primitive_file = 'temperature_record_20260806_162603.csv'
+primitive_file = 'temperature_record_20260806_214551.csv'
 
 df_g = pd.read_csv(gyroid_file, parse_dates=['时间戳'])
 df_p = pd.read_csv(primitive_file, parse_dates=['时间戳'])
