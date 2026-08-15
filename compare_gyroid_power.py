@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
+plt.rcParams['axes.unicode_minus'] = False
+
 def load(path):
     df = pd.read_csv(path, encoding='utf-8-sig')
     df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']

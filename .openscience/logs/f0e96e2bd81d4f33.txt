@@ -1,4 +1,0 @@
-Saved: thermocouple_layout_3d.png/pdf
-Saved: thermocouple_layout_top.png/pdf
-
-All plots saved.

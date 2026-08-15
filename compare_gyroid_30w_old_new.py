@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
+plt.rcParams['axes.unicode_minus'] = False
+
 # 读取数据
 new_data = pd.read_csv('temperature_record_20260808_203206.csv')
 old_data = pd.read_csv('temperature_record_20260803_171111.csv')

@@ -1,2 +1,0 @@
-13
-['mehrpooya2026phase,tyagi2012phase,mckenna2021thermal', 'sait2022solidification,belusko2018direct', 'bharathiraja2024thermal,bharathiraja2023studies,lin2014thermal', 'sciacovelli2012melting,amin2014effective', 'ghalambaz2020conjugate,parida2020effect,liu2024pore']

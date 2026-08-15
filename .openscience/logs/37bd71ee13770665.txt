@@ -1,8 +1,0 @@
-temperature_record_20260731_195755.csv: 603 rows
-temperature_record_20260802_203604.csv: 604 rows
-temperature_record_20260802_204933.csv: 547 rows
-temperature_record_20260803_171111-1.csv: 436 rows
-temperature_record_20260803_171111.csv: 436 rows
-temperature_record_20260804_163501.csv: 1239 rows
-temperature_record_20260805_200423.csv: 1341 rows
-temperature_record_20260806_162603.csv: 730 rows

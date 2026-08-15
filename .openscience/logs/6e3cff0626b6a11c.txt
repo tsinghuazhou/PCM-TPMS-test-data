@@ -1,5 +1,0 @@
-Columns: ['ʱ���', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9']
-Shape: (723, 10)
-First row T1: 23.53
-Last row T1: 92.4
-Duration: 723 seconds

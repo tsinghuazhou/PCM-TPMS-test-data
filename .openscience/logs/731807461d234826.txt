@@ -1,5 +1,0 @@
-
-Data summary:
-  Gyroid: duration reduction 10W��30W = 19.1��, A-B gradient increase 10W��30W = 2.8��
-  IWP: duration reduction 10W��30W = 30.8��, A-B gradient increase 10W��30W = 2.4��
-  Primitive: duration reduction 10W��30W = 29.2��, A-B gradient increase 10W��30W = 2.2��

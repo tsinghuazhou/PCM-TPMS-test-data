@@ -28,7 +28,7 @@ primitive['A-B'] = primitive['T1'] - primitive['B_avg']
 primitive['A-C'] = primitive['T1'] - primitive['T9']
 
 # IWP 20W
-iwp = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='gbk')
+iwp = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
 iwp.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 iwp = iwp.dropna(subset=['T1']).reset_index(drop=True)
 iwp['elapsed'] = iwp.index.astype(float)

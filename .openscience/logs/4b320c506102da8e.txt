@@ -1,4 +1,0 @@
-Saved: thermocouple_isometric.png/pdf
-Saved: thermocouple_isometric_detailed.png/pdf
-
-All isometric views saved.

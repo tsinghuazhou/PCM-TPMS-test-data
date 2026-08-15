@@ -19,7 +19,7 @@ def load_iwp_10w():
     return iwp
 
 def load_iwp_20w():
-    df = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='gbk')
+    df = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
     df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
     df = df.dropna(subset=['T1']).reset_index(drop=True)
     df['elapsed'] = df.index.astype(float)

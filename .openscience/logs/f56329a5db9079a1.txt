@@ -1,4 +1,0 @@
-  File "<string>", line 10
-    print(f'  T1 peak={df[" T1\].max():.1f}C,
-                          ^
-SyntaxError: unterminated string literal (detected at line 10)

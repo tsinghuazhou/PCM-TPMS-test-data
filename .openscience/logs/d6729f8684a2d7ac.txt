@@ -1,5 +1,0 @@
-Images embedded: 4
-  - media/c4ca788639929cd584de8b7151eec6debf0bc255.png
-  - media/8070058f967ca2ed87e00f4b5ea8c36deac4e444.png
-  - media/059aa68a01c6b6591ae5d9c8add45880a5516a97.png
-  - media/9623baf3bf4803e734f79ec3c23d5304bc2439d0.png

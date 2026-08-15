@@ -1,6 +1,0 @@
-Rows where T1 < 42 after first reaching 42: 0
-Crossings of 52 (up): 1
-Crossings of 52 (down): 0
-T1 monotonically increasing in 42-52 window: True
-T1 values in window (first 5): [42.13, 42.5, 42.79, 43.13, 43.45]
-T1 values in window (last 5): [51.11, 51.33, 51.55, 51.77, 51.98]

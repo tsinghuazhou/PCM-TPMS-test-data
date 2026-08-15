@@ -1,4 +1,0 @@
-  File "<string>", line 8
-    print(f'Duration: {df[" elapsed\].iloc[-1]/60:.2f}
-                          ^
-SyntaxError: unterminated string literal (detected at line 8)

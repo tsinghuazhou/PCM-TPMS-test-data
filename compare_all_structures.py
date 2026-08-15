@@ -88,7 +88,7 @@ primitive_10w = load_csv('temperature_record_20260805_200423.csv')
 
 # 20W数据
 gyroid_20w = load_csv('temperature_record_20260808_190451 (4).csv')
-iwp_20w = load_csv('temperature_record_20260809_201218iwp20w.csv', encoding='gbk')
+iwp_20w = load_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
 iwp_20w['C_avg'] = iwp_20w[['T8','T9']].mean(axis=1)  # 20W使用T8/T9平均
 primitive_20w = load_csv('temperature_record_20260806_214551.csv')
 

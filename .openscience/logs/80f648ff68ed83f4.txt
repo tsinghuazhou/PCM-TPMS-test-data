@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "<string>", line 17, in <module>
-  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\pandas\core\generic.py", line 6206, in __getattr__
-    return object.__getattribute__(self, name)
-T1@idx42=41.98, B=35.86, C=32.55
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-AttributeError: 'DataFrame' object has no attribute 'A'

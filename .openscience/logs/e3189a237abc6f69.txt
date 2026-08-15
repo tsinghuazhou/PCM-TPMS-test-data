@@ -1,2 +1,0 @@
-Old data columns: ['ʱ���', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9']
-First row: ['2026-08-03 17:11:12', np.float64(26.3), np.float64(26.14), np.float64(25.96), np.float64(26.04), np.float64(26.25), np.float64(26.26), np.float64(26.3), np.float64(26.03), np.float64(26.15)]

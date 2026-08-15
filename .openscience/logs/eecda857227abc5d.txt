@@ -1,1 +1,0 @@
-Performance ranking: (2086, 958), mode=RGBA

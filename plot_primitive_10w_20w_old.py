@@ -5,6 +5,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
+plt.rcParams['axes.unicode_minus'] = False
+
 def load(path):
     df = pd.read_csv(path, parse_dates=[0])
     df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
@@ -33,7 +36,7 @@ def apply_ema(values, alpha=0.4):
 # Load data
 G10 = load('temperature_record_20260804_163501.csv')
 G20_old = load('temperature_record_20260803_171111.csv')
-G20_new = load('temperature_record_20260806_162603.csv')
+G20_new = load('deprecated/temperature_record_20260806_162603.csv')
 
 # Process groups
 raw_b_10, _, _ = remove_worst_and_avg(G10, ['T2','T3','T4','T5'])

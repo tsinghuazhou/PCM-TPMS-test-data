@@ -1,5 +1,0 @@
-Loading Primitive 30W: temperature_record_20260807_193935.csv
-  -> 723 rows, 12.4 min
-
-Saved: output/paper/figures/temperature_curves.png
-Saved: output/paper/figures/temperature_curves.pdf

@@ -1,1 +1,0 @@
-saved output/paper/figures/fig_05_setup

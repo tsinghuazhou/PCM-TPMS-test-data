@@ -1,8 +1,0 @@
-Rows: 578, Duration: 9.62 min
-T1 end: 137.4, T9 end: 70.6
-T1=42: A-B=14.7, A-C=17.2
-T1=55: A-B=19.8, A-C=27.2
-A-B expansion: 14.7 -> 19.8 = +34.8%
-Melting duration: 0.40 min
-A-B@42 ratio 30W/10W: 2.4x
-Melting ratio 10W/30W: 30.8x

@@ -108,6 +108,10 @@ pnpm-debug.log*
 tmp/
 .tmp/
 
+# --- Generated app/session logs (corrupted encodings; regenerable) ---
+.openscience/logs/
+output/paper/*.log
+
 # --- Bulk binary media (images / audio / video) ---
 # These arrive in the thousands (a copied image or audio dataset) and each file
 # is usually well under the 20 MB per-file size guard, so that guard can't stop

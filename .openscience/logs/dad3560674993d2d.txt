@@ -1,4 +1,0 @@
-  File "<string>", line 8
-    print(f'Primitive 30W T1����¶�: {df.loc[max_idx, " T1\]:.2f}��C
-                                                   ^
-SyntaxError: unterminated string literal (detected at line 8)

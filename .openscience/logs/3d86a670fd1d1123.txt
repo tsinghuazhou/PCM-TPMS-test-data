@@ -1,4 +1,0 @@
-Saved: gyroid_vs_primitive_20w_analysis.png/pdf
-Saved: gyroid_vs_primitive_20w_temporal.png/pdf
-
-Visualization complete.
