@@ -1,0 +1,135 @@
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 26799 (\N{CJK UNIFIED IDEOGRAPH-68AF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 21464 (\N{CJK UNIFIED IDEOGRAPH-53D8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 31383 (\N{CJK UNIFIED IDEOGRAPH-7A97}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 21475 (\N{CJK UNIFIED IDEOGRAPH-53E3}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 26102 (\N{CJK UNIFIED IDEOGRAPH-65F6}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 38388 (\N{CJK UNIFIED IDEOGRAPH-95F4}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 28201 (\N{CJK UNIFIED IDEOGRAPH-6E29}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 29076 (\N{CJK UNIFIED IDEOGRAPH-7194}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 28857 (\N{CJK UNIFIED IDEOGRAPH-70B9}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 21152 (\N{CJK UNIFIED IDEOGRAPH-52A0}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 28909 (\N{CJK UNIFIED IDEOGRAPH-70ED}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 21151 (\N{CJK UNIFIED IDEOGRAPH-529F}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:139: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 26799 (\N{CJK UNIFIED IDEOGRAPH-68AF}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 21464 (\N{CJK UNIFIED IDEOGRAPH-53D8}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 31383 (\N{CJK UNIFIED IDEOGRAPH-7A97}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 21475 (\N{CJK UNIFIED IDEOGRAPH-53E3}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 28201 (\N{CJK UNIFIED IDEOGRAPH-6E29}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 26102 (\N{CJK UNIFIED IDEOGRAPH-65F6}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 38388 (\N{CJK UNIFIED IDEOGRAPH-95F4}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 29076 (\N{CJK UNIFIED IDEOGRAPH-7194}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 28857 (\N{CJK UNIFIED IDEOGRAPH-70B9}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 21151 (\N{CJK UNIFIED IDEOGRAPH-529F}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 21152 (\N{CJK UNIFIED IDEOGRAPH-52A0}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:140: UserWarning: Glyph 28909 (\N{CJK UNIFIED IDEOGRAPH-70ED}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.png', dpi=300)
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 26799 (\N{CJK UNIFIED IDEOGRAPH-68AF}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 21464 (\N{CJK UNIFIED IDEOGRAPH-53D8}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 31383 (\N{CJK UNIFIED IDEOGRAPH-7A97}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 21475 (\N{CJK UNIFIED IDEOGRAPH-53E3}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 28201 (\N{CJK UNIFIED IDEOGRAPH-6E29}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 26102 (\N{CJK UNIFIED IDEOGRAPH-65F6}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 38388 (\N{CJK UNIFIED IDEOGRAPH-95F4}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 26354 (\N{CJK UNIFIED IDEOGRAPH-66F2}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 29076 (\N{CJK UNIFIED IDEOGRAPH-7194}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 28857 (\N{CJK UNIFIED IDEOGRAPH-70B9}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 21151 (\N{CJK UNIFIED IDEOGRAPH-529F}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 21152 (\N{CJK UNIFIED IDEOGRAPH-52A0}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\compare_gyroid_power.py:141: UserWarning: Glyph 28909 (\N{CJK UNIFIED IDEOGRAPH-70ED}) missing from font(s) DejaVu Sans.
+  plt.savefig('gyroid_power_comparison.pdf')
+================================================================================
+GYROID �����ݶȶԱ� (10W/20W/30W) - 2026-08-08 NEW����
+================================================================================
+
+[1] A-B �ݶ� (T1=42��C, 50��C, 55��C)
+  T1(��C) |      10W |      20W |      30W
+      42 |      4.2 |      8.8 |     12.4
+      50 |      5.2 |     10.4 |     14.4
+      55 |      5.3 |     12.4 |     15.8
+
+[2] A-C �ݶ� (C=T9, T1=42��C, 50��C, 55��C)
+  T1(��C) |      10W |      20W |      30W
+      42 |      8.6 |     12.4 |     15.7
+      50 |     10.4 |     14.5 |     21.6
+      55 |     13.1 |     16.3 |     23.9
+
+[3] ����ʱ�� (T1 in 42-52��C)
+  10W: 11.8 min
+  20W: 2.2 min
+  30W: 0.6 min
+
+[4] ����42��Cʱ��
+     ������ |      10W |      20W |      30W
+      T1 |      3.4 |      1.0 |      0.3
+      T9 |     15.9 |      7.0 |      5.8
+
+[5] C��Ӵ���� (T1=45��Cʱ���T9ƫ��)
+     ������ |      10W |      20W |      30W
+      T6 |    -3.2 |    -3.0 |    -0.2
+      T7 |    -5.2 |    -4.3 |    -0.4
+      T8 |    +0.4 |    -2.4 |    -0.1
+
+[ͼ�ѱ���] gyroid_power_comparison.png/pdf

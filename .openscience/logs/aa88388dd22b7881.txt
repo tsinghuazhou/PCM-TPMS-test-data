@@ -1,0 +1,1 @@
+Power sensitivity: (2085, 1027), mode=RGBA

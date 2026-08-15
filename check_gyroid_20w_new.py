@@ -1,0 +1,30 @@
+import pandas as pd
+df = pd.read_csv('temperature_record_20260808_190451 (4).csv', encoding='utf-8-sig')
+df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
+df['time'] = pd.to_datetime(df['time'])
+df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()
+print(f'Rows: {len(df)}')
+print(f'Duration: {df.elapsed.iloc[-1]/60:.2f} min')
+print(f'Sampling: {df.elapsed.diff().median():.1f} s')
+print(f'Start: {df.time.iloc[0]}')
+print(f'End: {df.time.iloc[-1]}')
+print(f'Final temps: T1={df.T1.iloc[-1]:.1f} T2={df.T2.iloc[-1]:.1f} T9={df.T9.iloc[-1]:.1f}')
+print(f'T1 max: {df.T1.max():.1f}')
+print(f'T1 dT/dt (last 5min): {(df.T1.iloc[-1] - df.T1.iloc[-300]) / 300 * 60:.2f} C/min')
+print()
+print('T1-T9 at start (row 0):')
+print(df[['T1','T2','T3','T4','T5','T6','T7','T8','T9']].iloc[0].to_string())
+print()
+print('T1-T9 at 25min mark:')
+i = (df.elapsed - 1500).abs().idxmin()
+print(df[['T1','T2','T3','T4','T5','T6','T7','T8','T9']].iloc[i].to_string())
+print()
+print('T1-T9 at end:')
+print(df[['T1','T2','T3','T4','T5','T6','T7','T8','T9']].iloc[-1].to_string())
+print()
+# Check for gaps/interruptions
+gaps = df.elapsed.diff()
+big_gaps = gaps[gaps > 10]
+print(f'Gaps > 10s: {len(big_gaps)}')
+if len(big_gaps) > 0:
+    print(big_gaps.describe())

@@ -1,0 +1,4 @@
+  File "<string>", line 10
+    print(f'{r[" elapsed\]/60:.1f}min
+               ^
+SyntaxError: unterminated string literal (detected at line 10)

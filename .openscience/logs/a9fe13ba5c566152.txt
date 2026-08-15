@@ -1,0 +1,77 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+================================================================================
+IWP 10W vs 20W ����ЧӦ�Ա�
+================================================================================
+
+[1] ������Ϣ
+             ָ�� |        10W |        20W |       ����
+        ʱ��(min) |       29.8 |       12.1 |      2.5x
+       T1ĩֵ(��C) |       99.5 |      108.1 |      1.1x
+
+[2] ����42��Cʱ��
+       ������ |        10W |        20W |       ����
+        T1 |        2.5 |        0.8 |      3.1x
+     B_avg |       12.9 |        5.7 |      2.2x
+     C_avg |       16.1 |        6.8 |      2.4x
+
+[3] ����ʱ�� (T1��42-52��C)
+  10W: 12.3 min
+  20W: 0.9 min
+
+[4] A-B�ݶȶԱ�
+  T1(��C) |      10W |      20W |       ����
+      42 |      6.1 |     11.1 |      1.8x
+      45 |      6.7 |     12.0 |      1.8x
+      50 |      7.7 |     13.3 |      1.7x
+      55 |      7.3 |     14.6 |      2.0x
+
+[5] A-C�ݶȶԱ�
+  T1(��C) |      10W |      20W |       ����
+      42 |      9.4 |     13.6 |      1.4x
+      45 |     10.3 |     15.4 |      1.5x
+      50 |     11.8 |     17.8 |      1.5x
+      55 |     14.2 |     18.8 |      1.3x
+
+[6] �ݶ��ȶ��� (42��C��55��C������)
+  10W: 6.1 �� 7.3��C (+19.8%)
+  20W: 11.1 �� 14.6��C (+31.6%)
+
+[�Ա�ͼ�ѱ���] output/paper/figures/iwp_10w_vs_20w_comparison.png/pdf

@@ -1,0 +1,4 @@
+  File "<string>", line 11
+    print(f'  Time range: {df_iwp20[" elapsed_min\].min():.2f}
+                                    ^
+SyntaxError: unterminated string literal (detected at line 11)

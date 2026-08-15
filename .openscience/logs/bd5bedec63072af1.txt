@@ -1,0 +1,15 @@
+Rows: 436
+Duration: 8.50 min
+T1 end: 103.5, T1 max: 115.2
+T9 end: 80.2
+T1 at row -10: 114.4
+T1 at row -50: 104.6
+T1 max row index: 430
+T1 value at max row: 115.2
+T1 last 5 rows:
+         T1
+431  114.07
+432  111.25
+433  108.14
+434  105.51
+435  103.45

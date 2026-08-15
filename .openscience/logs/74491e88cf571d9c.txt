@@ -1,0 +1,50 @@
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 20010 (\N{CJK UNIFIED IDEOGRAPH-4E2A}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 28909 (\N{CJK UNIFIED IDEOGRAPH-70ED}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 30005 (\N{CJK UNIFIED IDEOGRAPH-7535}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 20598 (\N{CJK UNIFIED IDEOGRAPH-5076}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 19977 (\N{CJK UNIFIED IDEOGRAPH-4E09}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 32500 (\N{CJK UNIFIED IDEOGRAPH-7EF4}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 24067 (\N{CJK UNIFIED IDEOGRAPH-5E03}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 25918 (\N{CJK UNIFIED IDEOGRAPH-653E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 20301 (\N{CJK UNIFIED IDEOGRAPH-4F4D}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py:128: UserWarning: Glyph 32622 (\N{CJK UNIFIED IDEOGRAPH-7F6E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+Traceback (most recent call last):
+  File "D:\qqhru.edu.cn\����Rx102������ - General\openscience\PCM������TPMS�����µ�ʵ������о�\plot_thermocouple_layout.py", line 129, in <module>
+    plt.savefig('output/paper/figures/thermocouple_layout_3d.png', dpi=300, bbox_inches='tight')
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\pyplot.py", line 1250, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\figure.py", line 3490, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\backend_bases.py", line 2157, in print_figure
+    self.figure.draw(renderer)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\artist.py", line 94, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\artist.py", line 71, in draw_wrapper
+    return draw(artist, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\figure.py", line 3257, in draw
+    mimage._draw_list_compositing_images(
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\image.py", line 134, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\matplotlib\artist.py", line 71, in draw_wrapper
+    return draw(artist, renderer)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\mpl_toolkits\mplot3d\axes3d.py", line 445, in draw
+    for artist in sorted(collections_and_patches,
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tsing\AppData\Roaming\Python\Python312\site-packages\mpl_toolkits\mplot3d\axes3d.py", line 446, in <lambda>
+    key=lambda artist: artist.do_3d_projection(),
+                       ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Polygon' object has no attribute 'do_3d_projection'

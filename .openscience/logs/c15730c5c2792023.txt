@@ -1,0 +1,22 @@
+Loading Gyroid 10W: temperature_record_20260808_165138gyroid10w.csv
+  -> 1919 rows, 32.5 min
+Loading IWP 10W: temperature_record_20260809_170915 (1).xlsx
+  -> 1721 rows, 29.8 min
+Loading Primitive 10W: temperature_record_20260805_200423.csv
+  -> 1341 rows, 26.9 min
+Loading Gyroid 20W: temperature_record_20260808_190451 (4).csv
+  -> 689 rows, 12.2 min
+Loading IWP 20W: temperature_record_20260809_201218iwp20w.csv
+  -> 725 rows, 12.1 min
+Loading Primitive 20W: temperature_record_20260806_214551.csv
+  -> 702 rows, 11.9 min
+Loading Gyroid 30W: temperature_record_20260808_203206.csv
+  -> 564 rows, 9.4 min
+Loading IWP 30W: temperature_record_20260810_152336iwp30w.csv
+  -> 578 rows, 9.6 min
+Loading Primitive 30W: temperature_record_20260807_193935.csv
+  -> Truncated at T1 max (row 504), keeping 505 rows
+  -> 505 rows, 8.7 min
+
+Saved: output/paper/figures/temperature_curves.png
+Saved: output/paper/figures/temperature_curves.pdf

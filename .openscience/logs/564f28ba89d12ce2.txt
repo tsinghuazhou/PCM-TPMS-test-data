@@ -1,0 +1,13 @@
+Rows: 564
+Duration: 9.38 min
+T1 end: 124.0, T1 max: 127.9
+T9 end: 78.4
+T1 max row index: 560
+T1 value at max row: 127.9
+T1 last 5 rows:
+         T1
+559  127.68
+560  127.87
+561  127.61
+562  126.04
+563  124.00

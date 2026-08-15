@@ -1,0 +1,46 @@
+Gyroid 10W (2026-08-08) analysis
+============================================================
+Rows: 1919, Duration: 32.48 min
+Sampling: 1.0 s
+Gaps >3s: 0, max gap: 2.0 s
+
+Time to reach 42C (min):
+  T1: 3.4
+  T2: 12.8
+  T3: 12.7
+  T4: 12.4
+  T5: 12.4
+  T6: 17.9
+  T7: 21.1
+  T8: 16.1
+  T9: 15.9
+
+Peak temperatures:
+  T1: 106.5 C at 32.5 min
+  T2: 100.1 C at 32.5 min
+  T3: 99.7 C at 32.5 min
+  T4: 99.8 C at 32.5 min
+  T5: 97.7 C at 32.5 min
+  T6: 71.2 C at 31.5 min
+  T7: 60.4 C at 31.8 min
+  T8: 75.1 C at 32.5 min
+  T9: 84.5 C at 32.5 min
+
+At T1 peak (106.5 C, 32.5 min):
+  B avg (removed T5): 99.87 C  | raw: 99.34
+  C avg (removed T7): 76.83 C  | raw: 72.43
+  A-B gradient: 6.65 C
+  A-C gradient: 29.69 C
+  B-C gradient: 23.04 C
+
+Heating rates first 5 min (C/min):
+  T1: 4.02, B: 3.07, C: 2.04
+
+T1-B gap at peak: 6.65 C (contact quality indicator)
+Energy input: 19.49 kJ (10W x 32.5 min)
+
+C group individual temps at T1 peak:
+  T6: 70.89 C
+  T7: 59.24 C
+  T8: 75.12 C
+  T9: 84.48 C

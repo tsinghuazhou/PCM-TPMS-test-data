@@ -1,0 +1,4 @@
+  File "<string>", line 23
+    print(f'  T1��ֵ: {new_df.loc[new_peak_idx, " T1\]:.1f}��C
+                                              ^
+SyntaxError: unterminated string literal (detected at line 23)

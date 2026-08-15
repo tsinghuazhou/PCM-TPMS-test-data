@@ -1,0 +1,15 @@
+Columns: ['ʱ���', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9']
+Shape: (927, 10)
+First 3 rows:
+              ʱ���     T1     T2     T3  ...     T6     T7     T8     T9
+0  2026/8/9 20:12  27.06  27.16  27.25  ...  26.05  26.44  26.44  26.61
+1  2026/8/9 20:12  27.05  27.17  27.23  ...  25.95  26.44  26.51  26.53
+2  2026/8/9 20:12  27.04  27.18  27.23  ...  26.03  26.48  26.45  26.59
+
+[3 rows x 10 columns]
+
+Last 3 rows:
+     ʱ���  T1  T2  T3  T4  T5  T6  T7  T8  T9
+924  NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+925  NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN
+926  NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN

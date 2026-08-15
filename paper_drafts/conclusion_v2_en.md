@@ -1,0 +1,17 @@
+# 6. Conclusions
+
+This study systematically investigated the thermal performance of three TPMS-based lattice structures—Gyroid, IWP (I-Wrapped Package), and Primitive—for PCM thermal management applications under varying power conditions. The experimental results reveal significant differences in thermal behavior, melting characteristics, and operational stability across the three architectures, leading to several key conclusions.
+
+**Gyroid emerges as the optimal overall structure** for PCM thermal management applications. It demonstrates the lowest thermal gradients throughout the heating process and exhibits the least sensitivity to power variations. The Gyroid structure maintains consistent thermal performance across the tested power range, making it the most robust choice for applications where power fluctuations are expected or where operational flexibility is required.
+
+**IWP excels specifically at low-power conditions (10W)**, where it achieves the longest melting duration and superior gradient stability. This makes IWP particularly suitable for precision thermal management applications operating at lower power levels, where extended phase-change duration and thermal uniformity are critical. However, its performance advantage is power-dependent and diminishes at higher power inputs.
+
+**Primitive structure is not recommended** for PCM thermal management applications. It consistently exhibits the largest thermal gradients and poorest stability across all tested conditions. The Primitive architecture's inferior thermal performance suggests that its geometric configuration is less effective at promoting uniform heat distribution and efficient phase-change processes.
+
+**A critical discovery of this study is the power-dependent performance ranking reversal.** At 10W, the melting duration ranking follows IWP > Gyroid > Primitive, with IWP demonstrating superior thermal energy storage capacity. However, this ranking reverses at 20W and 30W conditions, where Gyroid > IWP > Primitive. This reversal highlights a fundamental transition in the thermal behavior of these structures and underscores that no single architecture universally outperforms others across all operating conditions.
+
+**Power selection is therefore crucial** and must be considered in conjunction with structure selection. For IWP-based systems, 10W operation is optimal, while Gyroid-based systems perform best at 20W and above. Notably, 30W proves excessive for all three structures, resulting in melting durations below one minute, which is insufficient for effective thermal energy storage and release.
+
+**Engineering recommendations** derived from these findings are as follows: (1) For applications requiring operation across a wide power range or at higher power levels, Gyroid is the recommended structure due to its robust performance and low thermal gradients. (2) For low-power, high-precision applications where extended melting duration is paramount, IWP is the optimal choice at 10W operation. (3) Primitive should be avoided for PCM thermal management applications due to its consistently poor performance. (4) The recommended operating power range for TPMS-based PCM systems is 10–20W, balancing melting duration and thermal management effectiveness.
+
+These findings provide clear design guidelines for selecting TPMS architectures and operating conditions in PCM-based thermal management systems, enabling optimized performance for specific application requirements.

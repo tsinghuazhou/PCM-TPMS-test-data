@@ -1,0 +1,5 @@
+Saved: primitive_30w_curves.png/pdf
+Saved: primitive_power_comparison.png/pdf
+Saved: primitive_30w_cgroup.png/pdf
+
+All plots saved.

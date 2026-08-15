@@ -1,0 +1,8 @@
+Saved: thermocouple_layout_3d.png/pdf
+Saved: thermocouple_layout_top.png/pdf
+
+All plots saved.
+Saved: thermocouple_isometric.png/pdf
+Saved: thermocouple_isometric_detailed.png/pdf
+
+All isometric views saved.

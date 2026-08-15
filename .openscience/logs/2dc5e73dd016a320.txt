@@ -1,0 +1,78 @@
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+================================================================================
+����TPMS����20W�����ۺ϶Ա�
+================================================================================
+
+[1] ������Ϣ
+             ָ�� |     Gyroid |        IWP |  Primitive
+        ʱ��(min) |       12.2 |       12.1 |       11.9
+       T1ĩֵ(��C) |      103.0 |      108.1 |      115.8
+
+[2] ����42��Cʱ��
+       ������ |     Gyroid |        IWP |  Primitive
+        T1 |        1.0 |        0.8 |        0.5
+        T9 |        7.0 |        6.9 |        7.1
+
+[3] ����ʱ�� (T1��42-52��C)
+  Gyroid: 2.2 min
+  IWP: 0.9 min
+  Primitive: 0.6 min
+
+[4] A-B�ݶȶԱ�
+  T1(��C) |     Gyroid |        IWP |  Primitive
+      42 |        9.1 |       11.1 |       14.0
+      45 |        9.5 |       12.0 |       15.9
+      50 |       10.6 |       13.3 |       18.0
+      55 |       12.7 |       14.6 |       19.4
+
+[5] A-C�ݶȶԱ�
+  T1(��C) |     Gyroid |        IWP |  Primitive
+      42 |       12.4 |       13.6 |       15.3
+      45 |       13.4 |       15.4 |       17.5
+      50 |       14.5 |       17.8 |       20.8
+      55 |       16.3 |       18.8 |       23.3
+
+[6] �ݶ��ȶ��� (42��C��55��C������)
+  Gyroid: 9.1 �� 12.7��C (+39.9%)
+  IWP: 11.1 �� 14.6��C (+31.6%)
+  Primitive: 14.0 �� 19.4��C (+39.3%)
+
+[ͼ���ѱ���] output/paper/figures/tpms_20w_comprehensive_comparison.png/pdf

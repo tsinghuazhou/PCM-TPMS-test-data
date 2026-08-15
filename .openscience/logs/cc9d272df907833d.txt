@@ -1,0 +1,1 @@
+Temperature curves: (2157, 1456), mode=RGBA

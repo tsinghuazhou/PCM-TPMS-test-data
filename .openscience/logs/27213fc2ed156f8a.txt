@@ -1,0 +1,20 @@
+Primitive 30W T1 max temp: 134.16 at row 504
+Total rows: 723
+Rows to keep: 505
+
+Data around max point:
+row 499: T1=133.03
+row 500: T1=133.29
+row 501: T1=133.46
+row 502: T1=133.72
+row 503: T1=133.95
+row 504: T1=134.16
+row 505: T1=133.57
+row 506: T1=131.79
+row 507: T1=129.51
+row 508: T1=127.25
+row 509: T1=125.22
+row 510: T1=123.44
+row 511: T1=121.87
+row 512: T1=120.49
+row 513: T1=119.26

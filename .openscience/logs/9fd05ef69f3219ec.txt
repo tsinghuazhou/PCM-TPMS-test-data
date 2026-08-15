@@ -1,0 +1,54 @@
+============================================================================
+GYROID 20W: NEW vs OLD comparison
+============================================================================
+
+[Data summary]
+NEW: 689 rows, 12.15 min, T1 end=103.0C
+OLD: 603 rows, 11.12 min, T1 end=144.7C
+
+[B group worst removed]
+NEW: T5 (spread at end: 1.5C)
+OLD: T4 (spread at end: 3.9C)
+
+[C group contact check at T1=45C]
+  NEW: T6=-3.0 T7=-4.3 T8=-2.4 (T9 ref=31.6)
+  OLD: T6=+3.1 T7=+3.3 T8=+3.1 (T9 ref=22.4)
+
+[1] A-B gradient vs T1 (melting window)
+  T1 (C) |    NEW A-B |    OLD A-B
+      38 |        8.2 |       14.1
+      40 |        8.7 |       14.1
+      42 |        8.8 |       14.1
+      44 |        9.0 |       19.1
+      46 |        9.5 |       19.1
+      48 |       10.0 |       23.5
+      50 |       10.4 |       23.5
+      52 |       11.2 |       23.5
+      55 |       12.4 |       29.0
+
+[2] A-C gradient (C=T9) vs T1 (melting window)
+  T1 (C) |    NEW A-C |    OLD A-C
+      38 |       10.4 |       18.0
+      40 |       11.6 |       18.0
+      42 |       12.4 |       18.0
+      44 |       13.0 |       22.3
+      46 |       13.7 |       22.3
+      48 |       14.4 |       23.8
+      50 |       14.5 |       23.8
+      52 |       14.8 |       23.8
+      55 |       16.3 |       29.2
+
+[3] Time to 42C (min)
+  sensor |        NEW |        OLD
+      T1 |        1.0 |        0.2
+      T2 |        5.6 |        7.5
+      T3 |        5.4 |        6.8
+      T4 |        4.8 |        5.3
+      T5 |        5.1 |        6.3
+      T9 |        7.0 |        7.0
+
+[4] Melting duration (T1 in 42-52C)
+  NEW: 2.2 min
+  OLD: 0.0 min
+
+Saved: gyroid_20w_new_vs_old.png/pdf
