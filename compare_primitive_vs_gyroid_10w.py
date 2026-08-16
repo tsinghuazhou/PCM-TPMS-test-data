@@ -7,8 +7,8 @@ def load(path):
     df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()
     return df
 
-G = load('temperature_record_20260804_163501.csv')  # Gyroid 10W
-P = load('temperature_record_20260805_200423.csv')  # Primitive 10W
+G = load('tpms_gyroid10w_20260804_163501.csv')  # Gyroid 10W
+P = load('tpms_primitive10w_20260805_200423.csv')  # Primitive 10W
 
 EMA = 0.4
 def ema(s, a=EMA): return s.ewm(alpha=a, adjust=False).mean()

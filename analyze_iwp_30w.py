@@ -10,7 +10,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 读取数据
-df = pd.read_csv('temperature_record_20260810_152336iwp30w.csv', encoding='utf-8-sig')
+df = pd.read_csv('tpms_iwp30w_20260810_152336.csv', encoding='utf-8-sig')
 df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 
 # 清理NaN行

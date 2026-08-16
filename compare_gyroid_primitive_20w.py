@@ -1,7 +1,7 @@
 """
 Gyroid vs Primitive 20W comparison
-Gyroid 20W: temperature_record_20260731_195755.csv (603 rows, 11.12 min)
-Primitive 20W: temperature_record_20260806_214551.csv (702 rows, 11.93 min)
+Gyroid 20W: tpms_gyroid20w_20260731_195755.csv (603 rows, 11.12 min)
+Primitive 20W: tpms_primitive20w_20260806_214551.csv (702 rows, 11.93 min)
 
 Note: Gyroid 20W data has contact issues (T1-B gap 64.8°C), conclusions are for reference only
 """
@@ -30,8 +30,8 @@ def apply_ema(values, alpha=0.4):
         smoothed.append(alpha * values[i] + (1 - alpha) * smoothed[-1])
     return np.array(smoothed)
 
-G = load('temperature_record_20260731_195755.csv')
-P = load('temperature_record_20260806_214551.csv')
+G = load('tpms_gyroid20w_20260731_195755.csv')
+P = load('tpms_primitive20w_20260806_214551.csv')
 
 print("=" * 70)
 print("GYROID vs PRIMITIVE at 20W - Comparative Analysis")

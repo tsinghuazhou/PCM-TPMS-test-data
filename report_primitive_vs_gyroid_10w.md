@@ -4,8 +4,8 @@
 **Structures**: Primitive vs Gyroid TPMS (AlSi10Mg, L-PBF)  
 **Heating Power**: 10W (both)  
 **Data files**: 
-- Gyroid: `temperature_record_20260804_163501.csv` (1239 records, 25.38 min)
-- Primitive: `temperature_record_20260805_200423.csv` (1377 records, 27.55 min)
+- Gyroid: `tpms_gyroid10w_20260804_163501.csv` (1239 records, 25.38 min)
+- Primitive: `tpms_primitive10w_20260805_200423.csv` (1377 records, 27.55 min)
 
 ---
 
@@ -212,7 +212,7 @@ For applications requiring **maximum heat storage capacity**:
 
 - `compare_primitive_vs_gyroid_10w.py` — detailed comparison script
 - `report_primitive_vs_gyroid_10w.md` — this report
-- `stats_primitive_10w_heating.csv` — Primitive sensor statistics
+- `stats_primitive10w_20260805.csv` — Primitive sensor statistics
 - `output/paper/figures/fig_primitive_10w_*.png/pdf` — Primitive temperature curves and summary plots
 
 ---

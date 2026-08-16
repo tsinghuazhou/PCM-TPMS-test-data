@@ -3,7 +3,7 @@
 **Date**: 2026-08-05  
 **Structure**: Primitive TPMS lattice (AlSi10Mg, L-PBF)  
 **Heating Power**: 10W  
-**Data file**: temperature_record_20260805_200423.csv  
+**Data file**: tpms_primitive10w_20260805_200423.csv  
 
 ## Summary
 
@@ -81,6 +81,6 @@ This is consistent with the geometric differences: Gyroid's bicontinuous, zero-m
 
 ## Generated Files
 
-- `stats_primitive_10w_heating.csv` — sensor-level statistics
+- `stats_primitive10w_20260805.csv` — sensor-level statistics
 - `output/paper/figures/fig_primitive_10w_temperature_curves.png/pdf` — temperature curves
 - `output/paper/figures/fig_primitive_10w_summary.png/pdf` — summary comparison plots

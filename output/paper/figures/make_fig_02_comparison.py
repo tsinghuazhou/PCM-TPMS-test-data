@@ -44,9 +44,9 @@ def apply_ema(values, alpha):
 
 base = r'D:\qqhru.edu.cn\日新Rx102科研组 - General\openscience\PCM材料在TPMS晶格下的实验分析研究'
 
-df_10w = load_and_process(f'{base}/temperature_record_20260804_163501.csv')
-df_20w = load_and_process(f'{base}/temperature_record_20260731_195755.csv')
-df_30w = load_and_process(f'{base}/temperature_record_20260803_171111-1.csv')
+df_10w = load_and_process(f'{base}/tpms_gyroid10w_20260804_163501.csv')
+df_20w = load_and_process(f'{base}/tpms_gyroid20w_20260731_195755.csv')
+df_30w = load_and_process(f'{base}/tpms_gyroid30w_20260803_171111-1.csv')
 
 datasets = [('10W', df_10w), ('20W', df_20w), ('30W', df_30w)]
 results = {}

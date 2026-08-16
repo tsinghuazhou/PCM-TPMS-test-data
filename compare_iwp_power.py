@@ -7,7 +7,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 def load_iwp_10w():
-    iwp = pd.read_excel('temperature_record_20260809_170915 (1).xlsx')
+    iwp = pd.read_excel('tpms_iwp10w_20260809_170915.xlsx')
     iwp.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
     iwp['time'] = pd.to_datetime(iwp['time'])
     iwp['elapsed'] = (iwp['time'] - iwp['time'].iloc[0]).dt.total_seconds()
@@ -19,7 +19,7 @@ def load_iwp_10w():
     return iwp
 
 def load_iwp_20w():
-    df = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
+    df = pd.read_csv('tpms_iwp20w_20260809_201218.csv', encoding='utf-8')
     df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
     df = df.dropna(subset=['T1']).reset_index(drop=True)
     df['elapsed'] = df.index.astype(float)
@@ -31,7 +31,7 @@ def load_iwp_20w():
     return df
 
 def load_iwp_30w():
-    df = pd.read_csv('temperature_record_20260810_152336iwp30w.csv', encoding='utf-8-sig')
+    df = pd.read_csv('tpms_iwp30w_20260810_152336.csv', encoding='utf-8-sig')
     df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
     df = df.dropna(subset=['T1']).reset_index(drop=True)
     df['elapsed'] = df.index.astype(float)

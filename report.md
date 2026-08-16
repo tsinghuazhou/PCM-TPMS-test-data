@@ -1,8 +1,8 @@
 # 温度记录数据分析报告
 
 **数据文件**: 
-- 10W: `temperature_record_20260730_193152.xlsx`
-- 20W: `temperature_record_20260731_195755.csv`
+- 10W: `tpms_gyroid10w_20260730_193152.xlsx`
+- 20W: `tpms_gyroid20w_20260731_195755.csv`
 
 **分析日期**: 2026-07-30  
 **分析脚本**: `analyze_temperature.py`
@@ -98,7 +98,7 @@
 | T2-T5 | 46.20 | 14.50 | 25.43 | 80.77 | 25.43 | 80.77 |
 | T6-T9 | 45.45 | 13.53 | 25.49 | 78.72 | 25.49 | 78.72 |
 
-**代码来源**: `temperature_stats.csv` (由 `stats_df.to_csv()` 生成)
+**代码来源**: `stats_gyroid10w_20w.csv` (由 `stats_df.to_csv()` 生成)
 
 ### 3.2 升温行为分析
 
@@ -235,8 +235,8 @@ def apply_ema(values, alpha):
     return smoothed
 
 # 加载数据
-df_10w = load_and_process('temperature_record_20260730_193152.xlsx', is_csv=False)
-df_20w = load_and_process('temperature_record_20260731_195755.csv', is_csv=True)
+df_10w = load_and_process('tpms_gyroid10w_20260730_193152.xlsx', is_csv=False)
+df_20w = load_and_process('tpms_gyroid20w_20260731_195755.csv', is_csv=True)
 
 # 处理各组
 for name, df in [('10W', df_10w), ('20W', df_20w)]:
@@ -253,5 +253,5 @@ for name, df in [('10W', df_10w), ('20W', df_20w)]:
 ```
 
 完整分析代码: `analyze_temperature.py`  
-统计数据: `temperature_stats.csv`  
+统计数据: `stats_gyroid10w_20w.csv`  
 可视化图表: `temperature_analysis.png`, `temperature_comparison.png`

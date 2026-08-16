@@ -77,25 +77,25 @@ print("三种TPMS结构全面对比分析")
 print("=" * 80)
 
 # 10W数据
-gyroid_10w = load_csv('temperature_record_20260808_165138gyroid10w.csv')
-iwp_10w = pd.read_excel('temperature_record_20260809_170915 (1).xlsx')
+gyroid_10w = load_csv('tpms_gyroid10w_20260808_165138.csv')
+iwp_10w = pd.read_excel('tpms_iwp10w_20260809_170915.xlsx')
 iwp_10w.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 iwp_10w['time'] = pd.to_datetime(iwp_10w['time'])
 iwp_10w['elapsed'] = (iwp_10w['time'] - iwp_10w['time'].iloc[0]).dt.total_seconds()
 iwp_10w['elapsed_min'] = iwp_10w['elapsed'] / 60
 iwp_10w['C_avg'] = iwp_10w[['T8','T9']].mean(axis=1)  # 10W使用T8/T9平均
-primitive_10w = load_csv('temperature_record_20260805_200423.csv')
+primitive_10w = load_csv('tpms_primitive10w_20260805_200423.csv')
 
 # 20W数据
-gyroid_20w = load_csv('temperature_record_20260808_190451 (4).csv')
-iwp_20w = load_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
+gyroid_20w = load_csv('tpms_gyroid20w_20260808_190451.csv')
+iwp_20w = load_csv('tpms_iwp20w_20260809_201218.csv', encoding='utf-8')
 iwp_20w['C_avg'] = iwp_20w[['T8','T9']].mean(axis=1)  # 20W使用T8/T9平均
-primitive_20w = load_csv('temperature_record_20260806_214551.csv')
+primitive_20w = load_csv('tpms_primitive20w_20260806_214551.csv')
 
 # 30W数据
-gyroid_30w = load_csv('temperature_record_20260808_203206.csv')
-iwp_30w = load_csv('temperature_record_20260810_152336iwp30w.csv')
-primitive_30w = load_csv('temperature_record_20260807_193935.csv')
+gyroid_30w = load_csv('tpms_gyroid30w_20260808_203206.csv')
+iwp_30w = load_csv('tpms_iwp30w_20260810_152336.csv')
+primitive_30w = load_csv('tpms_primitive30w_20260807_193935.csv')
 
 # 计算所有指标
 results = {}

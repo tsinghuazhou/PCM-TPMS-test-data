@@ -1,5 +1,5 @@
 """Gyroid 30W 新数据完整分析 (2026-08-08)
-数据: temperature_record_20260808_203206.csv
+数据: tpms_gyroid30w_20260808_203206.csv
 统计规则: B组=T2/T3/T5 (去掉T4), C组=T9
 """
 import pandas as pd
@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # 读取数据
-df = pd.read_csv('temperature_record_20260808_203206.csv', encoding='utf-8-sig')
+df = pd.read_csv('tpms_gyroid30w_20260808_203206.csv', encoding='utf-8-sig')
 df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 df['time'] = pd.to_datetime(df['time'])
 df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()

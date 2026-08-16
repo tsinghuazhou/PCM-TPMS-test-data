@@ -7,7 +7,7 @@
 
 ## ⚠️ CRITICAL DATA QUALITY ISSUE
 
-**The Gyroid 20W data (temperature_record_20260731_195755.csv) shows strong evidence of poor heater-sample contact. The "performance reversal" conclusion is likely an experimental artifact and should NOT be used for design decisions until the experiment is repeated with verified contact quality.**
+**The Gyroid 20W data (tpms_gyroid20w_20260731_195755.csv) shows strong evidence of poor heater-sample contact. The "performance reversal" conclusion is likely an experimental artifact and should NOT be used for design decisions until the experiment is repeated with verified contact quality.**
 
 ### Contact Quality Diagnostic
 
@@ -203,6 +203,6 @@ The hypothesis that Gyroid's complex geometry creates thermal bottlenecks at hig
 **Contact diagnostic script**: check_heater_contact.py  
 **Analysis scripts**: compare_gyroid_primitive_20w.py, compare_primitive_10w_20w.py  
 **Data files**: 
-- Gyroid 10W: temperature_record_20260804_163501.csv (✅ valid)
-- Gyroid 20W: temperature_record_20260731_195755.csv (❌ invalid)
-- Primitive 20W: temperature_record_20260806_162603.csv (⚠️ partial)
+- Gyroid 10W: tpms_gyroid10w_20260804_163501.csv (✅ valid)
+- Gyroid 20W: tpms_gyroid20w_20260731_195755.csv (❌ invalid)
+- Primitive 20W: deprecated/tpms_primitive20w_20260806_162603.csv (⚠️ partial)

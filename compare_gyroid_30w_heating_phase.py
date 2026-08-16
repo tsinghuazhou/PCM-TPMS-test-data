@@ -7,8 +7,8 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 读取数据
-new_df = pd.read_csv('temperature_record_20260808_203206.csv', encoding='utf-8-sig')
-old_df = pd.read_csv('temperature_record_20260803_171111.csv', encoding='utf-8-sig')
+new_df = pd.read_csv('tpms_gyroid30w_20260808_203206.csv', encoding='utf-8-sig')
+old_df = pd.read_csv('tpms_gyroid30w_20260803_171111.csv', encoding='utf-8-sig')
 
 new_df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 old_df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']

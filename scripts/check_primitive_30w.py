@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Primitive 30W - 找到最高温度点
-df = pd.read_csv('temperature_record_20260807_193935.csv', encoding='utf-8-sig')
+df = pd.read_csv('tpms_primitive30w_20260807_193935.csv', encoding='utf-8-sig')
 max_idx = df['T1'].idxmax()
 print(f'Primitive 30W T1 max temp: {df.loc[max_idx, "T1"]:.2f} at row {max_idx}')
 print(f'Total rows: {len(df)}')

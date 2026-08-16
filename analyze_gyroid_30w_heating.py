@@ -34,7 +34,7 @@ def apply_ema(values, alpha):
         smoothed.append(alpha * values[i] + (1 - alpha) * smoothed[-1])
     return smoothed
 
-df = load_and_process('temperature_record_20260803_171111-1.csv')
+df = load_and_process('tpms_gyroid30w_20260803_171111-1.csv')
 
 print('=== 数据概览 ===')
 print(f'记录数: {len(df)}')
@@ -100,5 +100,5 @@ plt.savefig('analysis_gyroid_30w_heating.png', dpi=300, bbox_inches='tight')
 print(f'\n图表已保存: analysis_gyroid_30w_heating.png')
 
 stats_df = pd.DataFrame(summary).T
-stats_df.to_csv('stats_gyroid_30w_heating.csv', encoding='utf-8-sig')
-print(f'统计数据已保存: stats_gyroid_30w_heating.csv')
+stats_df.to_csv('stats_gyroid30w_20260803.csv', encoding='utf-8-sig')
+print(f'统计数据已保存: stats_gyroid30w_20260803.csv')

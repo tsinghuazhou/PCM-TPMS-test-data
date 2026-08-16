@@ -11,8 +11,8 @@ def load(path):
     df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()
     return df
 
-G = load('temperature_record_20260804_163501.csv')
-P = load('temperature_record_20260805_200423.csv')
+G = load('tpms_gyroid10w_20260804_163501.csv')
+P = load('tpms_primitive10w_20260805_200423.csv')
 
 EMA = 0.4
 for df in [G, P]:

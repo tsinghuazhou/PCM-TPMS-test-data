@@ -5,8 +5,8 @@
 **结构材料**: AlSi10Mg（L-PBF 增材制造）  
 **填充材料**: 石蜡基 PCM（相变温度 42°C）  
 **数据文件**:
-- Gyroid: `temperature_record_20260804_163501.csv`（1239 条，25.38 min）
-- Primitive: `temperature_record_20260805_200423.csv`（1341 条，26.93 min，已去除电阻脱落降温段）
+- Gyroid: `tpms_gyroid10w_20260804_163501.csv`（1239 条，25.38 min）
+- Primitive: `tpms_primitive10w_20260805_200423.csv`（1341 条，26.93 min，已去除电阻脱落降温段）
 
 ---
 

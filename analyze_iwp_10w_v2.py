@@ -18,7 +18,7 @@ def load_csv(path):
     return df
 
 # IWP
-iwp = pd.read_excel('temperature_record_20260809_170915 (1).xlsx')
+iwp = pd.read_excel('tpms_iwp10w_20260809_170915.xlsx')
 iwp.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 iwp['time'] = pd.to_datetime(iwp['time'])
 iwp['elapsed'] = (iwp['time'] - iwp['time'].iloc[0]).dt.total_seconds()
@@ -31,12 +31,12 @@ iwp['A-B'] = iwp['T1'] - iwp['B_avg']
 iwp['A-C'] = iwp['T1'] - iwp['C_avg']
 
 # Gyroid / Primitive 保持原规则用于对比
-gyroid = load_csv('temperature_record_20260808_165138gyroid10w.csv')
+gyroid = load_csv('tpms_gyroid10w_20260808_165138.csv')
 gyroid['B_avg'] = gyroid[['T2','T3','T5']].mean(axis=1)
 gyroid['A-B'] = gyroid['T1'] - gyroid['B_avg']
 gyroid['A-C'] = gyroid['T1'] - gyroid['T9']
 
-primitive = load_csv('temperature_record_20260805_200423.csv')
+primitive = load_csv('tpms_primitive10w_20260805_200423.csv')
 primitive['B_avg'] = primitive[['T2','T3','T5']].mean(axis=1)
 primitive['A-B'] = primitive['T1'] - primitive['B_avg']
 primitive['A-C'] = primitive['T1'] - primitive['T9']

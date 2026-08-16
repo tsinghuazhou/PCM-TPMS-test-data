@@ -9,7 +9,7 @@ def load(path):
     df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()
     return df
 
-df = load('temperature_record_20260808_203206.csv')
+df = load('tpms_gyroid30w_20260808_203206.csv')
 
 print("=" * 70)
 print("GYROID 30W NEW 数据检查")

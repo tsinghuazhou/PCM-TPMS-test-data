@@ -21,8 +21,8 @@ def remove_worst_and_avg(df, cols):
     rem = df[[c for c in cols if c != worst]].mean(axis=1)
     return raw, worst, rem
 
-new = load('temperature_record_20260808_165138gyroid10w.csv')
-old = load('temperature_record_20260804_163501.csv')
+new = load('tpms_gyroid10w_20260808_165138.csv')
+old = load('tpms_gyroid10w_20260804_163501.csv')
 
 print("=" * 70)
 print("COMPARISON: Gyroid 10W old (08-04) vs new (08-08)")

@@ -4,7 +4,7 @@
 **实验条件**: 30W 恒定加热功率  
 **结构**: Primitive TPMS (AlSi10Mg, L-PBF)  
 **填充材料**: 石蜡基 PCM (相变温度 42°C)  
-**数据文件**: `temperature_record_20260807_193935.csv` (723 行, 12.45 min)
+**数据文件**: `tpms_primitive30w_20260807_193935.csv` (723 行, 12.45 min)
 
 ---
 
@@ -189,5 +189,5 @@ T6 在所有 Primitive 20W/30W 实验中均为离群值：
 ---
 
 **报告生成时间**: 2026-08-07  
-**数据文件**: temperature_record_20260807_193935.csv  
+**数据文件**: tpms_primitive30w_20260807_193935.csv  
 **分析脚本**: analyze_primitive_30w.py

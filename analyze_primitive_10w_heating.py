@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('temperature_record_20260805_200423.csv')
+df = pd.read_csv('tpms_primitive10w_20260805_200423.csv')
 df['时间戳'] = pd.to_datetime(df['时间戳'])
 df['elapsed'] = (df['时间戳'] - df['时间戳'].iloc[0]).dt.total_seconds()
 
@@ -81,5 +81,5 @@ stats_df = pd.DataFrame({
     'peak_time_s': [p['time'] for p in peaks.values()],
     'peak_time_min': [p['time']/60 for p in peaks.values()]
 })
-stats_df.to_csv('stats_primitive_10w_heating.csv', index=False)
-print(f"\nStats saved to stats_primitive_10w_heating.csv")
+stats_df.to_csv('stats_primitive10w_20260805.csv', index=False)
+print(f"\nStats saved to stats_primitive10w_20260805.csv")

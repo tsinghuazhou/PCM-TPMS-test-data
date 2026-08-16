@@ -15,9 +15,9 @@ def b_avg_no_t4(df):
     return df[['T2','T3','T5']].mean(axis=1)
 
 # Load NEW data
-g10 = load('temperature_record_20260808_165138gyroid10w.csv')
-g20 = load('temperature_record_20260808_190451 (4).csv')
-g30 = load('temperature_record_20260808_203206.csv')
+g10 = load('tpms_gyroid10w_20260808_165138.csv')
+g20 = load('tpms_gyroid20w_20260808_190451.csv')
+g30 = load('tpms_gyroid30w_20260808_203206.csv')
 
 b10 = b_avg_no_t4(g10)
 b20 = b_avg_no_t4(g20)

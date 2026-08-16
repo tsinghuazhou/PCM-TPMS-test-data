@@ -19,9 +19,9 @@ def b3_avg(df):
     return df[[c for c in ['T2','T3','T4','T5'] if c != worst]].mean(axis=1), worst
 
 # Load NEW data
-g10 = load('temperature_record_20260808_165138gyroid10w.csv')
-g20 = load('temperature_record_20260808_190451 (4).csv')
-g30 = load('temperature_record_20260808_203206.csv')
+g10 = load('tpms_gyroid10w_20260808_165138.csv')
+g20 = load('tpms_gyroid20w_20260808_190451.csv')
+g30 = load('tpms_gyroid30w_20260808_203206.csv')
 
 b10, _ = b3_avg(g10)
 b20, _ = b3_avg(g20)

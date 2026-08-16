@@ -8,9 +8,9 @@ def load(path):
     return df
 
 # Gyroid 10W vs 20W
-G10 = load('temperature_record_20260804_163501.csv')
-G20 = load('temperature_record_20260731_195755.csv')
-P20 = load('temperature_record_20260806_214551.csv')
+G10 = load('tpms_gyroid10w_20260804_163501.csv')
+G20 = load('tpms_gyroid20w_20260731_195755.csv')
+P20 = load('tpms_primitive20w_20260806_214551.csv')
 
 print('=' * 70)
 print('Heater-Sample Contact Quality Diagnostic')

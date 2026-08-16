@@ -20,9 +20,9 @@ def b3_avg(df):
     worst = np.abs(df[['T2','T3','T4','T5']].subtract(raw, axis=0)).mean(axis=0).idxmax()
     return df[[c for c in ['T2','T3','T4','T5'] if c != worst]].mean(axis=1)
 
-prim = load('temperature_record_20260805_200423.csv')
-gold = load('temperature_record_20260804_163501.csv')
-gnew = load('temperature_record_20260808_165138gyroid10w.csv')
+prim = load('tpms_primitive10w_20260805_200423.csv')
+gold = load('tpms_gyroid10w_20260804_163501.csv')
+gnew = load('tpms_gyroid10w_20260808_165138.csv')
 
 b_prim, b_gold, b_gnew = b3_avg(prim), b3_avg(gold), b3_avg(gnew)
 

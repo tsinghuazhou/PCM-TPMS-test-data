@@ -27,8 +27,8 @@ def apply_ema(values, alpha=0.4):
         smoothed.append(alpha * values[i] + (1 - alpha) * smoothed[-1])
     return np.array(smoothed)
 
-G = load('temperature_record_20260804_163501.csv')
-P = load('temperature_record_20260805_200423.csv')
+G = load('tpms_gyroid10w_20260804_163501.csv')
+P = load('tpms_primitive10w_20260805_200423.csv')
 
 print("=" * 70)
 print("PRIMITIVE vs GYROID at 10W — Corrected Statistical Method")

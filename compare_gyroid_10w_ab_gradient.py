@@ -14,8 +14,8 @@ def b3_avg(df, cols=('T2','T3','T4','T5')):
     worst = np.abs(df[list(cols)].subtract(raw, axis=0)).mean(axis=0).idxmax()
     return df[[c for c in cols if c != worst]].mean(axis=1), worst
 
-old = load('temperature_record_20260804_163501.csv')
-new = load('temperature_record_20260808_165138gyroid10w.csv')
+old = load('tpms_gyroid10w_20260804_163501.csv')
+new = load('tpms_gyroid10w_20260808_165138.csv')
 
 b_old, wo_old = b3_avg(old)
 b_new, wo_new = b3_avg(new)

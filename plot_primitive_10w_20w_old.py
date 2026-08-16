@@ -34,9 +34,9 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 # Load data
-G10 = load('temperature_record_20260804_163501.csv')
-G20_old = load('temperature_record_20260803_171111.csv')
-G20_new = load('deprecated/temperature_record_20260806_162603.csv')
+G10 = load('tpms_gyroid10w_20260804_163501.csv')
+G20_old = load('tpms_gyroid30w_20260803_171111.csv')
+G20_new = load('deprecated/tpms_primitive20w_20260806_162603.csv')
 
 # Process groups
 raw_b_10, _, _ = remove_worst_and_avg(G10, ['T2','T3','T4','T5'])

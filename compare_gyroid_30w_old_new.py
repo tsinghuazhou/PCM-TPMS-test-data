@@ -7,8 +7,8 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 读取数据
-new_data = pd.read_csv('temperature_record_20260808_203206.csv')
-old_data = pd.read_csv('temperature_record_20260803_171111.csv')
+new_data = pd.read_csv('tpms_gyroid30w_20260808_203206.csv')
+old_data = pd.read_csv('tpms_gyroid30w_20260803_171111.csv')
 
 # 处理时间列（旧数据列名可能是中文"时间"）
 if 'time' in new_data.columns:
@@ -30,12 +30,12 @@ old_data['elapsed_min'] = (old_data['time'] - old_data['time'].iloc[0]).dt.total
 print("=" * 80)
 print("新旧30W Gyroid数据对比")
 print("=" * 80)
-print(f"\n旧数据: temperature_record_20260803_171111.csv")
+print(f"\n旧数据: tpms_gyroid30w_20260803_171111.csv")
 print(f"  时间范围: {old_data['time'].iloc[0]} 到 {old_data['time'].iloc[-1]}")
 print(f"  总时长: {old_data['elapsed_min'].iloc[-1]:.2f} 分钟")
 print(f"  数据点数: {len(old_data)}")
 
-print(f"\n新数据: temperature_record_20260808_203206.csv")
+print(f"\n新数据: tpms_gyroid30w_20260808_203206.csv")
 print(f"  时间范围: {new_data['time'].iloc[0]} 到 {new_data['time'].iloc[-1]}")
 print(f"  总时长: {new_data['elapsed_min'].iloc[-1]:.2f} 分钟")
 print(f"  数据点数: {len(new_data)}")

@@ -6,9 +6,9 @@
 
 | 数据集 | 文件 | 说明 |
 |---|---|---|
-| Primitive 10W | `temperature_record_20260805_200423.csv`（截断后1341行/26.9min） | C组接触良好 |
-| Gyroid 10W OLD | `temperature_record_20260804_163501.csv`（1239行/25.4min） | C组仅T6离群(-5.4°C) |
-| Gyroid 10W NEW | `temperature_record_20260808_165138gyroid10w.csv`（1919行/32.5min） | C组仅T7离群(-5.2°C)，T6/T8/T9正常 |
+| Primitive 10W | `tpms_primitive10w_20260805_200423.csv`（截断后1341行/26.9min） | C组接触良好 |
+| Gyroid 10W OLD | `tpms_gyroid10w_20260804_163501.csv`（1239行/25.4min） | C组仅T6离群(-5.4°C) |
+| Gyroid 10W NEW | `tpms_gyroid10w_20260808_165138.csv`（1919行/32.5min） | C组仅T7离群(-5.2°C)，T6/T8/T9正常 |
 
 - **B组**：T2-T5 去最大偏差1个，取3个平均（两次Gyroid B组spread均<1.2°C）
 - **C组**：**仅本数据（08-08）取 T9**（接触最好、可对比的传感器）；经 [7] 接触检查，Primitive 的 T6/T7/T8 相对 T9 偏差仅 -1.4~+0.3°C（接触良好），Gyroid 两次各仅1个离群（-5°C 级），用 T9 做统一参照合理。**注：C=T9 仅用于今天的数据，不作为通用规则**

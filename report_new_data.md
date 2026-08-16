@@ -1,6 +1,6 @@
 # 温度记录数据分析报告
 
-**数据文件**: `temperature_record_20260802_203604.csv`  
+**数据文件**: `tpms_gyroid20w_20260802_203604.csv`  
 **分析日期**: 2026-08-02  
 **分析脚本**: `analyze_new_data.py`  
 **实验条件**: 20W加热功率下的gyroid晶格测温实验（升温阶段）
@@ -67,7 +67,7 @@
 | T2-T5 | 59.55 | 18.23 | 28.46 | 90.63 | 28.46 | 90.63 |
 | T6-T9 | 53.12 | 14.87 | 28.10 | 78.13 | 28.10 | 78.13 |
 
-**代码来源**: `stats_new_data.csv` (由 `stats_df.to_csv()` 生成)
+**代码来源**: `stats_gyroid20w_20260802_heating.csv` (由 `stats_df.to_csv()` 生成)
 
 ### 3.2 升温行为分析
 
@@ -130,7 +130,7 @@ import numpy as np
 
 EMA_ALPHA = 0.4
 
-df = pd.read_csv('temperature_record_20260802_203604.csv', parse_dates=[0])
+df = pd.read_csv('tpms_gyroid20w_20260802_203604.csv', parse_dates=[0])
 df.columns = ['时间', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9']
 
 print(f"T1 最终温度: {df['T1'].iloc[-1]:.2f}°C")  # 103.91°C
@@ -165,5 +165,5 @@ print(f"T6-T9: 去掉 {worst_c}, 使用 {remaining_c}, 最终均值: {smooth_c[-
 ```
 
 完整分析代码: `analyze_new_data.py`  
-统计数据: `stats_new_data.csv`  
+统计数据: `stats_gyroid20w_20260802_heating.csv`  
 可视化图表: `analysis_new_data.png`

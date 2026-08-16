@@ -60,8 +60,8 @@ def process_dataset(df):
     }
     return ga, gb, gc, worst_b, remaining_b, worst_c, remaining_c, summary
 
-df_10w = load_and_process('temperature_record_20260730_193152.xlsx', is_csv=False)
-df_20w = load_and_process('temperature_record_20260731_195755.csv', is_csv=True)
+df_10w = load_and_process('tpms_gyroid10w_20260730_193152.xlsx', is_csv=False)
+df_20w = load_and_process('tpms_gyroid20w_20260731_195755.csv', is_csv=True)
 
 ga_10, gb_10, gc_10, worst_b_10, remaining_b_10, worst_c_10, remaining_c_10, sum_10 = process_dataset(df_10w)
 ga_20, gb_20, gc_20, worst_b_20, remaining_b_20, worst_c_20, remaining_c_20, sum_20 = process_dataset(df_20w)
@@ -150,8 +150,8 @@ for power, s in [('10W', sum_10), ('20W', sum_20)]:
     for g in groups:
         all_stats.append({'功率': power, '组别': g, **s[g]})
 stats_df = pd.DataFrame(all_stats)
-stats_df.to_csv('temperature_stats.csv', encoding='utf-8-sig', index=False)
-print('\n统计数据已保存: temperature_stats.csv')
+stats_df.to_csv('stats_gyroid10w_20w.csv', encoding='utf-8-sig', index=False)
+print('\n统计数据已保存: stats_gyroid10w_20w.csv')
 
 print('\n=== 10W 分组统计 ===')
 for g in groups:

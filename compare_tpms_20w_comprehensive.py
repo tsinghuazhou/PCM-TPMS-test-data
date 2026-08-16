@@ -16,19 +16,19 @@ def load_csv(path):
 
 # 加载数据
 # Gyroid 20W
-gyroid = load_csv('temperature_record_20260808_190451 (4).csv')
+gyroid = load_csv('tpms_gyroid20w_20260808_190451.csv')
 gyroid['B_avg'] = gyroid[['T2','T3','T5']].mean(axis=1)
 gyroid['A-B'] = gyroid['T1'] - gyroid['B_avg']
 gyroid['A-C'] = gyroid['T1'] - gyroid['T9']
 
 # Primitive 20W
-primitive = load_csv('temperature_record_20260806_214551.csv')
+primitive = load_csv('tpms_primitive20w_20260806_214551.csv')
 primitive['B_avg'] = primitive[['T2','T3','T5']].mean(axis=1)
 primitive['A-B'] = primitive['T1'] - primitive['B_avg']
 primitive['A-C'] = primitive['T1'] - primitive['T9']
 
 # IWP 20W
-iwp = pd.read_csv('temperature_record_20260809_201218iwp20w.csv', encoding='utf-8')
+iwp = pd.read_csv('tpms_iwp20w_20260809_201218.csv', encoding='utf-8')
 iwp.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 iwp = iwp.dropna(subset=['T1']).reset_index(drop=True)
 iwp['elapsed'] = iwp.index.astype(float)

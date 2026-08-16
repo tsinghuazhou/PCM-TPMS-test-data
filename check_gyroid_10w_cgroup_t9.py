@@ -9,8 +9,8 @@ def load(path):
     df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()
     return df
 
-new = load('temperature_record_20260808_165138gyroid10w.csv')
-old = load('temperature_record_20260804_163501.csv')
+new = load('tpms_gyroid10w_20260808_165138.csv')
+old = load('tpms_gyroid10w_20260804_163501.csv')
 
 print("=" * 72)
 print("C GROUP CONTACT ASSESSMENT - all 4 sensors shown (old vs new)")

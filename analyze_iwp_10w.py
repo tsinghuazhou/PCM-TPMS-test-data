@@ -7,7 +7,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
 # 读取数据
-df = pd.read_excel('temperature_record_20260809_170915 (1).xlsx')
+df = pd.read_excel('tpms_iwp10w_20260809_170915.xlsx')
 df.columns = ['time','T1','T2','T3','T4','T5','T6','T7','T8','T9']
 df['time'] = pd.to_datetime(df['time'])
 df['elapsed'] = (df['time'] - df['time'].iloc[0]).dt.total_seconds()

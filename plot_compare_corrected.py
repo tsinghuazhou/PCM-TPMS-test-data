@@ -24,8 +24,8 @@ def remove_worst_and_avg(df, cols):
     raw_means = np.mean(np.delete(g, worst_idx, axis=1), axis=1)
     return raw_means, worst, remaining
 
-G = load('temperature_record_20260804_163501.csv')
-P = load('temperature_record_20260805_200423.csv')
+G = load('tpms_gyroid10w_20260804_163501.csv')
+P = load('tpms_primitive10w_20260805_200423.csv')
 
 EMA = 0.4
 for df in [G, P]:

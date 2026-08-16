@@ -5,7 +5,7 @@ import numpy as np
 plt.rcParams['font.family'] = 'DejaVu Sans'
 plt.rcParams['font.size'] = 10
 
-df = pd.read_csv('temperature_record_20260805_200423.csv')
+df = pd.read_csv('tpms_primitive10w_20260805_200423.csv')
 df['时间戳'] = pd.to_datetime(df['时间戳'])
 df['elapsed_min'] = (df['时间戳'] - df['时间戳'].iloc[0]).dt.total_seconds() / 60
 

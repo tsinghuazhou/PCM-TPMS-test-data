@@ -27,9 +27,9 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 # Load data
-P30 = load('temperature_record_20260807_193935.csv')
-P20 = load('temperature_record_20260806_214551.csv')  # Run 2
-P10 = load('temperature_record_20260805_200423.csv')
+P30 = load('tpms_primitive30w_20260807_193935.csv')
+P20 = load('tpms_primitive20w_20260806_214551.csv')  # Run 2
+P10 = load('tpms_primitive10w_20260805_200423.csv')
 
 print("=" * 70)
 print("Primitive 30W Analysis (2026-08-07)")

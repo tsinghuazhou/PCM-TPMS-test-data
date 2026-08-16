@@ -31,7 +31,7 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 # Load new Gyroid 20W data
-G20 = load('temperature_record_20260806_162603.csv')
+G20 = load('deprecated/tpms_primitive20w_20260806_162603.csv')
 
 print("=" * 70)
 print("GYROID 20W 新数据分析（2026-08-06）")

@@ -10,9 +10,9 @@ def load(path):
     return df
 
 datasets = {
-    'Gyroid 10W': 'temperature_record_20260808_165138gyroid10w.csv',
-    'Gyroid 20W': 'temperature_record_20260808_190451 (4).csv',
-    'Gyroid 30W': 'temperature_record_20260808_203206.csv',
+    'Gyroid 10W': 'tpms_gyroid10w_20260808_165138.csv',
+    'Gyroid 20W': 'tpms_gyroid20w_20260808_190451.csv',
+    'Gyroid 30W': 'tpms_gyroid30w_20260808_203206.csv',
 }
 
 print("T4 vs T2/T3/T5 对比 (到达42°C时间 & T1=45°C温度)")

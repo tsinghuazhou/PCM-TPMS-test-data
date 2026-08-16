@@ -33,9 +33,9 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 # Load data
-G10 = load('temperature_record_20260804_163501.csv')
-G20_old = load('temperature_record_20260803_171111.csv')
-G20_new = load('temperature_record_20260806_162603.csv')
+G10 = load('tpms_gyroid10w_20260804_163501.csv')
+G20_old = load('tpms_gyroid30w_20260803_171111.csv')
+G20_new = load('deprecated/tpms_primitive20w_20260806_162603.csv')
 
 print("=" * 80)
 print("GYROID 10W vs 20W 综合对比")

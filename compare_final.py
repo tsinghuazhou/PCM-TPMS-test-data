@@ -36,8 +36,8 @@ def apply_ema(values, alpha=0.4):
     return np.array(smoothed)
 
 # Load data
-G = load('temperature_record_20260804_163501.csv')
-P = load('temperature_record_20260805_200423.csv')
+G = load('tpms_gyroid10w_20260804_163501.csv')
+P = load('tpms_primitive10w_20260805_200423.csv')
 
 print("=" * 70)
 print("PRIMITIVE vs GYROID at 10W — Comprehensive Comparison")

@@ -4,7 +4,7 @@
 **实验条件**: 20W 恒定加热功率  
 **结构**: Primitive TPMS (AlSi10Mg, L-PBF)  
 **填充材料**: 石蜡基 PCM (相变温度 42°C)  
-**数据文件**: `temperature_record_20260806_214551.csv` (702 行, 11.93 min)
+**数据文件**: `tpms_primitive20w_20260806_214551.csv` (702 行, 11.93 min)
 
 ---
 
@@ -143,5 +143,5 @@
 ---
 
 **报告生成时间**: 2026-08-06 (最终版)  
-**数据文件**: temperature_record_20260806_214551.csv  
-**废弃数据**: deprecated/temperature_record_20260806_162603.csv (Run 1, 已被 Run 2 替代)
+**数据文件**: tpms_primitive20w_20260806_214551.csv  
+**废弃数据**: deprecated/tpms_primitive20w_20260806_162603.csv (Run 1, 已被 Run 2 替代)

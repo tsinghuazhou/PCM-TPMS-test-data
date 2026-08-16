@@ -1,8 +1,8 @@
 """
 Primitive 10W vs 20W 综合对比
 
-Primitive 10W: temperature_record_20260805_200423.csv (1341 rows, 26.93 min)
-Primitive 20W: temperature_record_20260806_214551.csv (702 rows, 11.93 min, C组T7/T8/T9)
+Primitive 10W: tpms_primitive10w_20260805_200423.csv (1341 rows, 26.93 min)
+Primitive 20W: tpms_primitive20w_20260806_214551.csv (702 rows, 11.93 min, C组T7/T8/T9)
 """
 import pandas as pd
 import numpy as np
@@ -32,8 +32,8 @@ def apply_ema(values, alpha=0.4):
         smoothed.append(alpha * values[i] + (1 - alpha) * smoothed[-1])
     return np.array(smoothed)
 
-P10 = load('temperature_record_20260805_200423.csv')
-P20 = load('temperature_record_20260806_214551.csv')
+P10 = load('tpms_primitive10w_20260805_200423.csv')
+P20 = load('tpms_primitive20w_20260806_214551.csv')
 
 print("=" * 70)
 print("PRIMITIVE 10W vs 20W 综合对比")
